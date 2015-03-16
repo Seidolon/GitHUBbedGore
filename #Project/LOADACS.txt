@@ -1,0 +1,18 @@
+maxdqtlt //yeah, Nash + MaxED supafucking roll stuff!
+ral22sfx
+goreasfx
+goreclas
+gorecoil
+gorepkup
+gorefals
+
+///////////////////////////////////////
+//A brief legenda for builders:      //
+//goreasfx uses many named scripts   //
+//ral22sfx at 220 for now            //
+//script_strafetilt for supafucking  //
+//script 120 for pickups (26 casings)//
+//script 900 - 907 + 999 for classes //
+//script 905 for recoils (2 casings) //
+//script 998 for special waterfall   //
+///////////////////////////////////////

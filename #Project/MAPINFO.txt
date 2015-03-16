@@ -1,0 +1,306 @@
+clearepisodes
+
+gameinfo
+{
+borderflat = "wblood1"
+pickupcolor = "9E 9E FF"
+playerclasses = "Skrylax","Kragoth","Visor"
+}
+
+episode MAP00
+{
+name = "Venture"
+noskillmenu
+}
+
+defaultmap
+{
+allowcrouch
+allowjump
+allowfreelook
+checkswitchrange
+evenlighting
+fallingdamage
+grinding_polyobj
+monsterfallingdamage
+nointermission
+smoothlighting
+teamplayoff
+useplayerstartz
+horizwallshade = 8
+vertwallshade = 1
+//pixelratio = 1.0
+}
+
+map TITLEMAP "Intro"
+{
+music = "TENEBRAE"
+sky1 = "DPSKY8"//, 0.03
+}
+
+map MAP00 "The Abandoned City"
+{
+noautosavehint
+noinventorybar
+music = "T_THE_DA"
+next = "MAP01"
+}
+
+map MAP01 "The Grisly Cavern"
+{
+levelnum = 1
+keepfullinventory
+music = "T_DEAD"
+next = "MAP02"
+}
+
+map MAP02 "Ruthless Mines"
+{
+levelnum = 2
+keepfullinventory
+sky1 = "Q4SKY6"//, 0.03
+music = "H_E2M8"
+next = "MAP03"
+}
+
+map MAP03 "Sunken Hopes"
+{
+levelnum = 3
+keepfullinventory
+sky1 = "Q4SKY3" //, 0.03
+music = "X_OCTOR"
+next = "MAP04"
+}
+
+map MAP04 "Watery Grave"
+{
+levelnum = 4
+keepfullinventory
+sky1 = "Q4SKY3" //, 0.03
+music = "H_E2M4"
+next = "MAP05"
+}
+
+map MAP05 "Mountains Of Deceit (Part One)"
+{
+levelnum = 5
+keepfullinventory
+sky1 = "Q4SKY6"//, 0.03
+music = "H_E1M2"
+next = "MAP06"
+cluster = 1
+}
+
+map MAP06 "Mountains Of Deceit (Part Two)"
+{
+levelnum = 6
+keepfullinventory
+sky1 = "Q4SKY6"//, 0.03
+music = "H_E1M2"
+next = "MAP07"
+cluster = 1
+}
+
+map MAP07 "The Frozen Top"
+{
+levelnum = 7
+keepfullinventory
+sky1 = "Q4SKY6"//, 0.03
+music = "X_FANTAR"
+next = "MAP08"
+cluster = 2
+}
+
+map MAP08 "Snow-Covered Hate"
+{
+levelnum = 8
+keepfullinventory
+sky1 = "Q4SKY6"//, 0.03
+music = "X_CHAP1R"
+next = "MAP09"
+}
+
+map MAP09 "The Forsaken Marsh"
+{
+levelnum = 9
+keepfullinventory
+sky1 = "Q4SKY6"//, 0.03
+music = "H_E1M4"
+next = "MAP10"
+}
+
+map MAP10 "Bayou"
+{
+levelnum = 10
+keepfullinventory
+sky1 = "Q4SKY6"//, 0.03
+music = "E_DOOM"
+next = "MAP11"
+}
+
+map MAP11 "Mechanical Labyrinth"
+{
+levelnum = 11
+keepfullinventory
+sky1 = "Q4SKY6"//, 0.03
+music = "H_E1M7"
+next = "MAP12"
+}
+
+map MAP12 "Pathway To Hell"
+{
+levelnum = 12
+keepfullinventory
+sky1 = "Q4SKY6"//, 0.03
+music = "BLASPH1"
+next = "MAP13"
+cluster = 3
+}
+
+map MAP13 "Inside The Evil"
+{
+levelnum = 13
+keepfullinventory
+sky1 = "Q4SKY6"//, 0.03
+music = "X_CHAP2R"
+next = "MAP14"
+}
+
+map MAP14 "The Crowded Caldera"
+{
+levelnum = 14
+keepfullinventory
+sky1 = "Q4SKY6"//, 0.03
+music = "E_STLKS2"
+next = "MAP15"
+}
+
+map MAP15 "Incubation"
+{
+levelnum = 15
+keepfullinventory
+sky1 = "Q4SKY6"//, 0.03
+music = "H_E1M9"
+next = "MAP16"
+}
+
+map MAP16 "Oniric Paranoia"
+{
+levelnum = 16
+keepfullinventory
+sky1 = "Q4SKY6"//, 0.03
+music = "BLASPH2"
+next = "MAP17"
+}
+
+map MAP17 "Brain Dismemberment"
+{
+levelnum = 17
+keepfullinventory
+sky1 = "Q4SKY6"//, 0.03
+music = "E_STALKS"
+next = "MAP18"
+}
+
+map MAP18 "Confrontation"
+{
+levelnum = 18
+keepfullinventory
+sky1 = "Q4SKY6"//, 0.03
+music = "D_SHAWN"
+secretnext = "MAP33"
+next = "ENDMAP"
+cluster = 4
+}
+
+map ENDMAP "The End?"
+{
+levelnum = 19
+noautosavehint
+noinventorybar
+sky1 = "Q4SKY2"//, 0.05
+music = "EISEN"
+}
+
+map MAP99 "Test Map"
+{
+levelnum = 666
+music = "T_THE_DA"
+sky1 = "Q4SKY3"//, 0.01
+UnFreezeSinglePlayerConversations
+}
+
+cluster 1
+{
+hub
+}
+
+cluster 2
+{
+entertext = lookup, "ENDACT1"
+music = "D_READ_M"
+flat = "Q4TX1011"
+}
+
+cluster 3
+{
+exittext = lookup, "ENDACT2"
+music = "D_READ_M"
+flat = "Q4TX1011"
+}
+
+cluster 4
+{
+exittext = lookup, "ENDACT3"
+music = "D_READ_M"
+flat = "Q4TX1011"
+}
+
+//new skills
+clearskills
+
+skill merciful
+{
+	ACSReturn = 1
+	Aggressiveness = 0.0
+	AmmoFactor = 2
+	AutoUseHealth
+	DamageFactor = 0.5
+	EasyBossBrain
+	SpawnFilter = Baby
+}
+
+skill simple
+{
+	ACSReturn = 2
+	Aggressiveness = 0.1
+	EasyBossBrain
+	SpawnFilter = Easy
+}
+
+skill normal
+{
+	ACSReturn = 3
+	Aggressiveness = 0.3
+	DefaultSkill
+	SpawnFilter = Normal
+}
+
+skill bloody
+{
+	ACSReturn = 4
+	Aggressiveness = 0.6
+	DisableCheats
+	SpawnFilter = Hard
+}
+
+skill unmerciful
+{
+	ACSReturn = 5
+	Aggressiveness = 1.0
+	AmmoFactor = 2
+	DisableCheats
+	FastMonsters
+	RespawnTime = 12
+	SpawnFilter = Nightmare
+}
