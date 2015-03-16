@@ -1,0 +1,2317 @@
+Log started: Sat Feb 14 19:59:44 2015
+
+1385 actors total parsed
+Actor	Ed Num	SpawnID	Filter	Source
+PistolSmokeSpawner	-1	0	0:All	:actors/misc/enhweaps.txt
+PistolSmoke	-1	0	0:All	:actors/misc/enhweaps.txt
+ShotSmokeSpawner	-1	0	0:All	:actors/misc/enhweaps.txt
+ShotSmoke	-1	0	0:All	:actors/misc/enhweaps.txt
+ChainSmokeSpawner	-1	0	0:All	:actors/misc/enhweaps.txt
+ChainSmoke	-1	0	0:All	:actors/misc/enhweaps.txt
+NewChaingun	-1	0	0:All	:actors/misc/enhweaps.txt
+NewPuff	-1	0	0:All	:actors/misc/enhweaps.txt
+Puff2	-1	0	0:All	:actors/misc/enhweaps.txt
+NewPistol	-1	0	0:All	:actors/misc/enhweaps.txt
+PisCaseSpawn	-1	0	0:All	:actors/misc/enhweaps.txt
+PistolCasing	-1	0	0:All	:actors/misc/enhweaps.txt
+NewShotgun	-1	0	0:All	:actors/misc/enhweaps.txt
+NewSuperShotgun	-1	0	0:All	:actors/misc/enhweaps.txt
+ShotCaseSpawn	-1	0	0:All	:actors/misc/enhweaps.txt
+SShotCaseSpawn	-1	0	0:All	:actors/misc/enhweaps.txt
+ShotgunCasing	-1	0	0:All	:actors/misc/enhweaps.txt
+BlackTorchCheck	20023	0	0:All	:actors/misc/checkers.txt
+BurningCorpse1Checker	32116	0	0:All	:actors/misc/checkers.txt
+BurningCorpse2Checker	32117	0	0:All	:actors/misc/checkers.txt
+FlashBeam	-1	0	0:All	:actors/misc/miscgore.txt
+FlashClose	-1	0	0:All	:actors/misc/miscgore.txt
+Gore_DemonArm	-1	0	1:Doom	:actors/misc/miscgore.txt
+Gore_SpectreArm	-1	0	0:All	:actors/misc/miscgore.txt
+Gore_NDemonArm	-1	0	1:Doom	:actors/misc/miscgore.txt
+Gore_PDemonArm	-1	0	1:Doom	:actors/misc/miscgore.txt
+BobFloatingSkull	-1	153	0:All	:actors/misc/miscgore.txt
+BobSoulSphere	-1	0	0:All	:actors/misc/miscgore.txt
+BobMegaSphere	-1	0	0:All	:actors/misc/miscgore.txt
+BobBlurSphere	-1	0	0:All	:actors/misc/miscgore.txt
+BobInvulnerabilitySphere	-1	0	0:All	:actors/misc/miscgore.txt
+NashGore_Blood	-1	0	1:Doom	:actors/misc/nashblod.txt
+NashGore_FlyingBlood	-1	0	1:Doom	:actors/misc/nashblod.txt
+NashGore_BloodSpot	-1	0	1:Doom	:actors/misc/nashblod.txt
+NashGore_FlyingBloodTrail	-1	0	1:Doom	:actors/misc/nashblod.txt
+NashGore_CrushedSmall	-1	0	1:Doom	:actors/misc/nashbody.txt
+NashGore_CrushedMedium	-1	0	1:Doom	:actors/misc/nashbody.txt
+NashGore_CrushedLarge	-1	0	1:Doom	:actors/misc/nashbody.txt
+NashGore_BloodyTwitch	-1	0	0:All	:actors/misc/nashbody.txt
+NashGore_Meat2	-1	0	0:All	:actors/misc/nashbody.txt
+NashGore_Meat3	-1	0	0:All	:actors/misc/nashbody.txt
+NashGore_Meat4	-1	0	0:All	:actors/misc/nashbody.txt
+NashGore_Meat5	-1	0	0:All	:actors/misc/nashbody.txt
+NashGore_NonsolidMeat2	-1	0	0:All	:actors/misc/nashbody.txt
+NashGore_NonsolidMeat3	-1	0	0:All	:actors/misc/nashbody.txt
+NashGore_NonsolidMeat4	-1	0	0:All	:actors/misc/nashbody.txt
+NashGore_NonsolidMeat5	-1	0	0:All	:actors/misc/nashbody.txt
+NashGore_NonsolidTwitch	-1	0	0:All	:actors/misc/nashbody.txt
+NashGore_DeadStick	-1	0	0:All	:actors/misc/nashbody.txt
+NashGore_LiveStick	-1	0	0:All	:actors/misc/nashbody.txt
+NashGore_HangNoGuts	-1	0	0:All	:actors/misc/nashbody.txt
+NashGore_HangBNoBrain	-1	0	0:All	:actors/misc/nashbody.txt
+NashGore_HangTLookingDown	-1	0	0:All	:actors/misc/nashbody.txt
+NashGore_HangTLookingUp	-1	0	0:All	:actors/misc/nashbody.txt
+NashGore_HangTSkull	-1	0	0:All	:actors/misc/nashbody.txt
+NashGore_HangTNoBrain	-1	0	0:All	:actors/misc/nashbody.txt
+NashGore_ZombieMan	-1	0	0:All	:actors/misc/nashdoom.txt
+NashGore_ShotgunGuy	-1	0	0:All	:actors/misc/nashdoom.txt
+NashGore_ChaingunGuy	-1	0	0:All	:actors/misc/nashdoom.txt
+NashGore_DoomImp	-1	0	0:All	:actors/misc/nashdoom.txt
+NashGore_Demon	-1	0	0:All	:actors/misc/nashdoom.txt
+NashGore_Spectre	-1	0	0:All	:actors/misc/nashdoom.txt
+NashGore_Cacodemon	-1	0	0:All	:actors/misc/nashdoom.txt
+NashGore_HellKnight	-1	0	0:All	:actors/misc/nashdoom.txt
+NashGore_BaronOfHell	-1	0	0:All	:actors/misc/nashdoom.txt
+NashGore_Arachnotron	-1	0	0:All	:actors/misc/nashdoom.txt
+NashGore_Archvile	-1	0	0:All	:actors/misc/nashdoom.txt
+NashGore_LostSoul	-1	0	0:All	:actors/misc/nashdoom.txt
+NashGore_SpiderMasterMind	-1	0	0:All	:actors/misc/nashdoom.txt
+NashGore_PainElemental	-1	0	0:All	:actors/misc/nashdoom.txt
+NashGore_Revenant	-1	0	0:All	:actors/misc/nashdoom.txt
+NashGore_Fatso	-1	0	0:All	:actors/misc/nashdoom.txt
+NashGore_Cyberdemon	-1	0	0:All	:actors/misc/nashdoom.txt
+NashGore_WolfensteinSS	-1	0	0:All	:actors/misc/nashdoom.txt
+NashGore_StealthArachnotron	-1	0	0:All	:actors/misc/nashdoom.txt
+NashGore_StealthArchvile	-1	0	0:All	:actors/misc/nashdoom.txt
+NashGore_StealthBaron	-1	0	0:All	:actors/misc/nashdoom.txt
+NashGore_StealthCacodemon	-1	0	0:All	:actors/misc/nashdoom.txt
+NashGore_StealthChaingunGuy	-1	0	0:All	:actors/misc/nashdoom.txt
+NashGore_StealthDemon	-1	0	0:All	:actors/misc/nashdoom.txt
+NashGore_StealthDoomImp	-1	0	0:All	:actors/misc/nashdoom.txt
+NashGore_StealthHellKnight	-1	0	0:All	:actors/misc/nashdoom.txt
+NashGore_StealthShotgunGuy	-1	0	0:All	:actors/misc/nashdoom.txt
+NashGore_StealthZombieMan	-1	0	0:All	:actors/misc/nashdoom.txt
+NashGore_StealthFatso	-1	0	0:All	:actors/misc/nashdoom.txt
+NashGore_StealthRevenant	-1	0	0:All	:actors/misc/nashdoom.txt
+NashGore_GibGenerator	-1	152	1:Doom	:actors/misc/nashgibs.txt
+NashGore_Gib1	-1	0	1:Doom	:actors/misc/nashgibs.txt
+NashGore_Gib2	-1	0	1:Doom	:actors/misc/nashgibs.txt
+NashGore_Gib3	-1	0	1:Doom	:actors/misc/nashgibs.txt
+NashGore_Gib4	-1	0	1:Doom	:actors/misc/nashgibs.txt
+NashGore_Gib5	-1	0	1:Doom	:actors/misc/nashgibs.txt
+NashGore_Gib6	-1	0	1:Doom	:actors/misc/nashgibs.txt
+NashGore_Gib7	-1	0	1:Doom	:actors/misc/nashgibs.txt
+NashGore_Gib8	-1	0	1:Doom	:actors/misc/nashgibs.txt
+NashGore_Gib9	-1	0	1:Doom	:actors/misc/nashgibs.txt
+NashGore_Gib10	-1	0	1:Doom	:actors/misc/nashgibs.txt
+NashGore_Gib11	-1	0	1:Doom	:actors/misc/nashgibs.txt
+GoreClass	-1	0	0:All	:actors/misc/plysgore.txt
+HudToken	-1	0	0:All	:actors/misc/plysgore.txt
+SpeakToken	-1	0	0:All	:actors/misc/plysgore.txt
+BreathToken	-1	0	0:All	:actors/misc/plysgore.txt
+ColdBreath	-1	0	0:All	:actors/misc/plysgore.txt
+Skrylax	-1	0	1:Doom	:actors/misc/plysgore.txt
+Kragoth	-1	0	0:All	:actors/misc/plysgore.txt
+Visor	-1	0	0:All	:actors/misc/plysgore.txt
+TetraPuzzle	12005	0	1:Doom	:actors/misc/puzzles.txt
+GrudgePuzzle	12006	0	1:Doom	:actors/misc/puzzles.txt
+PapyrusPuzzle	12007	0	1:Doom	:actors/misc/puzzles.txt
+ChnesothPuzzle	12009	0	1:Doom	:actors/misc/puzzles.txt
+DraconianPuzzle	12010	0	1:Doom	:actors/misc/puzzles.txt
+ShieldPuzzle	12011	0	1:Doom	:actors/misc/puzzles.txt
+EyeGem	12012	0	1:Doom	:actors/misc/puzzles.txt
+KnifeGem	12013	0	1:Doom	:actors/misc/puzzles.txt
+FireGem	12014	0	1:Doom	:actors/misc/puzzles.txt
+MoonGem	12015	0	1:Doom	:actors/misc/puzzles.txt
+ArachnoGem	12016	0	1:Doom	:actors/misc/puzzles.txt
+EyeGemGizmo	12017	0	1:Doom	:actors/misc/puzzles.txt
+KnifeGemGizmo	12018	0	1:Doom	:actors/misc/puzzles.txt
+FireGemGizmo	12019	0	1:Doom	:actors/misc/puzzles.txt
+MoonGemGizmo	12020	0	1:Doom	:actors/misc/puzzles.txt
+ArachnoGemGizmo	12021	0	1:Doom	:actors/misc/puzzles.txt
+GrudgeStand	12022	0	1:Doom	:actors/misc/puzzles.txt
+NoEyeGem	-1	0	0:All	:actors/misc/puzzles.txt
+NoKnifeGem	-1	0	0:All	:actors/misc/puzzles.txt
+NoFireGem	-1	0	0:All	:actors/misc/puzzles.txt
+NoMoonGem	-1	0	0:All	:actors/misc/puzzles.txt
+NoArachnoGem	-1	0	0:All	:actors/misc/puzzles.txt
+NoGrudgePuzzle	-1	0	0:All	:actors/misc/puzzles.txt
+ChestKey	20081	0	1:Doom	:actors/misc/puzzles.txt
+SupplyChest	20080	0	1:Doom	:actors/misc/puzzles.txt
+BLArcaneBook	28317	0	1:Doom	:actors/misc/puzzles.txt
+GoreShard	-1	0	1:Doom	:actors/misc/ravens.txt
+GoreShard1	-1	54	1:Doom	:actors/misc/ravens.txt
+GoreShard2	-1	55	0:All	:actors/misc/ravens.txt
+GoreShard3	-1	56	0:All	:actors/misc/ravens.txt
+GoreShard4	-1	57	0:All	:actors/misc/ravens.txt
+GoreShard5	-1	58	0:All	:actors/misc/ravens.txt
+GoreShard6	-1	59	0:All	:actors/misc/ravens.txt
+GoreShard7	-1	60	0:All	:actors/misc/ravens.txt
+GoreShard8	-1	61	0:All	:actors/misc/ravens.txt
+GoreShard9	-1	62	0:All	:actors/misc/ravens.txt
+GoreShard0	-1	63	0:All	:actors/misc/ravens.txt
+ZWindow8	119	0	1:Doom	:actors/misc/ravens.txt
+ZWindow16	120	0	1:Doom	:actors/misc/ravens.txt
+ZWindow32	121	0	1:Doom	:actors/misc/ravens.txt
+ZWindow64	122	0	1:Doom	:actors/misc/ravens.txt
+ZWindow128	123	0	1:Doom	:actors/misc/ravens.txt
+GoreLeafSpawner	12999	0	1:Doom	:actors/misc/ravens.txt
+WaterSplashBase2	-1	0	0:All	:actors/misc/splashes.txt
+WaterSplash2	-1	0	0:All	:actors/misc/splashes.txt
+BloodSplashBase2	-1	0	0:All	:actors/misc/splashes.txt
+BloodSplash2	-1	0	0:All	:actors/misc/splashes.txt
+SlimeSplash2	-1	0	0:All	:actors/misc/splashes.txt
+SlimeChunk2	-1	0	0:All	:actors/misc/splashes.txt
+LavaSplash2	-1	0	0:All	:actors/misc/splashes.txt
+SludgeSplash2	-1	0	0:All	:actors/misc/splashes.txt
+SludgeChunk2	-1	0	0:All	:actors/misc/splashes.txt
+MudChunk	-1	0	0:All	:actors/misc/splashes.txt
+MudSplash	-1	0	0:All	:actors/misc/splashes.txt
+IceDebris	-1	0	1:Doom	:actors/misc/splashes.txt
+Gore_FuzzyBlood	-1	0	1:Doom	:actors/misc/transblod.txt
+Gore_FuzzyFlyingBlood	-1	0	0:All	:actors/misc/transblod.txt
+Gore_FuzzyBloodSpot	-1	0	0:All	:actors/misc/transblod.txt
+Gore_FuzzyFlyingBloodTrail	-1	0	0:All	:actors/misc/transblod.txt
+Gore_BlueFlyingBlood	-1	0	0:All	:actors/misc/transblod.txt
+Gore_BlueBloodSpot	-1	0	0:All	:actors/misc/transblod.txt
+Gore_BlueFlyingBloodTrail	-1	0	0:All	:actors/misc/transblod.txt
+Gore_GreenFlyingBlood	-1	0	0:All	:actors/misc/transblod.txt
+Gore_GreenBloodSpot	-1	0	0:All	:actors/misc/transblod.txt
+Gore_GreenFlyingBloodTrail	-1	0	0:All	:actors/misc/transblod.txt
+Gore_TGreenBlood	-1	0	1:Doom	:actors/misc/transblod.txt
+Gore_TGreenFlyingBlood	-1	0	0:All	:actors/misc/transblod.txt
+Gore_TGreenBloodSpot	-1	0	0:All	:actors/misc/transblod.txt
+Gore_TGreenFlyingBloodTrail	-1	0	0:All	:actors/misc/transblod.txt
+Gore_GreyFlyingBlood	-1	0	0:All	:actors/misc/transblod.txt
+Gore_GreyBloodSpot	-1	0	0:All	:actors/misc/transblod.txt
+Gore_GreyFlyingBloodTrail	-1	0	0:All	:actors/misc/transblod.txt
+Gore_OrangeFlyingBlood	-1	0	0:All	:actors/misc/transblod.txt
+Gore_OrangeBloodSpot	-1	0	0:All	:actors/misc/transblod.txt
+Gore_OrangeFlyingBloodTrail	-1	0	0:All	:actors/misc/transblod.txt
+Gore_IvoryFlyingBlood	-1	0	0:All	:actors/misc/transblod.txt
+Gore_IvoryBloodSpot	-1	0	0:All	:actors/misc/transblod.txt
+Gore_IvoryFlyingBloodTrail	-1	0	0:All	:actors/misc/transblod.txt
+Gore_TIvoryBlood	-1	0	1:Doom	:actors/misc/transblod.txt
+Gore_TIvoryFlyingBlood	-1	0	0:All	:actors/misc/transblod.txt
+Gore_TIvoryBloodSpot	-1	0	0:All	:actors/misc/transblod.txt
+Gore_TIvoryFlyingBloodTrail	-1	0	0:All	:actors/misc/transblod.txt
+Gore_PurpleFlyingBlood	-1	0	0:All	:actors/misc/transblod.txt
+Gore_PurpleBloodSpot	-1	0	0:All	:actors/misc/transblod.txt
+Gore_PurpleFlyingBloodTrail	-1	0	0:All	:actors/misc/transblod.txt
+Gore_OnyxFlyingBlood	-1	0	0:All	:actors/misc/transblod.txt
+Gore_OnyxBloodSpot	-1	0	0:All	:actors/misc/transblod.txt
+Gore_OnyxFlyingBloodTrail	-1	0	0:All	:actors/misc/transblod.txt
+Gore_TOnyxBlood	-1	0	1:Doom	:actors/misc/transblod.txt
+Gore_TOnyxFlyingBlood	-1	0	0:All	:actors/misc/transblod.txt
+Gore_TOnyxBloodSpot	-1	0	0:All	:actors/misc/transblod.txt
+Gore_TOnyxFlyingBloodTrail	-1	0	0:All	:actors/misc/transblod.txt
+NashGore_CrushedSmallFuzzy	-1	0	0:All	:actors/misc/transbody.txt
+NashGore_CrushedMediumFuzzy	-1	0	0:All	:actors/misc/transbody.txt
+NashGore_CrushedLargeFuzzy	-1	0	0:All	:actors/misc/transbody.txt
+NashGore_CrushedSmallOrange	-1	0	0:All	:actors/misc/transbody.txt
+NashGore_CrushedMediumOrange	-1	0	0:All	:actors/misc/transbody.txt
+NashGore_CrushedLargeOrange	-1	0	0:All	:actors/misc/transbody.txt
+NashGore_CrushedSmallIvory	-1	0	0:All	:actors/misc/transbody.txt
+NashGore_CrushedMediumIvory	-1	0	0:All	:actors/misc/transbody.txt
+NashGore_CrushedLargeIvory	-1	0	0:All	:actors/misc/transbody.txt
+NashGore_CrushedSmallTIvory	-1	0	0:All	:actors/misc/transbody.txt
+NashGore_CrushedMediumTIvory	-1	0	0:All	:actors/misc/transbody.txt
+NashGore_CrushedLargeTIvory	-1	0	0:All	:actors/misc/transbody.txt
+NashGore_CrushedSmallGrey	-1	0	0:All	:actors/misc/transbody.txt
+NashGore_CrushedMediumGrey	-1	0	0:All	:actors/misc/transbody.txt
+NashGore_CrushedLargeGrey	-1	0	0:All	:actors/misc/transbody.txt
+NashGore_CrushedSmallPurple	-1	0	0:All	:actors/misc/transbody.txt
+NashGore_CrushedMediumPurple	-1	0	0:All	:actors/misc/transbody.txt
+NashGore_CrushedLargePurple	-1	0	0:All	:actors/misc/transbody.txt
+NashGore_CrushedSmallGreen	-1	0	0:All	:actors/misc/transbody.txt
+NashGore_CrushedMediumGreen	-1	0	0:All	:actors/misc/transbody.txt
+NashGore_CrushedLargeGreen	-1	0	0:All	:actors/misc/transbody.txt
+NashGore_CrushedSmallTGreen	-1	0	0:All	:actors/misc/transbody.txt
+NashGore_CrushedMediumTGreen	-1	0	0:All	:actors/misc/transbody.txt
+NashGore_CrushedLargeTGreen	-1	0	0:All	:actors/misc/transbody.txt
+NashGore_CrushedSmallBlue	-1	0	0:All	:actors/misc/transbody.txt
+NashGore_CrushedMediumBlue	-1	0	0:All	:actors/misc/transbody.txt
+NashGore_CrushedLargeBlue	-1	0	0:All	:actors/misc/transbody.txt
+NashGore_CrushedSmallOnyx	-1	0	0:All	:actors/misc/transbody.txt
+NashGore_CrushedMediumOnyx	-1	0	0:All	:actors/misc/transbody.txt
+NashGore_CrushedLargeOnyx	-1	0	0:All	:actors/misc/transbody.txt
+NashGore_CrushedSmallTOnyx	-1	0	0:All	:actors/misc/transbody.txt
+NashGore_CrushedMediumTOnyx	-1	0	0:All	:actors/misc/transbody.txt
+NashGore_CrushedLargeTOnyx	-1	0	0:All	:actors/misc/transbody.txt
+Gore_GibGeneratorFuzzy	-1	0	1:Doom	:actors/misc/transgibs.txt
+Gore_FuzzyGib1	-1	0	0:All	:actors/misc/transgibs.txt
+Gore_FuzzyGib2	-1	0	0:All	:actors/misc/transgibs.txt
+Gore_FuzzyGib3	-1	0	0:All	:actors/misc/transgibs.txt
+Gore_FuzzyGib4	-1	0	0:All	:actors/misc/transgibs.txt
+Gore_FuzzyGib5	-1	0	0:All	:actors/misc/transgibs.txt
+Gore_FuzzyGib6	-1	0	0:All	:actors/misc/transgibs.txt
+Gore_FuzzyGib7	-1	0	0:All	:actors/misc/transgibs.txt
+Gore_FuzzyGib8	-1	0	0:All	:actors/misc/transgibs.txt
+Gore_FuzzyGib9	-1	0	0:All	:actors/misc/transgibs.txt
+Gore_FuzzyGib10	-1	0	0:All	:actors/misc/transgibs.txt
+Gore_FuzzyGib11	-1	0	0:All	:actors/misc/transgibs.txt
+Gore_GibGeneratorBlue	-1	0	1:Doom	:actors/misc/transgibs.txt
+Gore_BlueGib1	-1	0	0:All	:actors/misc/transgibs.txt
+Gore_BlueGib2	-1	0	0:All	:actors/misc/transgibs.txt
+Gore_BlueGib3	-1	0	0:All	:actors/misc/transgibs.txt
+Gore_BlueGib4	-1	0	0:All	:actors/misc/transgibs.txt
+Gore_BlueGib5	-1	0	0:All	:actors/misc/transgibs.txt
+Gore_BlueGib6	-1	0	0:All	:actors/misc/transgibs.txt
+Gore_BlueGib7	-1	0	0:All	:actors/misc/transgibs.txt
+Gore_BlueGib8	-1	0	0:All	:actors/misc/transgibs.txt
+Gore_BlueGib9	-1	0	0:All	:actors/misc/transgibs.txt
+Gore_BlueGib10	-1	0	0:All	:actors/misc/transgibs.txt
+Gore_BlueGib11	-1	0	0:All	:actors/misc/transgibs.txt
+Gore_GibGeneratorGreen	-1	0	1:Doom	:actors/misc/transgibs.txt
+Gore_GreenGib1	-1	0	0:All	:actors/misc/transgibs.txt
+Gore_GreenGib2	-1	0	0:All	:actors/misc/transgibs.txt
+Gore_GreenGib3	-1	0	0:All	:actors/misc/transgibs.txt
+Gore_GreenGib4	-1	0	0:All	:actors/misc/transgibs.txt
+Gore_GreenGib5	-1	0	0:All	:actors/misc/transgibs.txt
+Gore_GreenGib6	-1	0	0:All	:actors/misc/transgibs.txt
+Gore_GreenGib7	-1	0	0:All	:actors/misc/transgibs.txt
+Gore_GreenGib8	-1	0	0:All	:actors/misc/transgibs.txt
+Gore_GreenGib9	-1	0	0:All	:actors/misc/transgibs.txt
+Gore_GreenGib10	-1	0	0:All	:actors/misc/transgibs.txt
+Gore_GreenGib11	-1	0	0:All	:actors/misc/transgibs.txt
+Gore_GibGeneratorTGreen	-1	0	1:Doom	:actors/misc/transgibs.txt
+Gore_TGreenGib1	-1	0	0:All	:actors/misc/transgibs.txt
+Gore_TGreenGib2	-1	0	0:All	:actors/misc/transgibs.txt
+Gore_TGreenGib3	-1	0	0:All	:actors/misc/transgibs.txt
+Gore_TGreenGib4	-1	0	0:All	:actors/misc/transgibs.txt
+Gore_TGreenGib5	-1	0	0:All	:actors/misc/transgibs.txt
+Gore_TGreenGib6	-1	0	0:All	:actors/misc/transgibs.txt
+Gore_TGreenGib7	-1	0	0:All	:actors/misc/transgibs.txt
+Gore_TGreenGib8	-1	0	0:All	:actors/misc/transgibs.txt
+Gore_TGreenGib9	-1	0	0:All	:actors/misc/transgibs.txt
+Gore_TGreenGib10	-1	0	0:All	:actors/misc/transgibs.txt
+Gore_TGreenGib11	-1	0	0:All	:actors/misc/transgibs.txt
+Gore_GibGeneratorGrey	-1	0	1:Doom	:actors/misc/transgibs.txt
+Gore_GreyGib1	-1	0	0:All	:actors/misc/transgibs.txt
+Gore_GreyGib2	-1	0	0:All	:actors/misc/transgibs.txt
+Gore_GreyGib3	-1	0	0:All	:actors/misc/transgibs.txt
+Gore_GreyGib4	-1	0	0:All	:actors/misc/transgibs.txt
+Gore_GreyGib5	-1	0	0:All	:actors/misc/transgibs.txt
+Gore_GreyGib6	-1	0	0:All	:actors/misc/transgibs.txt
+Gore_GreyGib7	-1	0	0:All	:actors/misc/transgibs.txt
+Gore_GreyGib8	-1	0	0:All	:actors/misc/transgibs.txt
+Gore_GreyGib9	-1	0	0:All	:actors/misc/transgibs.txt
+Gore_GreyGib10	-1	0	0:All	:actors/misc/transgibs.txt
+Gore_GreyGib11	-1	0	0:All	:actors/misc/transgibs.txt
+Gore_GibGeneratorIvory	-1	0	1:Doom	:actors/misc/transgibs.txt
+Gore_IvoryGib1	-1	0	0:All	:actors/misc/transgibs.txt
+Gore_IvoryGib2	-1	0	0:All	:actors/misc/transgibs.txt
+Gore_IvoryGib3	-1	0	0:All	:actors/misc/transgibs.txt
+Gore_IvoryGib4	-1	0	0:All	:actors/misc/transgibs.txt
+Gore_IvoryGib5	-1	0	0:All	:actors/misc/transgibs.txt
+Gore_IvoryGib6	-1	0	0:All	:actors/misc/transgibs.txt
+Gore_IvoryGib7	-1	0	0:All	:actors/misc/transgibs.txt
+Gore_IvoryGib8	-1	0	0:All	:actors/misc/transgibs.txt
+Gore_IvoryGib9	-1	0	0:All	:actors/misc/transgibs.txt
+Gore_IvoryGib10	-1	0	0:All	:actors/misc/transgibs.txt
+Gore_IvoryGib11	-1	0	0:All	:actors/misc/transgibs.txt
+Gore_GibGeneratorTIvory	-1	0	1:Doom	:actors/misc/transgibs.txt
+Gore_TIvoryGib1	-1	0	0:All	:actors/misc/transgibs.txt
+Gore_TIvoryGib2	-1	0	0:All	:actors/misc/transgibs.txt
+Gore_TIvoryGib3	-1	0	0:All	:actors/misc/transgibs.txt
+Gore_TIvoryGib4	-1	0	0:All	:actors/misc/transgibs.txt
+Gore_TIvoryGib5	-1	0	0:All	:actors/misc/transgibs.txt
+Gore_TIvoryGib6	-1	0	0:All	:actors/misc/transgibs.txt
+Gore_TIvoryGib7	-1	0	0:All	:actors/misc/transgibs.txt
+Gore_TIvoryGib8	-1	0	0:All	:actors/misc/transgibs.txt
+Gore_TIvoryGib9	-1	0	0:All	:actors/misc/transgibs.txt
+Gore_TIvoryGib10	-1	0	0:All	:actors/misc/transgibs.txt
+Gore_TIvoryGib11	-1	0	0:All	:actors/misc/transgibs.txt
+Gore_GibGeneratorOrange	-1	0	1:Doom	:actors/misc/transgibs.txt
+Gore_OrangeGib1	-1	0	0:All	:actors/misc/transgibs.txt
+Gore_OrangeGib2	-1	0	0:All	:actors/misc/transgibs.txt
+Gore_OrangeGib3	-1	0	0:All	:actors/misc/transgibs.txt
+Gore_OrangeGib4	-1	0	0:All	:actors/misc/transgibs.txt
+Gore_OrangeGib5	-1	0	0:All	:actors/misc/transgibs.txt
+Gore_OrangeGib6	-1	0	0:All	:actors/misc/transgibs.txt
+Gore_OrangeGib7	-1	0	0:All	:actors/misc/transgibs.txt
+Gore_OrangeGib8	-1	0	0:All	:actors/misc/transgibs.txt
+Gore_OrangeGib9	-1	0	0:All	:actors/misc/transgibs.txt
+Gore_OrangeGib10	-1	0	0:All	:actors/misc/transgibs.txt
+Gore_OrangeGib11	-1	0	0:All	:actors/misc/transgibs.txt
+Gore_GibGeneratorPurple	-1	0	1:Doom	:actors/misc/transgibs.txt
+Gore_PurpleGib1	-1	0	0:All	:actors/misc/transgibs.txt
+Gore_PurpleGib2	-1	0	0:All	:actors/misc/transgibs.txt
+Gore_PurpleGib3	-1	0	0:All	:actors/misc/transgibs.txt
+Gore_PurpleGib4	-1	0	0:All	:actors/misc/transgibs.txt
+Gore_PurpleGib5	-1	0	0:All	:actors/misc/transgibs.txt
+Gore_PurpleGib6	-1	0	0:All	:actors/misc/transgibs.txt
+Gore_PurpleGib7	-1	0	0:All	:actors/misc/transgibs.txt
+Gore_PurpleGib8	-1	0	0:All	:actors/misc/transgibs.txt
+Gore_PurpleGib9	-1	0	0:All	:actors/misc/transgibs.txt
+Gore_PurpleGib10	-1	0	0:All	:actors/misc/transgibs.txt
+Gore_PurpleGib11	-1	0	0:All	:actors/misc/transgibs.txt
+Gore_GibGeneratorOnyx	-1	0	1:Doom	:actors/misc/transgibs.txt
+Gore_OnyxGib1	-1	0	0:All	:actors/misc/transgibs.txt
+Gore_OnyxGib2	-1	0	0:All	:actors/misc/transgibs.txt
+Gore_OnyxGib3	-1	0	0:All	:actors/misc/transgibs.txt
+Gore_OnyxGib4	-1	0	0:All	:actors/misc/transgibs.txt
+Gore_OnyxGib5	-1	0	0:All	:actors/misc/transgibs.txt
+Gore_OnyxGib6	-1	0	0:All	:actors/misc/transgibs.txt
+Gore_OnyxGib7	-1	0	0:All	:actors/misc/transgibs.txt
+Gore_OnyxGib8	-1	0	0:All	:actors/misc/transgibs.txt
+Gore_OnyxGib9	-1	0	0:All	:actors/misc/transgibs.txt
+Gore_OnyxGib10	-1	0	0:All	:actors/misc/transgibs.txt
+Gore_OnyxGib11	-1	0	0:All	:actors/misc/transgibs.txt
+Gore_GibGeneratorTOnyx	-1	0	1:Doom	:actors/misc/transgibs.txt
+Gore_TOnyxGib1	-1	0	0:All	:actors/misc/transgibs.txt
+Gore_TOnyxGib2	-1	0	0:All	:actors/misc/transgibs.txt
+Gore_TOnyxGib3	-1	0	0:All	:actors/misc/transgibs.txt
+Gore_TOnyxGib4	-1	0	0:All	:actors/misc/transgibs.txt
+Gore_TOnyxGib5	-1	0	0:All	:actors/misc/transgibs.txt
+Gore_TOnyxGib6	-1	0	0:All	:actors/misc/transgibs.txt
+Gore_TOnyxGib7	-1	0	0:All	:actors/misc/transgibs.txt
+Gore_TOnyxGib8	-1	0	0:All	:actors/misc/transgibs.txt
+Gore_TOnyxGib9	-1	0	0:All	:actors/misc/transgibs.txt
+Gore_TOnyxGib10	-1	0	0:All	:actors/misc/transgibs.txt
+Gore_TOnyxGib11	-1	0	0:All	:actors/misc/transgibs.txt
+Afrit	30111	100	1:Doom	:actors/mons/afrit.txt
+AfritBall	-1	0	0:All	:actors/mons/afrit.txt
+Comet	-1	0	0:All	:actors/mons/afrit.txt
+CometTail	-1	0	0:All	:actors/mons/afrit.txt
+CometDeathGlow	-1	0	0:All	:actors/mons/afrit.txt
+CometDeath	-1	0	0:All	:actors/mons/afrit.txt
+OrbitComet	-1	0	0:All	:actors/mons/afrit.txt
+OrbitComet2	-1	0	0:All	:actors/mons/afrit.txt
+OrbitCometTail	-1	0	0:All	:actors/mons/afrit.txt
+HellFire	-1	0	0:All	:actors/mons/afrit.txt
+HellFire1	-1	0	0:All	:actors/mons/afrit.txt
+HellFire2	-1	0	0:All	:actors/mons/afrit.txt
+Arachnobaron	31213	101	1:Doom	:actors/mons/arachnobaron.txt
+ArchonOfHell	30104	102	0:All	:actors/mons/archonofhell.txt
+ArchonComet	-1	0	0:All	:actors/mons/archonofhell.txt
+ArchonSoul	-1	0	0:All	:actors/mons/archonofhell.txt
+ArchonCometTrail	-1	0	0:All	:actors/mons/archonofhell.txt
+BelphegorClone	3112	103	1:Doom	:actors/mons/belphegor.txt
+BelphegorBall	-1	0	0:All	:actors/mons/belphegor.txt
+BruiserDemon	3333	104	1:Doom	:actors/mons/bruiserdemon.txt
+BruiserBall	-1	0	0:All	:actors/mons/bruiserdemon.txt
+BruiserBall2	-1	0	0:All	:actors/mons/bruiserdemon.txt
+BruiserFireSpawner	-1	0	0:All	:actors/mons/bruiserdemon.txt
+BruiserBallTrail	-1	0	0:All	:actors/mons/bruiserdemon.txt
+BruiserFire	-1	0	0:All	:actors/mons/bruiserdemon.txt
+Cardinal	3120	108	1:Doom	:actors/mons/cardinal.txt
+Cardinal_Rocket	-1	0	1:Doom	:actors/mons/cardinal.txt
+pain_gernade	-1	0	1:Doom	:actors/mons/cardinal.txt
+Fire	-1	0	0:All	:actors/mons/cardinal.txt
+paingasm	10004	111	1:Doom	:actors/mons/cardinal.txt
+faintGhost1	-1	0	0:All	:actors/mons/cardinal.txt
+faintGhost2	-1	0	0:All	:actors/mons/cardinal.txt
+faintGhost3	-1	0	0:All	:actors/mons/cardinal.txt
+painball	-1	0	0:All	:actors/mons/cardinal.txt
+DeathBall	-1	0	0:All	:actors/mons/cardinal.txt
+BallTail	-1	0	0:All	:actors/mons/cardinal.txt
+CardinalPlasma	-1	0	0:All	:actors/mons/cardinal.txt
+plasmaTail	-1	0	0:All	:actors/mons/cardinal.txt
+Cyberbaron	30108	105	1:Doom	:actors/mons/cyberbaron.txt
+CyberFiend	30109	106	1:Doom	:actors/mons/cyberfiend.txt
+CyberFiendArm	-1	0	0:All	:actors/mons/cyberfiend.txt
+Puke1	-1	0	0:All	:actors/mons/cyberfiend.txt
+Puke2	-1	0	0:All	:actors/mons/cyberfiend.txt
+Puke3	-1	0	0:All	:actors/mons/cyberfiend.txt
+1Gib	-1	0	0:All	:actors/mons/cyberfiend.txt
+2Gib	-1	0	0:All	:actors/mons/cyberfiend.txt
+3Gib	-1	0	0:All	:actors/mons/cyberfiend.txt
+IGib	-1	0	0:All	:actors/mons/cyberfiend.txt
+IGib2	-1	0	0:All	:actors/mons/cyberfiend.txt
+CyberImp	20002	251	1:Doom	:actors/mons/cyberimp.txt
+ImpCyberArm	-1	0	0:All	:actors/mons/cyberimp.txt
+Cybruiser	30128	107	0:All	:actors/mons/cybruiser.txt
+BruiserMissile	-1	0	0:All	:actors/mons/cybruiser.txt
+BruiserTrail	-1	0	0:All	:actors/mons/cybruiser.txt
+DarknessRift	15001	126	1:Doom	:actors/mons/darknessrift.txt
+RiftCloudSpawner	-1	0	0:All	:actors/mons/darknessrift.txt
+RiftCloud	-1	0	0:All	:actors/mons/darknessrift.txt
+RiftMonsterSpawner	-1	0	0:All	:actors/mons/darknessrift.txt
+DarkRiftBall	-1	0	0:All	:actors/mons/darknessrift.txt
+DarkRiftSpear	-1	0	0:All	:actors/mons/darknessrift.txt
+Diabloist	30112	112	0:All	:actors/mons/diabloist.txt
+DFire	-1	0	0:All	:actors/mons/diabloist.txt
+DFlare	-1	0	0:All	:actors/mons/diabloist.txt
+DMissile	-1	0	0:All	:actors/mons/diabloist.txt
+DTracer	-1	0	0:All	:actors/mons/diabloist.txt
+MFlareFX	-1	0	0:All	:actors/mons/diabloist.txt
+DTracerPuff	-1	0	0:All	:actors/mons/diabloist.txt
+DMissileTrail	-1	0	0:All	:actors/mons/diabloist.txt
+DMissileCircle	-1	0	0:All	:actors/mons/diabloist.txt
+ESoul	25628	157	1:Doom	:actors/mons/esoul.txt
+EShadowBall	-1	0	0:All	:actors/mons/esoul.txt
+EShadowTrail	-1	0	0:All	:actors/mons/esoul.txt
+Fallen	30139	113	1:Doom	:actors/mons/fallen.txt
+FallenFX	-1	0	0:All	:actors/mons/fallen.txt
+FallenShot	-1	0	0:All	:actors/mons/fallen.txt
+FallenSP	-1	0	0:All	:actors/mons/fallen.txt
+FlamerZombie	25626	156	1:Doom	:actors/mons/flamerzombie.txt
+ZombieFire	-1	0	0:All	:actors/mons/flamerzombie.txt
+ZombieDropFire	-1	0	0:All	:actors/mons/flamerzombie.txt
+FreezeRifleGuy	25625	121	1:Doom	:actors/mons/freezerifleguy.txt
+ZombieFreezeBlast	-1	0	1:Doom	:actors/mons/freezerifleguy.txt
+GHorror	6666	151	1:Doom	:actors/mons/ghorror.txt
+HorrorBall	-1	0	0:All	:actors/mons/ghorror.txt
+HorrorBall2	-1	0	0:All	:actors/mons/ghorror.txt
+BlazeBall	-1	0	0:All	:actors/mons/ghorror.txt
+BlazeBall2	-1	0	0:All	:actors/mons/ghorror.txt
+BlazeFX1	-1	0	0:All	:actors/mons/ghorror.txt
+BlazeFX2	-1	0	0:All	:actors/mons/ghorror.txt
+Sentence	-1	0	0:All	:actors/mons/ghorror.txt
+HeadGib	-1	0	0:All	:actors/mons/ghorror.txt
+Grell	30127	114	1:Doom	:actors/mons/grell.txt
+GrellBall	-1	0	0:All	:actors/mons/grell.txt
+PowerSlow	-1	0	0:All	:actors/mons/grell.txt
+GrellSlowdown	-1	0	0:All	:actors/mons/grell.txt
+BarbTrail	-1	0	0:All	:actors/mons/grell.txt
+Hellion	30132	115	1:Doom	:actors/mons/hellion.txt
+HellionBall	-1	0	0:All	:actors/mons/hellion.txt
+HellionPuff	-1	0	0:All	:actors/mons/hellion.txt
+Hellrose	15002	252	1:Doom	:actors/mons/hellrose.txt
+HellroseBramble	-1	0	0:All	:actors/mons/hellrose.txt
+Spore	-1	0	0:All	:actors/mons/hellrose.txt
+Drt1	-1	0	0:All	:actors/mons/hellrose.txt
+Drt2	-1	0	0:All	:actors/mons/hellrose.txt
+Drt3	-1	0	0:All	:actors/mons/hellrose.txt
+HellsFury	3127	116	1:Doom	:actors/mons/hellsfury.txt
+HellsFuryBall	-1	0	0:All	:actors/mons/hellsfury.txt
+HFSoulHarvesterBall	-1	0	0:All	:actors/mons/hellsfury.txt
+HellsFurySkull	-1	0	0:All	:actors/mons/hellsfury.txt
+HFSoulBallTrail	-1	0	0:All	:actors/mons/hellsfury.txt
+HellWarrior	3119	118	1:Doom	:actors/mons/hellwarrior.txt
+HellWarriorBall	-1	0	0:All	:actors/mons/hellwarrior.txt
+HellWarriorBall2	-1	0	0:All	:actors/mons/hellwarrior.txt
+HellWarriorShield	-1	0	0:All	:actors/mons/hellwarrior.txt
+Bloodtrail	-1	0	0:All	:actors/mons/hierophant.txt
+AcolFX2	-1	0	0:All	:actors/mons/hierophant.txt
+Hierophant	30135	119	1:Doom	:actors/mons/hierophant.txt
+HieroBall1	-1	0	0:All	:actors/mons/hierophant.txt
+HieroBall2	-1	0	0:All	:actors/mons/hierophant.txt
+CurseBall	-1	0	0:All	:actors/mons/hierophant.txt
+CurseTrail	-1	0	0:All	:actors/mons/hierophant.txt
+HieroFX	-1	0	0:All	:actors/mons/hierophant.txt
+HornBeast	30113	120	1:Doom	:actors/mons/hornbeast.txt
+HBeastSmoke	-1	0	0:All	:actors/mons/hornbeast.txt
+HBeastShot	-1	0	0:All	:actors/mons/hornbeast.txt
+HBeastFlame	-1	0	0:All	:actors/mons/hornbeast.txt
+HellstormArchon	30106	117	0:All	:actors/mons/hstormarchon.txt
+HArchonComet	-1	0	0:All	:actors/mons/hstormarchon.txt
+HArchonCometTrail	-1	0	0:All	:actors/mons/hstormarchon.txt
+ImpWarlord	30140	122	1:Doom	:actors/mons/impwarlord.txt
+YellowSkullSeeker	-1	0	0:All	:actors/mons/impwarlord.txt
+GreenPoisonBall	-1	0	0:All	:actors/mons/impwarlord.txt
+FamiliarSpawner	-1	0	0:All	:actors/mons/impwarlord.txt
+RedSkullBall	-1	0	0:All	:actors/mons/impwarlord.txt
+WarlordMace	-1	0	0:All	:actors/mons/impwarlord.txt
+WarlordShield	-1	0	0:All	:actors/mons/impwarlord.txt
+BatFamiliar	30141	123	0:All	:actors/mons/impwarlord.txt
+DragonFamiliar	30142	124	0:All	:actors/mons/impwarlord.txt
+MiniFirePuff	-1	0	0:All	:actors/mons/impwarlord.txt
+MiniFirePuffNoDamage	-1	0	0:All	:actors/mons/impwarlord.txt
+BatsFlockSpawner	8899	0	1:Doom	:actors/mons/impwarlord.txt
+Lavademon	30107	125	1:Doom	:actors/mons/lavademon.txt
+PhoenixFX3	-1	0	0:All	:actors/mons/lavademon.txt
+beastball2	-1	0	0:All	:actors/mons/lavademon.txt
+firestep	-1	0	0:All	:actors/mons/lavademon.txt
+lavasmoke1	-1	0	0:All	:actors/mons/lavademon.txt
+LordofHeresy	3121	127	1:Doom	:actors/mons/lohs.txt
+MaulerDemon	3123	128	1:Doom	:actors/mons/maulerdemon.txt
+KDiZDNightmare	26000	129	1:Doom	:actors/mons/nightmare.txt
+NightmareWisp	-1	0	0:All	:actors/mons/nightmare.txt
+NightmareDemon	30110	130	1:Doom	:actors/mons/nmaredemon.txt
+NDemonBall	-1	0	0:All	:actors/mons/nmaredemon.txt
+Phantom	30862	131	1:Doom	:actors/mons/phantom.txt
+MiniPhantom	-1	0	0:All	:actors/mons/phantom.txt
+PhantomEgg	-1	0	0:All	:actors/mons/phantom.txt
+PhantomHatch	-1	0	0:All	:actors/mons/phantom.txt
+GhostEgg2	-1	0	0:All	:actors/mons/phantom.txt
+GhostHatch2	-1	0	0:All	:actors/mons/phantom.txt
+Ghost2	-1	0	1:Doom	:actors/mons/phantom.txt
+SoulBomb	-1	0	0:All	:actors/mons/phantom.txt
+SoulTrail	-1	0	0:All	:actors/mons/phantom.txt
+SoulSmoke	-1	0	0:All	:actors/mons/phantom.txt
+Piranha	12512	168	1:Doom	:actors/mons/piranha.txt
+FishGib1	-1	0	0:All	:actors/mons/piranha.txt
+FishGib2	-1	0	0:All	:actors/mons/piranha.txt
+FishGib3	-1	0	0:All	:actors/mons/piranha.txt
+FishLimit	-1	0	0:All	:actors/mons/piranha.txt
+PlasmaDemon	3124	132	1:Doom	:actors/mons/plasmademon.txt
+PDemBall	-1	0	0:All	:actors/mons/plasmademon.txt
+PDemBallTrail	-1	0	0:All	:actors/mons/plasmademon.txt
+PoisonSoul	25634	158	1:Doom	:actors/mons/poisonsoul.txt
+PoisonSoulPoison	-1	0	0:All	:actors/mons/poisonsoul.txt
+ProfaneOne	2722	133	1:Doom	:actors/mons/profaneone.txt
+PoisonBall	-1	0	0:All	:actors/mons/profaneone.txt
+BloodPuke	-1	0	0:All	:actors/mons/profaneone.txt
+PoisonTrail	-1	0	0:All	:actors/mons/profaneone.txt
+PyroDemon	30105	134	1:Doom	:actors/mons/pyrodemon.txt
+FireShot	-1	0	0:All	:actors/mons/pyrodemon.txt
+FireTail	-1	0	0:All	:actors/mons/pyrodemon.txt
+EscapeExplosion	-1	0	0:All	:actors/mons/pyrodemon.txt
+Pyroball	-1	0	0:All	:actors/mons/pyrodemon.txt
+FirebombExplosion1	-1	0	0:All	:actors/mons/pyrodemon.txt
+FirebombExplosion2	-1	0	0:All	:actors/mons/pyrodemon.txt
+FirebombExplosion3	-1	0	0:All	:actors/mons/pyrodemon.txt
+PyroBlast	-1	0	0:All	:actors/mons/pyrodemon.txt
+WalkFire	-1	0	0:All	:actors/mons/pyrodemon.txt
+RainCometNull	-1	0	0:All	:actors/mons/pyrodemon.txt
+FallingComet	-1	0	0:All	:actors/mons/pyrodemon.txt
+PCometDeathGlow	-1	0	0:All	:actors/mons/pyrodemon.txt
+PCometDeath	-1	0	0:All	:actors/mons/pyrodemon.txt
+PyroImp	30131	135	1:Doom	:actors/mons/pyroimp.txt
+PyroImpBall	-1	0	0:All	:actors/mons/pyroimp.txt
+PyroImpBallNoGravity	-1	0	0:All	:actors/mons/pyroimp.txt
+PyroImpFire	-1	0	0:All	:actors/mons/pyroimp.txt
+PyroImpBallFire	-1	0	0:All	:actors/mons/pyroimp.txt
+PyroImpBallFire2	-1	0	0:All	:actors/mons/pyroimp.txt
+PyroImpExplosion	-1	0	0:All	:actors/mons/pyroimp.txt
+QuadShotgunZombie	30119	136	1:Doom	:actors/mons/qshotzombie.txt
+QuadShotgunZombieCounter	-1	0	0:All	:actors/mons/qshotzombie.txt
+Roach	25629	159	1:Doom	:actors/mons/roach.txt
+RoachScared	-1	0	0:All	:actors/mons/roach.txt
+RoachBall	-1	0	0:All	:actors/mons/roach.txt
+RoachBallTrail	-1	0	0:All	:actors/mons/roach.txt
+RotWraith	30143	137	1:Doom	:actors/mons/rotwraith.txt
+GreenFartCloud	-1	0	0:All	:actors/mons/rotwraith.txt
+FartBallFX	-1	0	0:All	:actors/mons/rotwraith.txt
+FartBall	-1	0	0:All	:actors/mons/rotwraith.txt
+Shadow	3126	161	1:Doom	:actors/mons/shadow.txt
+ShadowBall	-1	0	0:All	:actors/mons/shadow.txt
+ShadowGhostA	-1	0	0:All	:actors/mons/shadow.txt
+ShadowGhostB	-1	0	0:All	:actors/mons/shadow.txt
+ShadowGhostC	-1	0	0:All	:actors/mons/shadow.txt
+ShadowGhostD	-1	0	0:All	:actors/mons/shadow.txt
+Shadowtorso	-1	0	0:All	:actors/mons/shadow.txt
+ShadowTrail	-1	0	0:All	:actors/mons/shadow.txt
+SoulHarvester	30133	138	1:Doom	:actors/mons/sharvester.txt
+SoulHarvesterBall	-1	0	0:All	:actors/mons/sharvester.txt
+SoulHarvesterGhost	-1	0	0:All	:actors/mons/sharvester.txt
+SoulBallTrail	-1	0	0:All	:actors/mons/sharvester.txt
+SnakeImp	30150	155	1:Doom	:actors/mons/snakeimp.txt
+SnakeImpFireball	-1	0	0:All	:actors/mons/snakeimp.txt
+SpiritImp	30134	139	1:Doom	:actors/mons/spiritimp.txt
+SpiritImpBall	-1	0	0:All	:actors/mons/spiritimp.txt
+SpiritImpBallTrail	-1	0	0:All	:actors/mons/spiritimp.txt
+OrbitSpirit	-1	0	0:All	:actors/mons/spiritimp.txt
+OrbitSpirit2	-1	0	0:All	:actors/mons/spiritimp.txt
+SpiritImpGhost1	-1	0	0:All	:actors/mons/spiritimp.txt
+SpiritImpGhost	-1	0	0:All	:actors/mons/spiritimp.txt
+Squire	9403	140	0:All	:actors/mons/squire.txt
+SquireShot	-1	0	0:All	:actors/mons/squire.txt
+SmokeTrail	-1	0	0:All	:actors/mons/squire.txt
+SSGZombie	30137	144	1:Doom	:actors/mons/ssgzombie.txt
+StoneDemon	30117	167	1:Doom	:actors/mons/stonedemon.txt
+StoneDemonStatue	8190	142	0:All	:actors/mons/stonedemon.txt
+StoneDemonBoulder	-1	0	0:All	:actors/mons/stonedemon.txt
+StoneDemonMiniBoulder	-1	0	0:All	:actors/mons/stonedemon.txt
+SuicideBomber	30136	143	1:Doom	:actors/mons/suicidebomber.txt
+TeslaCoil	12040	0	1:Doom	:actors/mons/teslacoil.txt
+TeslaZapper	-1	0	0:All	:actors/mons/teslacoil.txt
+Boom	-1	0	0:All	:actors/mons/teslacoil.txt
+TimeImp	30138	145	1:Doom	:actors/mons/timeimp.txt
+TimeImpA	-1	0	0:All	:actors/mons/timeimp.txt
+TimeImpB	-1	0	0:All	:actors/mons/timeimp.txt
+TimeImpC	-1	0	0:All	:actors/mons/timeimp.txt
+TimeImpD	-1	0	0:All	:actors/mons/timeimp.txt
+HealImp	-1	0	0:All	:actors/mons/timeimp.txt
+HealImpFriendly	-1	0	0:All	:actors/mons/timeimp.txt
+SpImpBall	-1	0	0:All	:actors/mons/timeimp.txt
+SpImpBallFast	-1	0	0:All	:actors/mons/timeimp.txt
+SpImpBallFast2	-1	0	0:All	:actors/mons/timeimp.txt
+SpBallTrailA	-1	0	0:All	:actors/mons/timeimp.txt
+SpBallTrailB	-1	0	0:All	:actors/mons/timeimp.txt
+ImpGhostOutIn	-1	0	0:All	:actors/mons/timeimp.txt
+ImpGhostOut	-1	0	0:All	:actors/mons/timeimp.txt
+TimeFreezeImp	-1	0	0:All	:actors/mons/timeimp.txt
+TimeSlowImp	-1	0	0:All	:actors/mons/timeimp.txt
+TimeShock	-1	0	0:All	:actors/mons/timeimp.txt
+TimeImpFriendly	-1	0	0:All	:actors/mons/timeimp.txt
+TornadoDemon	32725	146	1:Doom	:actors/mons/tornadodemon.txt
+KnockbackTornado	-1	0	0:All	:actors/mons/tornadodemon.txt
+WindyDisaster	-1	0	0:All	:actors/mons/tornadodemon.txt
+Leaves1	-1	0	0:All	:actors/mons/tornadodemon.txt
+Leaves2	-1	0	0:All	:actors/mons/tornadodemon.txt
+Leaves3	-1	0	0:All	:actors/mons/tornadodemon.txt
+FlyingFatso	3397	164	0:All	:actors/mons/volacubi.txt
+FFPlasma	3398	165	0:All	:actors/mons/volacubi.txt
+FFSlime	3399	166	0:All	:actors/mons/volacubi.txt
+FFslimeball1	-1	0	0:All	:actors/mons/volacubi.txt
+FFslimeball2	-1	0	0:All	:actors/mons/volacubi.txt
+FFslimeball3	-1	0	0:All	:actors/mons/volacubi.txt
+FFslimeball4	-1	0	0:All	:actors/mons/volacubi.txt
+FFslimeball5	-1	0	0:All	:actors/mons/volacubi.txt
+FFslimeball6	-1	0	0:All	:actors/mons/volacubi.txt
+FFslimeball7	-1	0	0:All	:actors/mons/volacubi.txt
+FFslimeball8	-1	0	0:All	:actors/mons/volacubi.txt
+FFslimeball9	-1	0	0:All	:actors/mons/volacubi.txt
+FFslimeball0	-1	0	0:All	:actors/mons/volacubi.txt
+Vore	30118	149	1:Doom	:actors/mons/vore.txt
+VoreFirepod	-1	0	0:All	:actors/mons/vore.txt
+VoreFirepodTrail	-1	0	0:All	:actors/mons/vore.txt
+Vulgar	25630	160	0:All	:actors/mons/vulgar.txt
+VulgarShot	-1	0	0:All	:actors/mons/vulgar.txt
+VBarbTrail	-1	0	0:All	:actors/mons/vulgar.txt
+WarlordOfHell	22282	150	1:Doom	:actors/mons/wohl.txt
+WarlordOfHellBall	-1	0	0:All	:actors/mons/wohl.txt
+Chnesoth	14068	0	1:Doom	:actors/npcs/chnesoth.txt
+3dDeco	-1	0	0:All	:actors/3dobjs/3dbases.txt
+3dObstacle	-1	0	0:All	:actors/3dobjs/3dbases.txt
+3dObject	-1	0	0:All	:actors/3dobjs/3dbases.txt
+3dFlora	-1	0	0:All	:actors/3dobjs/3dbases.txt
+PoisonFartCloud	-1	0	1:Doom	:actors/3dobjs/3dbases.txt
+Banner1A	32300	0	1:Doom	:actors/3dobjs/heretic2.txt
+Banner2A	32301	0	1:Doom	:actors/3dobjs/heretic2.txt
+Banner3A	32302	0	0:All	:actors/3dobjs/heretic2.txt
+Banner3B	32441	0	0:All	:actors/3dobjs/heretic2.txt
+MineCartF	32303	0	1:Doom	:actors/3dobjs/heretic2.txt
+MineCartE	32304	0	0:All	:actors/3dobjs/heretic2.txt
+MineCartW	32305	0	1:Doom	:actors/3dobjs/heretic2.txt
+WoodenCart	32306	0	1:Doom	:actors/3dobjs/heretic2.txt
+LightCart	32307	0	0:All	:actors/3dobjs/heretic2.txt
+SideCart	32308	0	0:All	:actors/3dobjs/heretic2.txt
+CrystalBlue	32309	0	1:Doom	:actors/3dobjs/heretic2.txt
+CrystalGreen	32310	0	0:All	:actors/3dobjs/heretic2.txt
+CrystalRed	32311	0	0:All	:actors/3dobjs/heretic2.txt
+Pisces	32312	0	1:Doom	:actors/3dobjs/heretic2.txt
+BoldFish	32313	0	1:Doom	:actors/3dobjs/heretic2.txt
+DuckBillL	32314	0	1:Doom	:actors/3dobjs/heretic2.txt
+DuckBillR	32315	0	0:All	:actors/3dobjs/heretic2.txt
+SDragonL	32316	0	1:Doom	:actors/3dobjs/heretic2.txt
+SDragonR	32317	0	0:All	:actors/3dobjs/heretic2.txt
+Plant1	32319	0	1:Doom	:actors/3dobjs/heretic2.txt
+Plant2	32320	0	0:All	:actors/3dobjs/heretic2.txt
+Plant3a	32321	0	0:All	:actors/3dobjs/heretic2.txt
+Plant3b	32322	0	0:All	:actors/3dobjs/heretic2.txt
+Plant3c	32323	0	0:All	:actors/3dobjs/heretic2.txt
+Grass	32324	0	0:All	:actors/3dobjs/heretic2.txt
+Bush1a	32325	0	0:All	:actors/3dobjs/heretic2.txt
+Bush1b	32326	0	0:All	:actors/3dobjs/heretic2.txt
+Bush2	32327	0	0:All	:actors/3dobjs/heretic2.txt
+Cactus1a	32328	0	0:All	:actors/3dobjs/heretic2.txt
+Cactus1b	32329	0	0:All	:actors/3dobjs/heretic2.txt
+Cactus2	32330	0	0:All	:actors/3dobjs/heretic2.txt
+Cactus3	32331	0	1:Doom	:actors/3dobjs/heretic2.txt
+H2Stal1a	32429	0	1:Doom	:actors/3dobjs/heretic2.txt
+H2Stal1b	32430	0	0:All	:actors/3dobjs/heretic2.txt
+H2Stal2a	32431	0	0:All	:actors/3dobjs/heretic2.txt
+H2Stal2b	32432	0	0:All	:actors/3dobjs/heretic2.txt
+H2Stal3a	32433	0	0:All	:actors/3dobjs/heretic2.txt
+H2Stal3b	32434	0	0:All	:actors/3dobjs/heretic2.txt
+H2Stag1a	32435	0	1:Doom	:actors/3dobjs/heretic2.txt
+H2Stag1b	32436	0	0:All	:actors/3dobjs/heretic2.txt
+H2Stag2a	32437	0	1:Doom	:actors/3dobjs/heretic2.txt
+H2Stag2b	32438	0	0:All	:actors/3dobjs/heretic2.txt
+H2Stag3a	32439	0	0:All	:actors/3dobjs/heretic2.txt
+H2Stag3b	32440	0	0:All	:actors/3dobjs/heretic2.txt
+H2Shrine	32332	0	1:Doom	:actors/3dobjs/heretic2.txt
+Caesar	32400	0	1:Doom	:actors/3dobjs/hexen2.txt
+Lion	32401	0	0:All	:actors/3dobjs/hexen2.txt
+King	32402	0	0:All	:actors/3dobjs/hexen2.txt
+X2Tree1	32403	0	1:Doom	:actors/3dobjs/hexen2.txt
+X2Tree2	32404	0	0:All	:actors/3dobjs/hexen2.txt
+SimpleCart	32405	0	1:Doom	:actors/3dobjs/hexen2.txt
+Bell	32407	0	1:Doom	:actors/3dobjs/hexen2.txt
+iuBell	32408	0	1:Doom	:actors/3dobjs/hexen2.txt
+ibBell	32409	0	1:Doom	:actors/3dobjs/hexen2.txt
+Barrel1a	32410	0	1:Doom	:actors/3dobjs/hexen2.txt
+Barrel1b	32411	0	0:All	:actors/3dobjs/hexen2.txt
+Barrel2a	32412	0	1:Doom	:actors/3dobjs/hexen2.txt
+Barrel2b	32413	0	0:All	:actors/3dobjs/hexen2.txt
+Barrel3a	32414	0	1:Doom	:actors/3dobjs/hexen2.txt
+Barrel3b	32415	0	0:All	:actors/3dobjs/hexen2.txt
+JK3Stag1a	32442	0	1:Doom	:actors/3dobjs/jk3.txt
+JK3Stag2a	32443	0	0:All	:actors/3dobjs/jk3.txt
+JK3Stag3a	32444	0	0:All	:actors/3dobjs/jk3.txt
+JK3Stal1a	32420	0	1:Doom	:actors/3dobjs/jk3.txt
+JK3Stal2a	32421	0	0:All	:actors/3dobjs/jk3.txt
+JK3Stal3a	32422	0	0:All	:actors/3dobjs/jk3.txt
+JK3Stag1b	32445	0	0:All	:actors/3dobjs/jk3.txt
+JK3Stag2b	32446	0	0:All	:actors/3dobjs/jk3.txt
+JK3Stag3b	32447	0	0:All	:actors/3dobjs/jk3.txt
+JK3Stal1b	32448	0	0:All	:actors/3dobjs/jk3.txt
+JK3Stal2b	32449	0	0:All	:actors/3dobjs/jk3.txt
+JK3Stal3b	32450	0	0:All	:actors/3dobjs/jk3.txt
+JK3MineralsG1	32451	0	1:Doom	:actors/3dobjs/jk3.txt
+JK3MineralsR1	32427	0	0:All	:actors/3dobjs/jk3.txt
+JK3MineralsB1	32428	0	0:All	:actors/3dobjs/jk3.txt
+JK3MineralsG2	32452	0	1:Doom	:actors/3dobjs/jk3.txt
+JK3MineralsR2	32453	0	0:All	:actors/3dobjs/jk3.txt
+JK3MineralsB2	32454	0	0:All	:actors/3dobjs/jk3.txt
+JK3MineralsG3	32455	0	1:Doom	:actors/3dobjs/jk3.txt
+JK3MineralsR3	32456	0	0:All	:actors/3dobjs/jk3.txt
+JK3MineralsB3	32457	0	0:All	:actors/3dobjs/jk3.txt
+JK3Tree1	32423	0	1:Doom	:actors/3dobjs/jk3.txt
+JK3Tree2	32424	0	0:All	:actors/3dobjs/jk3.txt
+JK3Tree3	32425	0	0:All	:actors/3dobjs/jk3.txt
+JK3Tree4	32426	0	0:All	:actors/3dobjs/jk3.txt
+Bible	32101	0	1:Doom	:actors/objs/bible.txt
+BlackTorch	-1	0	1:Doom	:actors/objs/blacktorch.txt
+A_BlackTorch	-1	0	0:All	:actors/objs/blacktorch.txt
+BloodyChalice	32108	0	1:Doom	:actors/objs/bloodychalice.txt
+Head1	32109	0	1:Doom	:actors/objs/bloodyheads.txt
+Head2	32110	0	1:Doom	:actors/objs/bloodyheads.txt
+Head3	32111	0	1:Doom	:actors/objs/bloodyheads.txt
+Head4	32112	0	1:Doom	:actors/objs/bloodyheads.txt
+BonePile	32113	0	1:Doom	:actors/objs/bonepile.txt
+BreakableVase1	32119	0	1:Doom	:actors/objs/ceramicpotery.txt
+BreakableVase2	32120	0	1:Doom	:actors/objs/ceramicpotery.txt
+BreakableVase3	32121	0	1:Doom	:actors/objs/ceramicpotery.txt
+BreakableVase4	32122	0	1:Doom	:actors/objs/ceramicpotery.txt
+Vase1	32123	0	1:Doom	:actors/objs/ceramicpotery.txt
+Vase2	32124	0	1:Doom	:actors/objs/ceramicpotery.txt
+Vase3	32125	0	1:Doom	:actors/objs/ceramicpotery.txt
+Vase4	32126	0	1:Doom	:actors/objs/ceramicpotery.txt
+Vase5	32127	0	1:Doom	:actors/objs/ceramicpotery.txt
+Vase6	32128	0	1:Doom	:actors/objs/ceramicpotery.txt
+ZCorpseCrucified	32143	0	1:Doom	:actors/objs/crucifiedcorpses.txt
+ZCorpseCrucifiedBloody	32144	0	1:Doom	:actors/objs/crucifiedcorpses.txt
+ZCorpseCrucifiedSword	32145	0	1:Doom	:actors/objs/crucifiedcorpses.txt
+TorturedCyber	13465	0	1:Doom	:actors/objs/cybergore.txt
+Cyberarm	13466	0	1:Doom	:actors/objs/cybergore.txt
+Rocketarm	13467	0	1:Doom	:actors/objs/cybergore.txt
+Fleshleg	13468	0	1:Doom	:actors/objs/cybergore.txt
+Cyberleg	13469	0	1:Doom	:actors/objs/cybergore.txt
+D64ShortBlueTorchGoldStand	32146	0	1:Doom	:actors/objs/d64torches.txt
+D64TallBlueTorchGoldStand	32147	0	1:Doom	:actors/objs/d64torches.txt
+D64ShortBlueTorchSilverStand	32148	0	1:Doom	:actors/objs/d64torches.txt
+D64TallBlueTorchSilverStand	32149	0	1:Doom	:actors/objs/d64torches.txt
+D64ShortBlueTorchBronzeStand	32150	0	1:Doom	:actors/objs/d64torches.txt
+D64TallBlueTorchBronzeStand	32151	0	1:Doom	:actors/objs/d64torches.txt
+D64ShortCyanTorchGoldStand	32152	0	1:Doom	:actors/objs/d64torches.txt
+D64TallCyanTorchGoldStand	32153	0	1:Doom	:actors/objs/d64torches.txt
+D64ShortCyanTorchSilverStand	32154	0	1:Doom	:actors/objs/d64torches.txt
+D64TallCyanTorchSilverStand	32155	0	1:Doom	:actors/objs/d64torches.txt
+D64ShortCyanTorchBronzeStand	32156	0	1:Doom	:actors/objs/d64torches.txt
+D64TallCyanTorchBronzeStand	32157	0	1:Doom	:actors/objs/d64torches.txt
+D64ShortGreenTorchGoldStand	32158	0	1:Doom	:actors/objs/d64torches.txt
+D64TallGreenTorchGoldStand	32159	0	1:Doom	:actors/objs/d64torches.txt
+D64ShortGreenTorchSilverStand	32160	0	1:Doom	:actors/objs/d64torches.txt
+D64TallGreenTorchSilverStand	32161	0	1:Doom	:actors/objs/d64torches.txt
+D64ShortGreenTorchBronzeStand	32162	0	1:Doom	:actors/objs/d64torches.txt
+D64TallGreenTorchBronzeStand	32163	0	1:Doom	:actors/objs/d64torches.txt
+D64ShortPurpleTorchGoldStand	32164	0	1:Doom	:actors/objs/d64torches.txt
+D64TallPurpleTorchGoldStand	32165	0	1:Doom	:actors/objs/d64torches.txt
+D64ShortPurpleTorchSilverStand	32166	0	1:Doom	:actors/objs/d64torches.txt
+D64TallPurpleTorchSilverStand	32167	0	1:Doom	:actors/objs/d64torches.txt
+D64ShortPurpleTorchBronzeStand	32168	0	1:Doom	:actors/objs/d64torches.txt
+D64TallPurpleTorchBronzeStand	32169	0	1:Doom	:actors/objs/d64torches.txt
+D64ShortRedTorchGoldStand	32170	0	1:Doom	:actors/objs/d64torches.txt
+D64TallRedTorchGoldStand	32171	0	1:Doom	:actors/objs/d64torches.txt
+D64ShortRedTorchSilverStand	32172	0	1:Doom	:actors/objs/d64torches.txt
+D64TallRedTorchSilverStand	32173	0	1:Doom	:actors/objs/d64torches.txt
+D64ShortRedTorchBronzeStand	32174	0	1:Doom	:actors/objs/d64torches.txt
+D64TallRedTorchBronzeStand	32175	0	1:Doom	:actors/objs/d64torches.txt
+D64ShortWhiteTorchGoldStand	32176	0	1:Doom	:actors/objs/d64torches.txt
+D64TallWhiteTorchGoldStand	32177	0	1:Doom	:actors/objs/d64torches.txt
+D64ShortWhiteTorchSilverStand	32178	0	1:Doom	:actors/objs/d64torches.txt
+D64TallWhiteTorchSilverStand	32179	0	1:Doom	:actors/objs/d64torches.txt
+D64ShortWhiteTorchBronzeStand	32180	0	1:Doom	:actors/objs/d64torches.txt
+D64TallWhiteTorchBronzeStand	32181	0	1:Doom	:actors/objs/d64torches.txt
+D64ShortYellowTorchGoldStand	32182	0	1:Doom	:actors/objs/d64torches.txt
+D64TallYellowTorchGoldStand	32183	0	1:Doom	:actors/objs/d64torches.txt
+D64ShortYellowTorchSilverStand	32184	0	1:Doom	:actors/objs/d64torches.txt
+D64TallYellowTorchSilverStand	32185	0	1:Doom	:actors/objs/d64torches.txt
+D64ShortYellowTorchBronzeStand	32186	0	1:Doom	:actors/objs/d64torches.txt
+D64TallYellowTorchBronzeStand	32187	0	1:Doom	:actors/objs/d64torches.txt
+Daisytree	32188	0	1:Doom	:actors/objs/daisyscenes.txt
+Daisystick	32189	0	1:Doom	:actors/objs/daisyscenes.txt
+Daisyshead	32190	0	1:Doom	:actors/objs/daisyscenes.txt
+NTreeDead1	11900	0	1:Doom	:actors/objs/deadswamptrees.txt
+NTreeDead2	11901	0	1:Doom	:actors/objs/deadswamptrees.txt
+NTreeSwamp1	11902	0	1:Doom	:actors/objs/deadswamptrees.txt
+NTreeSwamp2	11903	0	1:Doom	:actors/objs/deadswamptrees.txt
+NSwampLog	11904	0	1:Doom	:actors/objs/deadswamptrees.txt
+NSwampStump	11905	0	1:Doom	:actors/objs/deadswamptrees.txt
+NSwampRoot	11906	0	1:Doom	:actors/objs/deadswamptrees.txt
+BurningCorpse1	-1	0	1:Doom	:actors/objs/dmburning.txt
+A_BurningCorpse1	-1	0	0:All	:actors/objs/dmburning.txt
+BurningCorpse2	-1	0	0:All	:actors/objs/dmburning.txt
+A_BurningCorpse2	-1	0	0:All	:actors/objs/dmburning.txt
+DoomRedFirePillar	14178	0	1:Doom	:actors/objs/doompillars.txt
+DoomGreenFirePillar	14179	0	1:Doom	:actors/objs/doompillars.txt
+DoomStatue1	32192	0	1:Doom	:actors/objs/doomstatues.txt
+DoomStatue2	32193	0	1:Doom	:actors/objs/doomstatues.txt
+BlackEvilEye	32195	0	1:Doom	:actors/objs/evileyes.txt
+BlueEvilEye	32196	0	1:Doom	:actors/objs/evileyes.txt
+GrayEvilEye	32197	0	1:Doom	:actors/objs/evileyes.txt
+PurpleEvilEye	32198	0	1:Doom	:actors/objs/evileyes.txt
+RedEvilEye	32199	0	1:Doom	:actors/objs/evileyes.txt
+YellowEvilEye	32200	0	1:Doom	:actors/objs/evileyes.txt
+CleanLog	20024	0	1:Doom	:actors/objs/firewood.txt
+CharredLog	20025	0	1:Doom	:actors/objs/firewood.txt
+BurningLog	20026	0	1:Doom	:actors/objs/firewood.txt
+EmberLog	20027	0	1:Doom	:actors/objs/firewood.txt
+CutLog	20028	0	1:Doom	:actors/objs/firewood.txt
+Gardentree1	32201	0	1:Doom	:actors/objs/garden.txt
+Gardentree2	32202	0	1:Doom	:actors/objs/garden.txt
+Gardenbush1	32203	0	1:Doom	:actors/objs/garden.txt
+Gardenbush2	32204	0	1:Doom	:actors/objs/garden.txt
+Gardenbush3	32205	0	1:Doom	:actors/objs/garden.txt
+BaronArm	20029	0	1:Doom	:actors/objs/goredec.txt
+PileoGuts	20030	0	1:Doom	:actors/objs/goredec.txt
+RockHead	20031	0	1:Doom	:actors/objs/goredec.txt
+FatsoArmGore	20032	0	1:Doom	:actors/objs/goredec.txt
+DemonLeg	20033	0	1:Doom	:actors/objs/goredec.txt
+Bone1	32206	0	1:Doom	:actors/objs/gorepack.txt
+Bone2	32207	0	1:Doom	:actors/objs/gorepack.txt
+BrainMush	32208	0	1:Doom	:actors/objs/gorepack.txt
+GoreChunk1	32209	0	1:Doom	:actors/objs/gorepack.txt
+GoreChunk2	32210	0	1:Doom	:actors/objs/gorepack.txt
+GoreChunk3	32211	0	1:Doom	:actors/objs/gorepack.txt
+EyeBall	32212	0	1:Doom	:actors/objs/gorepack.txt
+Organ1	32213	0	1:Doom	:actors/objs/gorepack.txt
+Organ2	32214	0	1:Doom	:actors/objs/gorepack.txt
+RibCage	32215	0	1:Doom	:actors/objs/gorepack.txt
+SpinalCord	32216	0	1:Doom	:actors/objs/gorepack.txt
+Organs	32217	0	1:Doom	:actors/objs/gorepack.txt
+Torso	32218	0	1:Doom	:actors/objs/gorepack.txt
+HangedImp1	32219	0	1:Doom	:actors/objs/hangedimps.txt
+HangedImp2	32220	0	1:Doom	:actors/objs/hangedimps.txt
+HangedImp3	32221	0	1:Doom	:actors/objs/hangedimps.txt
+HangedImp4	32222	0	1:Doom	:actors/objs/hangedimps.txt
+LiveHangingMarine	32223	0	1:Doom	:actors/objs/hangedmarines.txt
+DeadHangingMarine	32224	0	1:Doom	:actors/objs/hangedmarines.txt
+MostlyDeadHangingMarine	32225	0	1:Doom	:actors/objs/hangedmarines.txt
+LiveHangingMarineBlocking	32226	0	1:Doom	:actors/objs/hangedmarines.txt
+DeadHangingMarineBlocking	32227	0	1:Doom	:actors/objs/hangedmarines.txt
+MostlyDeadHangingMarineBlocking	32228	0	1:Doom	:actors/objs/hangedmarines.txt
+DoomHeadStick	12000	0	1:Doom	:actors/objs/headsticks.txt
+ImpHeadStick	12001	0	1:Doom	:actors/objs/headsticks.txt
+TrooperHeadStick	12002	0	1:Doom	:actors/objs/headsticks.txt
+CyberHeadStick	12003	0	1:Doom	:actors/objs/headsticks.txt
+HellGrowth	12367	0	1:Doom	:actors/objs/hellgrowth.txt
+HellGrowth2	12368	0	1:Doom	:actors/objs/hellgrowth.txt
+HellTree	20034	0	1:Doom	:actors/objs/helltrees.txt
+HellTreeScorch1	20035	0	1:Doom	:actors/objs/helltrees.txt
+HellTreeScorch2	20036	0	1:Doom	:actors/objs/helltrees.txt
+HellTreeBurn1	20037	0	1:Doom	:actors/objs/helltrees.txt
+HellTreeBurn2	20038	0	1:Doom	:actors/objs/helltrees.txt
+HellTreeScorch3	20039	0	1:Doom	:actors/objs/helltrees.txt
+HellTreeBurn3	20040	0	1:Doom	:actors/objs/helltrees.txt
+FleshTree1	20041	0	1:Doom	:actors/objs/helltrees.txt
+FleshTree2	20042	0	1:Doom	:actors/objs/helltrees.txt
+FleshTree3	20043	0	1:Doom	:actors/objs/helltrees.txt
+ZCorpseBurning	32118	0	1:Doom	:actors/objs/hxburning.txt
+IceStalagmiteLarge	10430	0	1:Doom	:actors/objs/icestalags.txt
+IceStalagmiteSmall1	10431	0	1:Doom	:actors/objs/icestalags.txt
+IceStalagmiteSmall2	10432	0	1:Doom	:actors/objs/icestalags.txt
+C_IceStalagmiteLarge	10707	0	1:Doom	:actors/objs/icestalags.txt
+C_IceStalagmiteSmall1	10708	0	1:Doom	:actors/objs/icestalags.txt
+C_IceStalagmiteSmall2	10709	0	1:Doom	:actors/objs/icestalags.txt
+CarcassImpaledMarine	3025	0	1:Doom	:actors/objs/impaledmarines.txt
+CarcassImpaledMarine2	3026	0	1:Doom	:actors/objs/impaledmarines.txt
+ImpStick	32231	0	1:Doom	:actors/objs/impstick.txt
+TLamp1	12850	0	1:Doom	:actors/objs/lamps.txt
+TLamp2	12851	0	1:Doom	:actors/objs/lamps.txt
+TLamp3	12852	0	1:Doom	:actors/objs/lamps.txt
+LavaCauldron	10420	0	1:Doom	:actors/objs/lavacauldron.txt
+LavaCauldronSpitter	10421	0	1:Doom	:actors/objs/lavacauldron.txt
+LimestoneFloorBig1	10600	0	1:Doom	:actors/objs/limestones.txt
+LimestoneFloorBig2	10601	0	1:Doom	:actors/objs/limestones.txt
+LimestoneFloorBig3	10602	0	1:Doom	:actors/objs/limestones.txt
+LimestoneFloorSmallLong	10603	0	1:Doom	:actors/objs/limestones.txt
+LimestoneFloorSmall1	10604	0	1:Doom	:actors/objs/limestones.txt
+LimestoneFloorSmall2	10605	0	1:Doom	:actors/objs/limestones.txt
+LimestoneFloorSmall3	10606	0	1:Doom	:actors/objs/limestones.txt
+LimestoneFloorKnobblyBig	10607	0	1:Doom	:actors/objs/limestones.txt
+LimestoneFloorKnobblyMedium	10608	0	1:Doom	:actors/objs/limestones.txt
+LimestoneFloorKnobblySmall	10609	0	1:Doom	:actors/objs/limestones.txt
+LimestoneCeilingBig1	10610	0	1:Doom	:actors/objs/limestones.txt
+LimestoneCeilingBig2	10611	0	1:Doom	:actors/objs/limestones.txt
+LimestoneCeilingSmallLong	10612	0	1:Doom	:actors/objs/limestones.txt
+LimestoneCeilingSmall1	10613	0	1:Doom	:actors/objs/limestones.txt
+LimestoneCeilingSmall2	10614	0	1:Doom	:actors/objs/limestones.txt
+LimestoneCeilingSmall3	10615	0	1:Doom	:actors/objs/limestones.txt
+TallColumnBase	-1	0	1:Doom	:actors/objs/marblecolumns.txt
+SpiralColumnBase	-1	0	1:Doom	:actors/objs/marblecolumns.txt
+MediumColumnBase	-1	0	1:Doom	:actors/objs/marblecolumns.txt
+SmallColumnBase	-1	0	1:Doom	:actors/objs/marblecolumns.txt
+FlutedGreenColumn	7100	0	0:All	:actors/objs/marblecolumns.txt
+FlutedRedColumn	7101	0	0:All	:actors/objs/marblecolumns.txt
+FlutedBlueColumn	7102	0	0:All	:actors/objs/marblecolumns.txt
+FlutedTanColumn	7103	0	0:All	:actors/objs/marblecolumns.txt
+FlutedGreyColumn	7104	0	0:All	:actors/objs/marblecolumns.txt
+FlutedBicolorColumn	7105	0	0:All	:actors/objs/marblecolumns.txt
+FlutedBlackColumn	7106	0	0:All	:actors/objs/marblecolumns.txt
+FlutedDarkRedColumn	7107	0	0:All	:actors/objs/marblecolumns.txt
+FlutedOrangeColumn	7108	0	0:All	:actors/objs/marblecolumns.txt
+FlutedMauveColumn	7109	0	0:All	:actors/objs/marblecolumns.txt
+SmoothGreenColumn	7110	0	0:All	:actors/objs/marblecolumns.txt
+SmoothRedColumn	7111	0	0:All	:actors/objs/marblecolumns.txt
+SmoothBlueColumn	7112	0	0:All	:actors/objs/marblecolumns.txt
+SmoothTanColumn	7113	0	0:All	:actors/objs/marblecolumns.txt
+SmoothGreyColumn	7114	0	0:All	:actors/objs/marblecolumns.txt
+SmoothBicolorColumn	7115	0	0:All	:actors/objs/marblecolumns.txt
+SmoothBlackColumn	7116	0	0:All	:actors/objs/marblecolumns.txt
+SmoothDarkRedColumn	7117	0	0:All	:actors/objs/marblecolumns.txt
+SmoothOrangeColumn	7118	0	0:All	:actors/objs/marblecolumns.txt
+SmoothMauveColumn	7119	0	0:All	:actors/objs/marblecolumns.txt
+MediumBlueColumn	7122	0	0:All	:actors/objs/marblecolumns.txt
+MediumTanColumn	7123	0	0:All	:actors/objs/marblecolumns.txt
+MediumGreyColumn	7124	0	0:All	:actors/objs/marblecolumns.txt
+MediumBicolorColumn	7125	0	0:All	:actors/objs/marblecolumns.txt
+MediumBlackColumn	7126	0	0:All	:actors/objs/marblecolumns.txt
+MediumDarkRedColumn	7127	0	0:All	:actors/objs/marblecolumns.txt
+MediumOrangeColumn	7128	0	0:All	:actors/objs/marblecolumns.txt
+MediumMauveColumn	7129	0	0:All	:actors/objs/marblecolumns.txt
+SmallBlueColumn	7132	0	0:All	:actors/objs/marblecolumns.txt
+SmallTanColumn	7133	0	0:All	:actors/objs/marblecolumns.txt
+SmallGreyColumn	7134	0	0:All	:actors/objs/marblecolumns.txt
+SmallBicolorColumn	7135	0	0:All	:actors/objs/marblecolumns.txt
+SmallBlackColumn	7136	0	0:All	:actors/objs/marblecolumns.txt
+SmallDarkRedColumn	7137	0	0:All	:actors/objs/marblecolumns.txt
+SmallOrangeColumn	7138	0	0:All	:actors/objs/marblecolumns.txt
+SmallMauveColumn	7139	0	0:All	:actors/objs/marblecolumns.txt
+SkullGreenColumn	7140	0	0:All	:actors/objs/marblecolumns.txt
+SkullBlueColumn	7142	0	0:All	:actors/objs/marblecolumns.txt
+SkullTanColumn	7143	0	0:All	:actors/objs/marblecolumns.txt
+SkullGreyColumn	7144	0	0:All	:actors/objs/marblecolumns.txt
+SkullBicolorColumn	7145	0	0:All	:actors/objs/marblecolumns.txt
+SkullBlackColumn	7146	0	0:All	:actors/objs/marblecolumns.txt
+SkullDarkRedColumn	7147	0	0:All	:actors/objs/marblecolumns.txt
+SkullOrangeColumn	7148	0	0:All	:actors/objs/marblecolumns.txt
+SkullMauveColumn	7149	0	0:All	:actors/objs/marblecolumns.txt
+HeartRedColumn	7151	0	0:All	:actors/objs/marblecolumns.txt
+HeartBlueColumn	7152	0	0:All	:actors/objs/marblecolumns.txt
+HeartTanColumn	7153	0	0:All	:actors/objs/marblecolumns.txt
+HeartGreyColumn	7154	0	0:All	:actors/objs/marblecolumns.txt
+HeartBicolorColumn	7155	0	0:All	:actors/objs/marblecolumns.txt
+HeartBlackColumn	7156	0	0:All	:actors/objs/marblecolumns.txt
+HeartDarkRedColumn	7157	0	0:All	:actors/objs/marblecolumns.txt
+HeartOrangeColumn	7158	0	0:All	:actors/objs/marblecolumns.txt
+HeartMauveColumn	7159	0	0:All	:actors/objs/marblecolumns.txt
+VineGreenColumn	7160	0	0:All	:actors/objs/marblecolumns.txt
+VineRedColumn	7161	0	0:All	:actors/objs/marblecolumns.txt
+VineBlueColumn	7162	0	0:All	:actors/objs/marblecolumns.txt
+VineTanColumn	7163	0	0:All	:actors/objs/marblecolumns.txt
+VineGreyColumn	7164	0	0:All	:actors/objs/marblecolumns.txt
+VineBicolorColumn	7165	0	0:All	:actors/objs/marblecolumns.txt
+VineBlackColumn	7166	0	0:All	:actors/objs/marblecolumns.txt
+VineDarkRedColumn	7167	0	0:All	:actors/objs/marblecolumns.txt
+VineOrangeColumn	7168	0	0:All	:actors/objs/marblecolumns.txt
+VineMauveColumn	7169	0	0:All	:actors/objs/marblecolumns.txt
+SpiralGreenColumn	7170	0	0:All	:actors/objs/marblecolumns.txt
+SpiralRedColumn	7171	0	0:All	:actors/objs/marblecolumns.txt
+SpiralBlueColumn	7172	0	0:All	:actors/objs/marblecolumns.txt
+SpiralTanColumn	7173	0	0:All	:actors/objs/marblecolumns.txt
+SpiralGreyColumn	7174	0	0:All	:actors/objs/marblecolumns.txt
+SpiralBicolorColumn	7175	0	0:All	:actors/objs/marblecolumns.txt
+SpiralBlackColumn	7176	0	0:All	:actors/objs/marblecolumns.txt
+SpiralDarkRedColumn	7177	0	0:All	:actors/objs/marblecolumns.txt
+SpiralOrangeColumn	7178	0	0:All	:actors/objs/marblecolumns.txt
+SpiralMauveColumn	7179	0	0:All	:actors/objs/marblecolumns.txt
+MarineVictim	32236	0	1:Doom	:actors/objs/marinevictim.txt
+LargeGlowingMushroom	13000	0	1:Doom	:actors/objs/mushrooms.txt
+SmallGlowingMushroom	13001	0	1:Doom	:actors/objs/mushrooms.txt
+GloomyTorch	32241	0	1:Doom	:actors/objs/myobjs.txt
+GloomyCauldron	32242	0	1:Doom	:actors/objs/myobjs.txt
+GloomyBrazier	32243	0	1:Doom	:actors/objs/myobjs.txt
+BloodTree1	22300	0	1:Doom	:actors/objs/myobjs.txt
+BloodTree2	22301	0	1:Doom	:actors/objs/myobjs.txt
+BloodTree3	22302	0	1:Doom	:actors/objs/myobjs.txt
+BloodTree4	22303	0	1:Doom	:actors/objs/myobjs.txt
+BloodTree5	22304	0	1:Doom	:actors/objs/myobjs.txt
+BloodTree6	22305	0	1:Doom	:actors/objs/myobjs.txt
+BloodTree7	22306	0	1:Doom	:actors/objs/myobjs.txt
+BloodGrass1A	22307	0	1:Doom	:actors/objs/myobjs.txt
+BloodGrass1B	22309	0	0:All	:actors/objs/myobjs.txt
+BloodGrass2A	22311	0	0:All	:actors/objs/myobjs.txt
+BloodGrass2B	22313	0	0:All	:actors/objs/myobjs.txt
+BloodStatue1	22315	0	1:Doom	:actors/objs/myobjs.txt
+BloodStatue2	22317	0	1:Doom	:actors/objs/myobjs.txt
+BloodTotem	22319	0	1:Doom	:actors/objs/myobjs.txt
+BloodSlicer	28307	0	1:Doom	:actors/objs/myobjs.txt
+BLSeaWeed1	12508	0	0:All	:actors/objs/myobjs.txt
+BLSeaWeed2	12509	0	0:All	:actors/objs/myobjs.txt
+DukeTorso1	12510	0	1:Doom	:actors/objs/myobjs.txt
+DukeTorso2	12511	0	0:All	:actors/objs/myobjs.txt
+SWSeaWeed1	12505	0	1:Doom	:actors/objs/myobjs.txt
+SWSeaWeed2	12506	0	0:All	:actors/objs/myobjs.txt
+SWSeaWeed3	12507	0	0:All	:actors/objs/myobjs.txt
+NRock1	20003	0	1:Doom	:actors/objs/necrorocks.txt
+NRock2	20004	0	1:Doom	:actors/objs/necrorocks.txt
+NRock3	20005	0	1:Doom	:actors/objs/necrorocks.txt
+NRock4	20006	0	1:Doom	:actors/objs/necrorocks.txt
+NRock5	20007	0	1:Doom	:actors/objs/necrorocks.txt
+NRock6	20008	0	1:Doom	:actors/objs/necrorocks.txt
+NRock7	20009	0	1:Doom	:actors/objs/necrorocks.txt
+NRock8	20010	0	1:Doom	:actors/objs/necrorocks.txt
+NRock9	20011	0	1:Doom	:actors/objs/necrorocks.txt
+NRock10	20012	0	1:Doom	:actors/objs/necrorocks.txt
+NRock1small	20013	0	1:Doom	:actors/objs/necrorocks.txt
+NRock2small	20014	0	1:Doom	:actors/objs/necrorocks.txt
+NRock3small	20015	0	1:Doom	:actors/objs/necrorocks.txt
+NRock4small	20016	0	1:Doom	:actors/objs/necrorocks.txt
+NRock5small	20017	0	1:Doom	:actors/objs/necrorocks.txt
+NRock6small	20018	0	1:Doom	:actors/objs/necrorocks.txt
+NRock7small	20019	0	1:Doom	:actors/objs/necrorocks.txt
+NRock8small	20020	0	1:Doom	:actors/objs/necrorocks.txt
+NRock9small	20021	0	1:Doom	:actors/objs/necrorocks.txt
+NRock10small	20022	0	1:Doom	:actors/objs/necrorocks.txt
+NTomb1	11907	0	1:Doom	:actors/objs/necrotombs.txt
+NTomb2	11908	0	1:Doom	:actors/objs/necrotombs.txt
+NTomb3	11909	0	1:Doom	:actors/objs/necrotombs.txt
+NTomb4	11910	0	1:Doom	:actors/objs/necrotombs.txt
+NTomb5	11911	0	1:Doom	:actors/objs/necrotombs.txt
+GreenCard	32260	0	1:Doom	:actors/objs/newkeys.txt
+OrangeCard	32261	0	1:Doom	:actors/objs/newkeys.txt
+SilverCard	32263	0	1:Doom	:actors/objs/newkeys.txt
+PurpleCard	32264	0	1:Doom	:actors/objs/newkeys.txt
+GreenSkull	32265	0	1:Doom	:actors/objs/newkeys.txt
+OrangeSkull	32266	0	1:Doom	:actors/objs/newkeys.txt
+SilverSkull	32267	0	1:Doom	:actors/objs/newkeys.txt
+PurpleSkull	32268	0	1:Doom	:actors/objs/newkeys.txt
+PhobosRock1	30354	0	1:Doom	:actors/objs/phobosrocks.txt
+PhobosRock2	30355	0	1:Doom	:actors/objs/phobosrocks.txt
+PhobosRockSmall	30356	0	1:Doom	:actors/objs/phobosrocks.txt
+SmallHealthPotion	32276	0	1:Doom	:actors/objs/potions.txt
+MediumHealthPotion	32277	0	1:Doom	:actors/objs/potions.txt
+LargeHealthPotion	32278	0	1:Doom	:actors/objs/potions.txt
+SuperHealthPotion	32279	0	1:Doom	:actors/objs/potions.txt
+SmallMiraclePotion	32280	0	1:Doom	:actors/objs/potions.txt
+MediumMiraclePotion	32281	0	1:Doom	:actors/objs/potions.txt
+LargeMiraclePotion	32282	0	1:Doom	:actors/objs/potions.txt
+SuperMiraclePotion	32283	0	1:Doom	:actors/objs/potions.txt
+SmallPortablePotion	32284	0	1:Doom	:actors/objs/potions.txt
+MediumPortablePotion	32285	0	1:Doom	:actors/objs/potions.txt
+LargePortablePotion	32286	0	1:Doom	:actors/objs/potions.txt
+SuperPortablePotion	32287	0	1:Doom	:actors/objs/potions.txt
+PowerRegenerationSmall	-1	0	0:All	:actors/objs/potions.txt
+PowerRegenerationMedium	-1	0	0:All	:actors/objs/potions.txt
+PowerRegenerationLarge	-1	0	0:All	:actors/objs/potions.txt
+PowerRegenerationSuper	-1	0	0:All	:actors/objs/potions.txt
+SmallRegenerationPotion	32288	0	1:Doom	:actors/objs/potions.txt
+MediumRegenerationPotion	32289	0	1:Doom	:actors/objs/potions.txt
+LargeRegenerationPotion	32290	0	1:Doom	:actors/objs/potions.txt
+SuperRegenerationPotion	32291	0	1:Doom	:actors/objs/potions.txt
+VasesPotionSpawner	25631	0	1:Doom	:actors/objs/potions.txt
+SmallPotionsSpawner	20070	0	1:Doom	:actors/objs/potions.txt
+MediumPotionsSpawner	20071	0	1:Doom	:actors/objs/potions.txt
+LargePotionsSpawner	20072	0	1:Doom	:actors/objs/potions.txt
+RadioactiveCorpse1	32237	0	1:Doom	:actors/objs/radcorpses.txt
+RadioactiveCorpse2	32238	0	1:Doom	:actors/objs/radcorpses.txt
+RadioactiveCorpse3	32239	0	1:Doom	:actors/objs/radcorpses.txt
+RadioactiveCorpse4	32240	0	1:Doom	:actors/objs/radcorpses.txt
+RavenSerpentFire	14180	0	1:Doom	:actors/objs/ravenpillars.txt
+RavenRustedFirePillar	14181	0	1:Doom	:actors/objs/ravenpillars.txt
+RavenIceFirePillar	14182	0	1:Doom	:actors/objs/ravenpillars.txt
+TechLanternBig	22500	0	1:Doom	:actors/objs/rooflights.txt
+TechLanternSmall	22501	0	1:Doom	:actors/objs/rooflights.txt
+BlackCandleChandelier	32194	0	1:Doom	:actors/objs/rooflights.txt
+SeaWeed	11912	0	1:Doom	:actors/objs/seaweed.txt
+SeaWeedRipple1	11913	0	1:Doom	:actors/objs/seaweed.txt
+SeaWeedRipple2	11914	0	1:Doom	:actors/objs/seaweed.txt
+SerpentBrazierBronze	10100	0	1:Doom	:actors/objs/serpbraziers.txt
+SerpentBrazierGreen	10101	0	1:Doom	:actors/objs/serpbraziers.txt
+SerpentBrazierGold	10102	0	1:Doom	:actors/objs/serpbraziers.txt
+ChestSkewered1	12540	0	1:Doom	:actors/objs/skewcorpses.txt
+ChestSkewered2	12541	0	1:Doom	:actors/objs/skewcorpses.txt
+ChestSkewered3	12542	0	1:Doom	:actors/objs/skewcorpses.txt
+SkullTree1	6454	0	1:Doom	:actors/objs/skulltree.txt
+SkullTree2	6455	0	1:Doom	:actors/objs/skulltree.txt
+ImpalingSpike	14166	0	1:Doom	:actors/objs/stgores.txt
+ImpalingSpike2	14167	0	1:Doom	:actors/objs/stgores.txt
+ImpalingSpike3	14168	0	1:Doom	:actors/objs/stgores.txt
+ImpalingSpike4	14169	0	1:Doom	:actors/objs/stgores.txt
+ImpalingSpike5	14170	0	1:Doom	:actors/objs/stgores.txt
+ImpalingSpike6	14171	0	1:Doom	:actors/objs/stgores.txt
+ImpalingSpike7	14172	0	1:Doom	:actors/objs/stgores.txt
+ImpalingSpike8	14173	0	1:Doom	:actors/objs/stgores.txt
+ImpalingSpike9	14174	0	1:Doom	:actors/objs/stgores.txt
+ImpalingSpike10	14175	0	1:Doom	:actors/objs/stgores.txt
+ImpalingSpike11	14176	0	1:Doom	:actors/objs/stgores.txt
+MarineHelmetGibs	14177	0	1:Doom	:actors/objs/stgores.txt
+BigHead1	10300	0	1:Doom	:actors/objs/stoneheads.txt
+BigHead2	10301	0	1:Doom	:actors/objs/stoneheads.txt
+BigHead3	10302	0	1:Doom	:actors/objs/stoneheads.txt
+BigHead4	10303	0	1:Doom	:actors/objs/stoneheads.txt
+BigHead5	10304	0	1:Doom	:actors/objs/stoneheads.txt
+StoneTorchBump	12320	0	1:Doom	:actors/objs/stonetorches.txt
+StoneTorchUse	10023	0	1:Doom	:actors/objs/stonetorches.txt
+StoneTorchLit	32257	0	1:Doom	:actors/objs/stonetorches.txt
+StoneTorchSpent	32258	0	1:Doom	:actors/objs/stonetorches.txt
+TechLampOff	32247	0	1:Doom	:actors/objs/switchtechlamps.txt
+TechLampOn	32248	0	0:All	:actors/objs/switchtechlamps.txt
+TechBarrelGrey	12711	0	1:Doom	:actors/objs/techbarrels.txt
+TechBarrelTan	12712	0	0:All	:actors/objs/techbarrels.txt
+TechBarrelGreen	12713	0	0:All	:actors/objs/techbarrels.txt
+TorturedBaron	32256	0	1:Doom	:actors/objs/torturedbaron.txt
+SmallTree1	10700	0	1:Doom	:actors/objs/trees&bushes.txt
+SmallTree2	10701	0	1:Doom	:actors/objs/trees&bushes.txt
+SmallBush1	10702	0	1:Doom	:actors/objs/trees&bushes.txt
+SmallBush2	10703	0	1:Doom	:actors/objs/trees&bushes.txt
+SmallWinterTree1	10704	0	1:Doom	:actors/objs/trees&bushes.txt
+SmallWinterTree2	10705	0	1:Doom	:actors/objs/trees&bushes.txt
+UACHolo1	32249	0	1:Doom	:actors/objs/uacholos.txt
+UACHolo2	32250	0	0:All	:actors/objs/uacholos.txt
+UACHolo3	32251	0	0:All	:actors/objs/uacholos.txt
+UACHolo4	32252	0	0:All	:actors/objs/uacholos.txt
+UACHolo5	32253	0	0:All	:actors/objs/uacholos.txt
+UACHolo6	32254	0	0:All	:actors/objs/uacholos.txt
+PlasmaSpawner	-1	0	0:All	:actors/objs/uacholos.txt
+PlasmaSpawner2	-1	0	0:All	:actors/objs/uacholos.txt
+PlasmaSpawner3	-1	0	0:All	:actors/objs/uacholos.txt
+BlueWallTorch	12500	0	1:Doom	:actors/objs/walltorches.txt
+RedWallTorch	12501	0	1:Doom	:actors/objs/walltorches.txt
+GreenWallTorch	12502	0	1:Doom	:actors/objs/walltorches.txt
+Zapper	32255	0	1:Doom	:actors/objs/zappers.txt
+Zapper2	32259	0	1:Doom	:actors/objs/zappers.txt
+STBFG10K	30124	0	1:Doom	:actors/weaps/bfg10k.txt
+STBFG10kShot	-1	0	0:All	:actors/weaps/bfg10k.txt
+CryoBow	20000	0	1:Doom	:actors/weaps/cryobow.txt
+CryoBolts	20001	0	0:All	:actors/weaps/goreammo.txt
+CryoShot	-1	0	1:Doom	:actors/weaps/cryobow.txt
+CryoTrail	-1	0	0:All	:actors/weaps/cryobow.txt
+CryoSmoke	-1	217	0:All	:actors/weaps/cryobow.txt
+CryoSmoke2	-1	218	0:All	:actors/weaps/cryobow.txt
+FistRedux	-1	0	1:Doom	:actors/weaps/fistredux.txt
+stamina	-1	0	0:All	:actors/weaps/fistredux.txt
+StamGen	-1	0	0:All	:actors/weaps/fistredux.txt
+FistToken	-1	0	0:All	:actors/weaps/fistredux.txt
+UTNTFlamethrower	25627	0	1:Doom	:actors/weaps/flamethrower.txt
+Gas	30115	0	0:All	:actors/weaps/goreammo.txt
+FTFire	-1	0	0:All	:actors/weaps/flamethrower.txt
+Flashlight	14071	0	1:Doom	:actors/weaps/flashlight.txt
+Batteries	14072	0	0:All	:actors/weaps/goreammo.txt
+FreezeRifle	30123	0	1:Doom	:actors/weaps/freezerifle.txt
+IceGlobe	30144	0	0:All	:actors/weaps/goreammo.txt
+FreezeBlast	-1	0	1:Doom	:actors/weaps/freezerifle.txt
+FreezeBlastTrail	-1	0	1:Doom	:actors/weaps/freezerifle.txt
+BigGas	30120	0	0:All	:actors/weaps/goreammo.txt
+DarkMana	30126	0	0:All	:actors/weaps/goreammo.txt
+Necronomicon	30125	0	1:Doom	:actors/weaps/necronomicon.txt
+NecronomiconGhostEgg	-1	0	0:All	:actors/weaps/necronomicon.txt
+NecronomiconGhostEgg2	-1	0	0:All	:actors/weaps/necronomicon.txt
+NecronomiconGhostHatch	-1	0	0:All	:actors/weaps/necronomicon.txt
+NecronomiconGhostHatch2	-1	0	0:All	:actors/weaps/necronomicon.txt
+NecronomiconGhost	-1	0	0:All	:actors/weaps/necronomicon.txt
+NecronomiconGhost2	-1	0	0:All	:actors/weaps/necronomicon.txt
+UTNTPyroCannon	30114	0	1:Doom	:actors/weaps/pyrocannon.txt
+PyroShot	-1	0	0:All	:actors/weaps/pyrocannon.txt
+PyroSpawner	-1	0	0:All	:actors/weaps/pyrocannon.txt
+PyroBoom	-1	0	0:All	:actors/weaps/pyrocannon.txt
+PyroFlare	-1	0	0:All	:actors/weaps/pyrocannon.txt
+PyroFX	-1	0	0:All	:actors/weaps/pyrocannon.txt
+DropFire	-1	0	0:All	:actors/weaps/pyrocannon.txt
+QuadShotgun	30116	0	1:Doom	:actors/weaps/qshot.txt
+SilencedPistol	30145	0	1:Doom	:actors/weaps/silencepist.txt
+STGrenadeLauncher	30122	0	1:Doom	:actors/weaps/stgrenlaunch.txt
+STGrenade	-1	0	0:All	:actors/weaps/stgrenlaunch.txt
+STMiniGun	30121	0	1:Doom	:actors/weaps/stminigun.txt
+AcidRainSpawner	10015	0	1:Doom	:actors/specfx/acidrain.txt
+AcidRainDrop	-1	0	0:All	:actors/specfx/acidrain.txt
+AcidTrail	-1	0	0:All	:actors/specfx/acidrain.txt
+AshSpawner	10001	0	1:Doom	:actors/specfx/ashspawner.txt
+FloatingAshLight	-1	0	0:All	:actors/specfx/ashspawner.txt
+FloatingAshGrey	-1	0	0:All	:actors/specfx/ashspawner.txt
+FloatingAshDarkGrey	-1	0	0:All	:actors/specfx/ashspawner.txt
+FloatingAshDark	-1	0	0:All	:actors/specfx/ashspawner.txt
+AutumnSpawner	14070	0	1:Doom	:actors/specfx/autumnspawner.txt
+ZAutumnSpawner	8898	0	1:Doom	:actors/specfx/autumnspawner.txt
+FloatingLeaf	-1	0	0:All	:actors/specfx/autumnspawner.txt
+BloodyRainSpawner	10706	0	1:Doom	:actors/specfx/bloodyrain.txt
+BloodyRainDrop	-1	0	0:All	:actors/specfx/bloodyrain.txt
+BubbleSpawner	12345	0	1:Doom	:actors/specfx/bubbles.txt
+Bubble	-1	0	0:All	:actors/specfx/bubbles.txt
+CinderSpawner	10003	0	1:Doom	:actors/specfx/cinderspawner.txt
+FloatingCinder	-1	0	0:All	:actors/specfx/cinderspawner.txt
+CloudSpawner	10014	0	1:Doom	:actors/specfx/cloudspawner.txt
+MiniCloudGrey	-1	0	0:All	:actors/specfx/cloudspawner.txt
+SmallCloudGrey	-1	0	0:All	:actors/specfx/cloudspawner.txt
+MediumCloudGrey	-1	0	0:All	:actors/specfx/cloudspawner.txt
+LargeCloudGrey	-1	0	0:All	:actors/specfx/cloudspawner.txt
+MiniCloudTan	-1	0	0:All	:actors/specfx/cloudspawner.txt
+SmallCloudTan	-1	0	0:All	:actors/specfx/cloudspawner.txt
+MediumCloudTan	-1	0	0:All	:actors/specfx/cloudspawner.txt
+LargeCloudTan	-1	0	0:All	:actors/specfx/cloudspawner.txt
+MiniCloudRed	-1	0	0:All	:actors/specfx/cloudspawner.txt
+SmallCloudRed	-1	0	0:All	:actors/specfx/cloudspawner.txt
+MediumCloudRed	-1	0	0:All	:actors/specfx/cloudspawner.txt
+LargeCloudRed	-1	0	0:All	:actors/specfx/cloudspawner.txt
+CrowWander1L	8881	0	0:All	:actors/specfx/crows.txt
+CrowWander1R	8882	0	0:All	:actors/specfx/crows.txt
+CrowWander2L	8883	0	0:All	:actors/specfx/crows.txt
+CrowWander2R	8884	0	0:All	:actors/specfx/crows.txt
+CrowWander3L	8885	0	0:All	:actors/specfx/crows.txt
+CrowWander3R	8886	0	0:All	:actors/specfx/crows.txt
+CrowWander4L	8887	0	0:All	:actors/specfx/crows.txt
+CrowWander4R	8888	0	0:All	:actors/specfx/crows.txt
+CrowStill1L	8889	0	0:All	:actors/specfx/crows.txt
+CrowStill1R	8890	0	0:All	:actors/specfx/crows.txt
+CrowStill2L	8891	0	0:All	:actors/specfx/crows.txt
+CrowStill2R	8892	0	0:All	:actors/specfx/crows.txt
+CrowStill3L	8893	0	0:All	:actors/specfx/crows.txt
+CrowStill3R	8894	0	0:All	:actors/specfx/crows.txt
+CrowStill4L	8895	0	0:All	:actors/specfx/crows.txt
+CrowStill4R	8896	0	0:All	:actors/specfx/crows.txt
+CrowGroupFlee	-1	0	0:All	:actors/specfx/crows.txt
+CrowSpawner	8897	0	1:Doom	:actors/specfx/crows.txt
+EmberSpawner	10005	0	1:Doom	:actors/specfx/emberspawner.txt
+BaseEmber	-1	0	0:All	:actors/specfx/emberspawner.txt
+FallSmoke1	-1	0	1:Doom	:actors/specfx/fallspawner.txt
+FallSmoke2	-1	0	0:All	:actors/specfx/fallspawner.txt
+FallSmoke3	-1	0	0:All	:actors/specfx/fallspawner.txt
+FallSmoke4	-1	0	0:All	:actors/specfx/fallspawner.txt
+FallSmoke5	-1	0	0:All	:actors/specfx/fallspawner.txt
+FallSmoke6	-1	0	0:All	:actors/specfx/fallspawner.txt
+FallSmoke7	-1	0	0:All	:actors/specfx/fallspawner.txt
+FallSmoke8	-1	0	0:All	:actors/specfx/fallspawner.txt
+FallSmoke9	-1	0	0:All	:actors/specfx/fallspawner.txt
+FallSmoke10	-1	0	0:All	:actors/specfx/fallspawner.txt
+FallSmoke11	-1	0	0:All	:actors/specfx/fallspawner.txt
+FallSmoke12	-1	0	0:All	:actors/specfx/fallspawner.txt
+FallSmoke13	-1	0	0:All	:actors/specfx/fallspawner.txt
+FallSmoke14	-1	0	0:All	:actors/specfx/fallspawner.txt
+FallSmoke15	-1	0	0:All	:actors/specfx/fallspawner.txt
+FallSmoke16	-1	0	0:All	:actors/specfx/fallspawner.txt
+FallSmoke17	-1	0	0:All	:actors/specfx/fallspawner.txt
+FallSmoke18	-1	0	0:All	:actors/specfx/fallspawner.txt
+FallSmoke19	-1	0	0:All	:actors/specfx/fallspawner.txt
+FallSmoke20	-1	0	0:All	:actors/specfx/fallspawner.txt
+BigFallSpawner	11000	0	1:Doom	:actors/specfx/fallspawner.txt
+MidFallSpawner	11001	0	1:Doom	:actors/specfx/fallspawner.txt
+SmallFallSpawner	11002	0	1:Doom	:actors/specfx/fallspawner.txt
+HugeFallSpawner	11003	0	1:Doom	:actors/specfx/fallspawner.txt
+TinyFallSpawner	11004	0	1:Doom	:actors/specfx/fallspawner.txt
+ACSFallSpawner	11005	0	1:Doom	:actors/specfx/fallspawner.txt
+FallSmoke10G	-1	0	0:All	:actors/specfx/fallspawner.txt
+FallSmoke10R	-1	0	0:All	:actors/specfx/fallspawner.txt
+FallSmoke10B	-1	0	0:All	:actors/specfx/fallspawner.txt
+FireSpawner	10006	0	1:Doom	:actors/specfx/fire.txt
+SmallFlame	-1	0	0:All	:actors/specfx/fire.txt
+MediumFlame	-1	0	0:All	:actors/specfx/fire.txt
+LargeFlame	-1	0	0:All	:actors/specfx/fire.txt
+Flame1A	-1	0	0:All	:actors/specfx/fire.txt
+Flame1B	-1	0	0:All	:actors/specfx/fire.txt
+Flame2A	-1	0	0:All	:actors/specfx/fire.txt
+Flame2B	-1	0	0:All	:actors/specfx/fire.txt
+Flame3A	-1	0	0:All	:actors/specfx/fire.txt
+Flame3B	-1	0	0:All	:actors/specfx/fire.txt
+Flame4A	-1	0	0:All	:actors/specfx/fire.txt
+Flame4B	-1	0	0:All	:actors/specfx/fire.txt
+Flame5A	-1	0	0:All	:actors/specfx/fire.txt
+Flame5B	-1	0	0:All	:actors/specfx/fire.txt
+Flame6A	-1	0	0:All	:actors/specfx/fire.txt
+Flame6B	-1	0	0:All	:actors/specfx/fire.txt
+Flame7A	-1	0	0:All	:actors/specfx/fire.txt
+Flame7B	-1	0	0:All	:actors/specfx/fire.txt
+Flame8A	-1	0	0:All	:actors/specfx/fire.txt
+Flame8B	-1	0	0:All	:actors/specfx/fire.txt
+Flame9A	-1	0	0:All	:actors/specfx/fire.txt
+Flame9B	-1	0	0:All	:actors/specfx/fire.txt
+Ember1	-1	0	0:All	:actors/specfx/fire.txt
+Ember2	-1	0	0:All	:actors/specfx/fire.txt
+FogCloud_Generator	20073	0	1:Doom	:actors/specfx/fog.txt
+FogCloud_V1	-1	0	0:All	:actors/specfx/fog.txt
+FogCloud_V2	-1	0	0:All	:actors/specfx/fog.txt
+FogCloud_V3	-1	0	0:All	:actors/specfx/fog.txt
+LavaBallSpawner	10007	0	1:Doom	:actors/specfx/lavaballspawner.txt
+LavaBall	-1	0	0:All	:actors/specfx/lavaballspawner.txt
+LavaBallNoDamage	-1	0	0:All	:actors/specfx/lavaballspawner.txt
+LavaBallTrail	-1	0	0:All	:actors/specfx/lavaballspawner.txt
+RainSpawner	10008	0	1:Doom	:actors/specfx/rainspawner.txt
+RainDrop	-1	0	0:All	:actors/specfx/rainspawner.txt
+RatSpawner	12343	0	1:Doom	:actors/specfx/scurryingrats.txt
+ScurryRat	12342	0	1:Doom	:actors/specfx/scurryingrats.txt
+SnowSpawner	10009	0	1:Doom	:actors/specfx/snowspawner.txt
+SnowParticle	-1	0	0:All	:actors/specfx/snowspawner.txt
+SnowFlake1	-1	0	0:All	:actors/specfx/snowspawner.txt
+SnowFlake2	-1	0	0:All	:actors/specfx/snowspawner.txt
+SnowFlake3	-1	0	0:All	:actors/specfx/snowspawner.txt
+SnowFlake4	-1	0	0:All	:actors/specfx/snowspawner.txt
+SnowFlake5	-1	0	0:All	:actors/specfx/snowspawner.txt
+SnowFlake6	-1	0	0:All	:actors/specfx/snowspawner.txt
+SnowFlake7	-1	0	0:All	:actors/specfx/snowspawner.txt
+SnowFlake8	-1	0	0:All	:actors/specfx/snowspawner.txt
+SnowFlake9	-1	0	0:All	:actors/specfx/snowspawner.txt
+DamnedSoulSpawner	12344	0	1:Doom	:actors/specfx/soulspawner.txt
+DamnedSoul	-1	0	0:All	:actors/specfx/soulspawner.txt
+DamnedSoulSilent	-1	0	0:All	:actors/specfx/soulspawner.txt
+SteamSpawner	10010	0	1:Doom	:actors/specfx/steamspawner.txt
+SteamParticle	-1	0	0:All	:actors/specfx/steamspawner.txt
+Thunder_GeneratorWhite	3199	0	1:Doom	:actors/specfx/t667thun.txt
+Thunder_GeneratorTan	3198	0	0:All	:actors/specfx/t667thun.txt
+Thunder_GeneratorGreen	3197	0	0:All	:actors/specfx/t667thun.txt
+Thunder_GeneratorRed	3196	0	0:All	:actors/specfx/t667thun.txt
+Thunder_GeneratorBlue	3195	0	0:All	:actors/specfx/t667thun.txt
+Thunder_GeneratorPink	3194	0	0:All	:actors/specfx/t667thun.txt
+Thunder_Spark	-1	0	0:All	:actors/specfx/t667thun.txt
+Thunder_Smoke	-1	0	0:All	:actors/specfx/t667thun.txt
+VisualSpecialEffect	-1	0	0:All	:actors/specfx/tport.txt
+TPortal	10011	163	1:Doom	:actors/specfx/tport.txt
+TPortalPermanent	10012	154	0:All	:actors/specfx/tport.txt
+TPortalTemporary	10013	162	0:All	:actors/specfx/tport.txt
+Counter	-1	0	0:All	:actors/specfx/tport.txt
+TPortMist	-1	0	0:All	:actors/specfx/tport.txt
+TPortMistSpawner	-1	0	0:All	:actors/specfx/tport.txt
+TPortLightning	-1	0	0:All	:actors/specfx/tport.txt
+TPortLightningSmall	-1	0	0:All	:actors/specfx/tport.txt
+TPortLightningMedium	-1	0	0:All	:actors/specfx/tport.txt
+TPortLightningLarge	-1	0	0:All	:actors/specfx/tport.txt
+TPortLightningHuge	-1	0	0:All	:actors/specfx/tport.txt
+TPortLightningWave	-1	0	0:All	:actors/specfx/tport.txt
+TPortLightningWaveSpawner	-1	0	0:All	:actors/specfx/tport.txt
+UnholySparkle	-1	0	0:All	:actors/specfx/unholysparkle.txt
+WhiteUnholySpawner	10017	0	1:Doom	:actors/specfx/unholysparkle.txt
+BlueUnholySpawner	10018	0	0:All	:actors/specfx/unholysparkle.txt
+GreenUnholySpawner	10019	0	0:All	:actors/specfx/unholysparkle.txt
+RedUnholySpawner	10020	0	0:All	:actors/specfx/unholysparkle.txt
+OrangeUnholySpawner	10021	0	0:All	:actors/specfx/unholysparkle.txt
+PurpleUnholySpawner	10022	0	0:All	:actors/specfx/unholysparkle.txt
+ArmorShard	32292	0	1:Doom	:actors/powups/armorshard.txt
+BioSuit	32245	0	1:Doom	:actors/powups/biosuit.txt
+BioSuitFeet	-1	0	0:All	:actors/powups/biosuit.txt
+PowerBioSuitProtection	-1	0	0:All	:actors/powups/biosuit.txt
+BioSuitProtector	-1	0	0:All	:actors/powups/biosuit.txt
+CloakOfTerror	32244	0	0:All	:actors/powups/cloakot.txt
+FlightSphere	32275	0	1:Doom	:actors/powups/flightsphere.txt
+GuardsphereST	32270	0	1:Doom	:actors/powups/guardsphere.txt
+PowerQuarterDamageST	-1	0	0:All	:actors/powups/guardsphere.txt
+HasteSphere	32271	0	1:Doom	:actors/powups/hastesphere.txt
+PowerUberAmmo	-1	0	0:All	:actors/powups/megapack.txt
+MegaPack	32269	0	1:Doom	:actors/powups/megapack.txt
+RageSphere	32272	0	1:Doom	:actors/powups/ragesphere.txt
+RegenSphere	32273	0	1:Doom	:actors/powups/regensphere.txt
+ShieldSphere	12763	0	1:Doom	:actors/powups/shieldsphere.txt
+SuperShield	32246	0	1:Doom	:actors/powups/supershield.txt
+TimeFreezeSphereST	32274	0	1:Doom	:actors/powups/timefreeze.txt
+SWFloorLever	28300	0	1:Doom	:actors/misc/kvxgore.txt
+SWWallButton	28301	0	1:Doom	:actors/misc/kvxgore.txt
+SWWallLever	28302	0	1:Doom	:actors/misc/kvxgore.txt
+SWSimpleWallLever	28303	0	1:Doom	:actors/misc/kvxgore.txt
+SWPowerSupply	28304	0	1:Doom	:actors/misc/kvxgore.txt
+SWHiddenSwitch	28305	0	1:Doom	:actors/misc/kvxgore.txt
+SWPulsatingHeart	28306	0	1:Doom	:actors/misc/kvxgore.txt
+BLWoodenBeams	28308	0	1:Doom	:actors/misc/kvxgore.txt
+BLGrave1	28309	0	1:Doom	:actors/misc/kvxgore.txt
+BLGrave2	28310	0	1:Doom	:actors/misc/kvxgore.txt
+BLGrave3	28311	0	1:Doom	:actors/misc/kvxgore.txt
+BLGrave4	28312	0	1:Doom	:actors/misc/kvxgore.txt
+BLGrave5	28313	0	1:Doom	:actors/misc/kvxgore.txt
+BLGrave6	28314	0	1:Doom	:actors/misc/kvxgore.txt
+BLGrave7	28315	0	1:Doom	:actors/misc/kvxgore.txt
+BLGrave8	28316	0	1:Doom	:actors/misc/kvxgore.txt
+
+]soundlist
+  0. { no sound } (DSEMPTY)
+  1. *pain -> #0 { *pain100  *pain75  *pain50  *pain25 }
+  2. *pain100 <<player sound 3>>
+  3. *pain75 <<player sound 4>>
+  4. *pain50 <<player sound 5>>
+  5. *pain25 <<player sound 6>>
+  6. misc/keytry -> *usefail
+  7. *usefail <<player sound 11>>
+  8. misc/health_pkup -> misc/i_pkup
+  9. misc/i_pkup (DSITEMUP)
+ 10. misc/armor_pkup -> misc/i_pkup
+ 11. misc/ammo_pkup -> misc/i_pkup
+ 12. world/spark1 (SPARK1)
+ 13. world/spark2 (SPARK2)
+ 14. world/spark3 (SPARK3)
+ 15. world/spark -> #1 { world/spark1  world/spark2  world/spark3 }
+ 16. world/quake (DSQUAKE)
+ 17. misc/freeze (ICEDTH1)
+ 18. misc/icebreak (ICEBRK1A)
+ 19. dog/active (DSDGACT)
+ 20. dog/attack (DSDGATK)
+ 21. dog/death (DSDGDTH)
+ 22. dog/pain (DSDGPAIN)
+ 23. dog/sight (DSDGSIT)
+ 24. misc/unused (DSSKLDTH)
+ 25. *death <<player sound 0>>
+ 26. player"0"*death (DSPLDETH)
+ 27. *xdeath <<player sound 1>>
+ 28. player"0"*xdeath (DSPDIEHI)
+ 29. *gibbed <<player sound 2>>
+ 30. player"0"*gibbed (DSSLOP)
+ 31. player"0"*pain100 (DSPLPAIN)
+ 32. *grunt <<player sound 7>>
+ 33. player"0"*grunt (DSOOF)
+ 34. *land <<player sound 8>>
+ 35. *jump <<player sound 9>>
+ 36. player"0"*jump (DSEMPTY)
+ 37. *fist <<player sound 10>>
+ 38. player"0"*fist (DSPUNCH)
+ 39. player"0"*usefail (DSNOWAY)
+ 40. player"1"*death **not present**
+ 41. player"1"*xdeath **not present**
+ 42. player"1"*gibbed (DSSLOP)
+ 43. player"1"*pain100 **not present**
+ 44. player"1"*grunt **not present**
+ 45. player"1"*jump **not present**
+ 46. player"1"*fist (DSPUNCH)
+ 47. player"1"*usefail **not present**
+ 48. player"2"*death **not present**
+ 49. player"2"*xdeath **not present**
+ 50. player"2"*gibbed (DSSLOP)
+ 51. player"2"*pain100 **not present**
+ 52. player"2"*grunt **not present**
+ 53. player"2"*jump **not present**
+ 54. player"2"*fist (DSPUNCH)
+ 55. player"2"*usefail **not present**
+ 56. player/male/death1 -> player"0"*death
+ 57. player/male/death2 -> player"0"*death
+ 58. player/male/death3 -> player"0"*death
+ 59. player/male/death4 -> player"0"*death
+ 60. player/male/xdeath1 -> player"0"*xdeath
+ 61. player/male/pain100_1 -> player"0"*pain100
+ 62. player/male/pain100_2 -> player"0"*pain100
+ 63. player/male/pain75_1 -> player"0"*pain100
+ 64. player/male/pain75_2 -> player"0"*pain100
+ 65. player/male/pain50_1 -> player"0"*pain100
+ 66. player/male/pain50_2 -> player"0"*pain100
+ 67. player/male/pain25_1 -> player"0"*pain100
+ 68. player/male/pain25_2 -> player"0"*pain100
+ 69. player/male/grunt1 -> player"0"*grunt
+ 70. player/male/land1 -> player"0"*grunt
+ 71. player/male/jump1 -> player"0"*jump
+ 72. player/male/gibbed -> player"0"*gibbed
+ 73. player/male/fist -> player"0"*fist
+ 74. player/female/death1 -> player"1"*death
+ 75. player/female/death2 -> player"1"*death
+ 76. player/female/death3 -> player"1"*death
+ 77. player/female/death4 -> player"1"*death
+ 78. player/female/xdeath1 -> player"1"*xdeath
+ 79. player/female/pain100_1 -> player"1"*pain100
+ 80. player/female/pain100_2 -> player"1"*pain100
+ 81. player/female/pain75_1 -> player"1"*pain100
+ 82. player/female/pain75_2 -> player"1"*pain100
+ 83. player/female/pain50_1 -> player"1"*pain100
+ 84. player/female/pain50_2 -> player"1"*pain100
+ 85. player/female/pain25_1 -> player"1"*pain100
+ 86. player/female/pain25_2 -> player"1"*pain100
+ 87. player/female/grunt1 -> player"1"*grunt
+ 88. player/female/land1 -> player"1"*grunt
+ 89. player/female/jump1 -> player"1"*jump
+ 90. player/female/gibbed -> player"1"*gibbed
+ 91. player/female/fist -> player"1"*fist
+ 92. player/cyborg/death1 -> player"2"*death
+ 93. player/cyborg/death2 -> player"2"*death
+ 94. player/cyborg/death3 -> player"2"*death
+ 95. player/cyborg/death4 -> player"2"*death
+ 96. player/cyborg/xdeath1 -> player"2"*xdeath
+ 97. player/cyborg/pain100_1 -> player"2"*pain100
+ 98. player/cyborg/pain100_2 -> player"2"*pain100
+ 99. player/cyborg/pain75_1 -> player"2"*pain100
+100. player/cyborg/pain75_2 -> player"2"*pain100
+101. player/cyborg/pain50_1 -> player"2"*pain100
+102. player/cyborg/pain50_2 -> player"2"*pain100
+103. player/cyborg/pain25_1 -> player"2"*pain100
+104. player/cyborg/pain25_2 -> player"2"*pain100
+105. player/cyborg/grunt1 -> player"2"*grunt
+106. player/cyborg/land1 -> player"2"*grunt
+107. player/cyborg/jump1 -> player"2"*jump
+108. player/cyborg/gibbed -> player"2"*gibbed
+109. player/cyborg/fist -> player"2"*fist
+110. weapons/sawup (DSSAWUP)
+111. weapons/sawidle (DSSAWIDL)
+112. weapons/sawfull (DSSAWFUL)
+113. weapons/sawhit (DSSAWHIT)
+114. weapons/pistol (DSPISTOL)
+115. weapons/shotgf (DSSHOTGN)
+116. weapons/shotgr (DSSGCOCK)
+117. weapons/sshotf (DSDSHTGN)
+118. weapons/sshoto (DSDBOPN)
+119. weapons/sshotc (DSDBCLS)
+120. weapons/sshotl (DSDBLOAD)
+121. weapons/chngun (DSPISTOL)
+122. weapons/rocklx (DSBAREXP)
+123. weapons/rocklf (DSRLAUNC)
+124. weapons/plasmaf (DSPLASMA)
+125. weapons/plasmax (DSFIRXPL)
+126. weapons/bfgf (DSBFG)
+127. weapons/bfgx (DSRXPLOD)
+128. weapons/railgf (RAILGF1)
+129. weapons/grbnce (DSBOUNCE)
+130. weapons/grenlx (DSGRNEXP)
+131. weapons/grenlf (DSGLAUNC)
+132. misc/brainexplode -> weapons/rocklx
+133. misc/gibbed (DSSLOP)
+134. grunt/sight -> #2 { grunt/sight1  grunt/sight2  grunt/sight3 }
+135. grunt/sight1 (DSPOSIT1)
+136. grunt/sight2 (DSPOSIT2)
+137. grunt/sight3 (DSPOSIT3)
+138. grunt/death -> #3 { grunt/death1  grunt/death2  grunt/death3 }
+139. grunt/death1 (DSPODTH1)
+140. grunt/death2 (DSPODTH2)
+141. grunt/death3 (DSPODTH3)
+142. grunt/active (DSPOSACT)
+143. grunt/pain (DSPOPAIN)
+144. grunt/attack (DSPISTOL)
+145. shotguy/sight -> #4 { shotguy/sight1  shotguy/sight2  shotguy/sight3 }
+146. shotguy/sight1 (DSPOSIT1)
+147. shotguy/sight2 (DSPOSIT2)
+148. shotguy/sight3 (DSPOSIT3)
+149. shotguy/death -> #5 { shotguy/death1  shotguy/death2  shotguy/death3 }
+150. shotguy/death1 (DSPODTH1)
+151. shotguy/death2 (DSPODTH2)
+152. shotguy/death3 (DSPODTH3)
+153. shotguy/active (DSPOSACT)
+154. shotguy/pain (DSPOPAIN)
+155. shotguy/attack (DSSHOTGN)
+156. vile/sight (DSVILSIT)
+157. vile/active (DSVILACT)
+158. vile/pain (DSVIPAIN)
+159. vile/death (DSVILDTH)
+160. vile/raise (DSSLOP)
+161. vile/start (DSVILATK)
+162. vile/stop (DSBAREXP)
+163. vile/firestrt (DSFLAMST)
+164. vile/firecrkl (DSFLAME)
+165. skeleton/sight (DSSKESIT)
+166. skeleton/active (DSSKEACT)
+167. skeleton/pain (DSPOPAIN)
+168. skeleton/melee (DSSKEPCH)
+169. skeleton/swing (DSSKESWG)
+170. skeleton/death (DSSKEDTH)
+171. skeleton/attack (DSSKEATK)
+172. skeleton/tracex (DSBAREXP)
+173. fatso/sight (DSMANSIT)
+174. fatso/active (DSPOSACT)
+175. fatso/pain (DSMNPAIN)
+176. fatso/raiseguns (DSMANATK)
+177. fatso/death (DSMANDTH)
+178. fatso/attack (DSFIRSHT)
+179. fatso/shotx (DSFIRXPL)
+180. chainguy/sight -> #6 { chainguy/sight1  chainguy/sight2  chainguy/sight3 }
+181. chainguy/sight1 (DSPOSIT1)
+182. chainguy/sight2 (DSPOSIT2)
+183. chainguy/sight3 (DSPOSIT3)
+184. chainguy/death -> #7 { chainguy/death1  chainguy/death2  chainguy/death3 }
+185. chainguy/death1 (DSPODTH1)
+186. chainguy/death2 (DSPODTH2)
+187. chainguy/death3 (DSPODTH3)
+188. chainguy/active (DSPOSACT)
+189. chainguy/pain (DSPOPAIN)
+190. chainguy/attack (DSSHOTGN)
+191. imp/sight -> #8 { imp/sight1  imp/sight2 }
+192. imp/sight1 (DSBGSIT1)
+193. imp/sight2 (DSBGSIT2)
+194. imp/death -> #9 { imp/death1  imp/death2 }
+195. imp/death1 (DSBGDTH1)
+196. imp/death2 (DSBGDTH2)
+197. imp/active (DSBGACT)
+198. imp/pain (DSPOPAIN)
+199. imp/melee (DSCLAW)
+200. imp/attack (DSFIRSHT)
+201. imp/shotx (DSFIRXPL)
+202. demon/sight (DSDPSIT)
+203. demon/active (DSDPACT)
+204. demon/pain (DSDPPAIN)
+205. demon/melee (DSEMPTY)
+206. demon/death (DSDPDTH)
+207. spectre/sight (DSSGTSIT)
+208. spectre/active (DSDMACT)
+209. spectre/pain (DSDMPAIN)
+210. spectre/melee (DSSGTATK)
+211. spectre/death (DSSGTDTH)
+212. caco/sight (DSCACSIT)
+213. caco/active (DSDMACT)
+214. caco/pain (DSDMPAIN)
+215. caco/death (DSCACDTH)
+216. caco/attack (DSFIRSHT)
+217. caco/shotx (DSFIRXPL)
+218. baron/sight (DSBRSSIT)
+219. baron/active (DSDMACT)
+220. baron/pain (DSDMPAIN)
+221. baron/melee (DSCLAW)
+222. baron/death (DSBRSDTH)
+223. baron/attack (DSFIRSHT)
+224. baron/shotx (DSFIRXPL)
+225. knight/sight (DSKNTSIT)
+226. knight/active (DSDMACT)
+227. knight/pain (DSDMPAIN)
+228. knight/death (DSKNTDTH)
+229. skull/active (DSDMACT)
+230. skull/pain (DSDMPAIN)
+231. skull/melee (DSSKLATK)
+232. skull/death (DSFIRXPL)
+233. spider/sight (DSSPISIT)
+234. spider/active (DSDMACT)
+235. spider/pain (DSDMPAIN)
+236. spider/attack (DSSHOTGN)
+237. spider/death (DSSPIDTH)
+238. spider/walk (DSMETAL)
+239. baby/sight (DSBSPSIT)
+240. baby/active (DSBSPACT)
+241. baby/pain (DSDMPAIN)
+242. baby/death (DSBSPDTH)
+243. baby/walk (DSBSPWLK)
+244. baby/attack (DSPLASMA)
+245. baby/shotx (DSFIRXPL)
+246. cyber/sight (DSCYBSIT)
+247. cyber/active (DSDMACT)
+248. cyber/pain (DSDMPAIN)
+249. cyber/death (DSCYBDTH)
+250. cyber/hoof (DSHOOF)
+251. pain/sight (DSPESIT)
+252. pain/active (DSDMACT)
+253. pain/pain (DSPEPAIN)
+254. pain/death (DSPEDTH)
+255. wolfss/sight (DSSSSIT)
+256. wolfss/active (DSPOSACT)
+257. wolfss/pain (DSPOPAIN)
+258. wolfss/death (DSSSDTH)
+259. wolfss/attack (DSSHOTGN)
+260. keen/pain (DSKEENPN)
+261. keen/death (DSKEENDT)
+262. brain/sight (DSBOSSIT)
+263. brain/pain (DSBOSPN)
+264. brain/death (DSBOSDTH)
+265. brain/spit (DSBOSPIT)
+266. brain/cube (DSBOSCUB)
+267. brain/cubeboom (DSFIRXPL)
+268. brain/spawn -> misc/teleport
+269. misc/teleport (DSTELEPT)
+270. world/barrelx (DSBAREXP)
+271. world/drip (DSDRIP)
+272. world/watersplash -> #44 { world/watersplash1  world/watersplash2 }
+273. world/sludgegloop -> #46 { world/sludgegloop1  world/sludgegloop2 }
+274. world/lavasizzle -> #48 { world/lavasizzle1  world/lavasizzle2 }
+275. plats/pt1_strt (DSPSTART)
+276. plats/pt1_stop (DSPSTOP)
+277. plats/pt1_mid (DSSTNMOV)
+278. doors/dr1_open (DSDOROPN)
+279. doors/dr1_clos (DSDORCLS)
+280. doors/dr2_open (DSBDOPN)
+281. doors/dr2_clos (DSBDCLS)
+282. misc/secret (DKSECRET)
+283. misc/w_pkup (DSWPNUP)
+284. misc/p_pkup (DSGETPOW)
+285. misc/k_pkup (DSITEMUP)
+286. misc/spawn (DSITMBK)
+287. misc/chat (DSRADIO)
+288. misc/chat2 (DSTINK)
+289. switches/normbutn (DSSWTCHN)
+290. switches/exitbutn (DSSWTCHX)
+291. menu/activate -> #64 { bloodsplat1  bloodsplat2  bloodsplat3 }
+292. menu/backup (UT2K4OPT)
+293. menu/prompt (UT2K4OPT)
+294. menu/cursor (UT2K4OPT)
+295. menu/change -> #65 { bloodsplat1  bloodsplat2  bloodsplat3 }
+296. menu/invalid (UT2K4OPT)
+297. menu/dismiss (UT2K4OPT)
+298. menu/choose -> #66 { bloodsplat1  bloodsplat2  bloodsplat3 }
+299. menu/clear (UT2K4OPT)
+300. menu/quit1 -> #10 { player/male/death1  demon/pain  grunt/pain  misc/gibbed  misc/teleport  grunt/sight1  grunt/sight3  demon/melee }
+301. menu/quit2 -> #11 { vile/active  misc/p_pkup  brain/cube  misc/gibbed  skeleton/swing  knight/death  baby/active  demon/melee }
+302. intermission/tick -> weapons/pistol
+303. intermission/cooptotal -> *death
+304. intermission/nextstage -> weapons/rocklx
+305. intermission/paststats -> weapons/shotgr
+306. intermission/pastcoopstats -> weapons/shotgr
+307. intermission/pastdmstats -> *gibbed
+308. supplychest/open (SPBXOPEN)
+309. zapper/Loop (ZAPRLOOP)
+310. lavacauldron/Loop (DSLAVLOP)
+311. techbarrel/Explode (DSTEKEXP)
+312. pot/Break (POTBRK)
+313. piranha/sight (DETECT)
+314. piranha/death (SQUISH)
+315. piranha/active (ROAMING)
+316. CHOMP (CHOMP)
+317. SWIPE (SWIPE)
+318. CIMPSIT -> #12 { CIMPSIT1  CIMPSIT2 }
+319. CIMPSIT1 (CIMPSIT1)
+320. CIMPSIT2 (CIMPSIT2)
+321. CIMPDTH -> #13 { CIMPDTH1  CIMPDTH2 }
+322. CIMPDTH1 (CIMPDTH1)
+323. CIMPDTH2 (CIMPDTH2)
+324. CIMPPAIN (CIMPPAIN)
+325. CIMPACT (CIMPACT)
+326. Tesla/Attack (DSTESATK)
+327. Tesla/Loop (DSTESLOP)
+328. DarkRift/Active (DRFTACT)
+329. DarkRift/Fire (DRFTFIRE)
+330. DarkRift/Hit (DRFTHIT)
+331. DarkRift/Loop (DRFTLOOP)
+332. flyingfatso/jetloop (DSFFJETS)
+333. flyingfatso/jeton (DSFFJET1)
+334. flyingfatso/jetoff (DSFFJET0)
+335. FFslimeball/shoot (DSFFSHOT)
+336. FFslimeball/splat (DSFFSPLA)
+337. Shadow/active -> #14 { act1  act2 }
+338. act1 (SHDACT1)
+339. act2 (SHDACT2)
+340. Shadow/pain -> #15 { pain1  pain2 }
+341. pain1 (SHDPAIN1)
+342. pain2 (SHDPAIN2)
+343. Shadow/attack (SHDATTAK)
+344. Shadow/death (SHDDEATH)
+345. warlord/sight (DSWLSSIT)
+346. warlord/pain (DSWLPAIN)
+347. warlord/death (DSWLSDTH)
+348. warlord/active (DSWLACT)
+349. monster/vulsit -> #16 { monster/vulsi1  monster/vulsi2  monster/vulsi3 }
+350. monster/vulsi1 (DSVULSI1)
+351. monster/vulsi2 (DSVULSI2)
+352. monster/vulsi3 (DSVULSI3)
+353. monster/vuldth -> #17 { monster/vuldt1  monster/vuldt2 }
+354. monster/vuldt1 (DSVULDT1)
+355. monster/vuldt2 (DSVULDT2)
+356. monster/vulact (DSVULACT)
+357. monster/vulpai (DSVULPAI)
+358. monster/vulswg (DSVULSWG)
+359. monster/vulhit (DSVULHIT)
+360. vore/Sight (VORESIGH)
+361. vore/Active (VOREACTI)
+362. vore/Attack (VOREATTK)
+363. vore/Throw (VORETHRW)
+364. vore/Hit (DSBAREXP)
+365. vore/Pain (VOREPAIN)
+366. vore/Death (VOREDEAT)
+367. tornado/form (Q2WIND)
+368. tornado/see (NA_TAUNT)
+369. tornado/death (NA_DEATH)
+370. tornado/pain (NA_PAIN_)
+371. tornado/active (NA_IDLE_)
+372. wind/away (HLWIND)
+373. timeimp/clock (TIMECLOC)
+374. timeimp/timefreeze (TIMEEXEC)
+375. timeimp/claw (TIMECLAW)
+376. timeimp/pain (TIMEPAIN)
+377. timeimp/active (DSEMPTY)
+378. timeball/attack (TIMEFIRE)
+379. timeball/hit (TIMEHIT)
+380. timeimp/see -> #18 { timeimp/see1  timeimp/see2 }
+381. timeimp/see1 (TIMESEE)
+382. timeimp/see2 (TIMESEE1)
+383. timeimp/death -> #19 { timeimp/death1  timeimp/death2 }
+384. timeimp/death1 (TIMEDTH)
+385. timeimp/death2 (TIMEDTH1)
+386. suicide/scream (DSSUSCRM)
+387. suicide/sit (DSSUSIT)
+388. stone/death (DSSTNDTH)
+389. stone/sight (DSSTNSIT)
+390. stone/bounce (DSPUNCH)
+391. ssguner/sight (DSGPOSIT)
+392. ssguner/SSG (DSSGGATK)
+393. ssguner/death (DSGPODTH)
+394. ssguner/idle (DSGPOACT)
+395. squire/sight (DSSQRSIT)
+396. squire/death (DSSQRDTH)
+397. fireball/fire (DSFIRMFI)
+398. fireball/hit (DSFIREX3)
+399. SpiritImp/Active (SPIPACTI)
+400. SpiritImp/Death -> #20 { SPIPDEA1  SPIPDEA2 }
+401. SPIPDEA1 (SPIPDEA1)
+402. SPIPDEA2 (SPIPDEA2)
+403. SpiritImp/Sight -> #21 { SPIPSIG1  SPIPSIG2 }
+404. SPIPSIG1 (SPIPSIG1)
+405. SPIPSIG2 (SPIPSIG2)
+406. harvester/sight -> #22 { shsight1  shsight2 }
+407. shsight1 (SHSIGHT1)
+408. shsight2 (SHSIGHT2)
+409. harvester/death -> #23 { shdeath1  shdeath2 }
+410. shdeath1 (SHDEATH1)
+411. shdeath2 (SHDEATH2)
+412. harvester/scream (SHFBSCRM)
+413. harvester/ghost (SHGHSCRM)
+414. rotwraith/Sight (DSFUGSEE)
+415. rotwraith/Active (DSFUGACT)
+416. rotwraith/Pain (DSFUGPAN)
+417. rotwraith/Death (DSFUGDIE)
+418. rotwraith/Attack (DSFUGATK)
+419. rotwraith/Explode (DSFUGEXP)
+420. Roach/Sight -> #24 { ROACSIG1  ROACSIG2  ROACSIG3 }
+421. ROACSIG1 (ROACSIG1)
+422. ROACSIG2 (ROACSIG2)
+423. ROACSIG3 (ROACSIG3)
+424. Roach/Active -> #25 { ROACACT1  ROACACT2 }
+425. ROACACT1 (ROACACT1)
+426. ROACACT2 (ROACACT2)
+427. Roach/Pain -> #26 { ROACPAI1  ROACPAI2 }
+428. ROACPAI1 (ROACPAI1)
+429. ROACPAI2 (ROACPAI2)
+430. Roach/Death (ROACDEAT)
+431. Roach/Fire (ROACFIRE)
+432. Roach/Hit (ROACHIT)
+433. quadshotgunzombie/SingleFire -> #27 { QSGZFIR1  QSGZFIR2 }
+434. QSGZFIR1 (QSGZFIR1)
+435. QSGZFIR2 (QSGZFIR2)
+436. quadshotgunzombie/QuadFire (QSGZFIR3)
+437. quadshotgunzombie/Reload1 (QSGZREL1)
+438. quadshotgunzombie/Reload2 (QSGZREL2)
+439. quadshotgunzombie/Reload3 (QSGZREL3)
+440. pyro/see (BE-SEE)
+441. pyro/idle (BE-IDLE)
+442. pyro/tele (BE-TELE)
+443. pyro/pain (DE_PAIN_)
+444. pyro/death (BE-DEATH)
+445. pyro/blast (DP_ATTAC)
+446. pyro/flame (DSFLAMER)
+447. pyro/explosion (DSPIPEX1)
+448. pyro/flamepoof (DSHITW)
+449. pyro/blastexplosion (DSFRBXPL)
+450. pyro/comet (DSCMTLNC)
+451. pyro/cometdeath (DSCMTEXP)
+452. pyro/bomb (DSRDSHOT)
+453. pyro/bombhit (DSRDHIT)
+454. profane/sight (DSPROSEE)
+455. profane/death (DSPRODTH)
+456. profane/die (DSPROGIB)
+457. profane/blood (DSBLDPUK)
+458. profane/melee (DSPROCLW)
+459. profane/poison (DSPSNSHT)
+460. profane/poisondie (DSPSNHIT)
+461. profane/vomit -> #28 { vomit1  vomit2  vomit3 }
+462. vomit1 (VOMIT1)
+463. vomit2 (VOMIT2)
+464. vomit3 (VOMIT3)
+465. torturedsoul/poison (DSTRTPSN)
+466. pd/attack (DSDPFSHT)
+467. pd/shotx (DSDPFXPL)
+468. phantom/spirit1 (DSSPIRT1)
+469. phantom/death (BUILD)
+470. phantom/bomb (FIREBALL)
+471. phantom/explode (DSCMTEXP)
+472. nightmaredemon/sight (DSNDMSIT)
+473. nightmaredemon/melee (DSNDMATK)
+474. nightmaredemon/pain (DSNDMOW)
+475. nightmaredemon/death (DSNDMDTH)
+476. 64ball/shoot (DSNDMSHT)
+477. 64ball/explode (DSNDMXPL)
+478. nightmare/sight (DSNMRSIT)
+479. nightmare/pain (DSNMRPAI)
+480. nightmare/death (DSNMRDTH)
+481. nightmare/active (DSNMRACT)
+482. nightmare/melee (DSNMRATK)
+483. lordofheresy/sight (DSLOHSIT)
+484. lordofheresy/act (DSLOHACT)
+485. lordofheresy/death (DSLOHDTH)
+486. lavdsit (LAVDSIT)
+487. lavddie (LAVDDIE)
+488. beast/attack (BSTATK)
+489. weapons/phoenixpowshoot (PHOPOW)
+490. weapons/phoenixhit (PHOHIT)
+491. implord/macehit -> #29 { implord/macehit1  implord/macehit2 }
+492. implord/macehit1 (MACEHIT1)
+493. implord/macehit2 (MACEHIT2)
+494. implord/maceswing (MACESWNG)
+495. implord/shieldshot (SHLDSHOT)
+496. implord/shieldshothit (SHLDHIT)
+497. implord/familiarspawn (FSPAWN)
+498. batfam/idle -> #30 { batfam/idle1  batfam/idle2 }
+499. batfam/idle1 (BATIDLE1)
+500. batfam/idle2 (BATIDLE2)
+501. batfam/pain (BATPAIN)
+502. batfam/death (BATDIE)
+503. batfam/crash (BATCRASH)
+504. dragonfam/see (DFSEE)
+505. dragonfam/pain (DFPAIN)
+506. dragonfam/death (DFDIE)
+507. dragonfam/idle (DFIDLE)
+508. dragonfam/attack (DFATTACK)
+509. horn/sight (DSHRNSIT)
+510. horn/attack (WOOSH3)
+511. horn/shotx (STRIKE1)
+512. horn/death (DSHRNDIE)
+513. weapons/firmfi (DSFIRMFI)
+514. weapons/firex5 (DSFIREX5)
+515. monster/hiesit (DSHIESIT)
+516. monster/hieact (DSHIEACT)
+517. monster/hiepai (DSHIEPAI)
+518. monster/hiedth (DSHIEDTH)
+519. monster/curse1 (DSCURSE1)
+520. monster/curse2 (DSCURSE2)
+521. monster/arcsit (DSARCSIT)
+522. monster/arcdth (DSARCDTH)
+523. weapons/firbfi (DSFIRBFI)
+524. weapons/hellex (DSHELLEX)
+525. monster/hlnsit (DSHLNSIT)
+526. monster/hlnact (DSHLNACT)
+527. monster/hlnpai (DSHLNPAI)
+528. monster/hlndth (DSHLNDTH)
+529. monster/hlnatk (DSHLNATK)
+530. monster/hlnexp (DSHLNEXP)
+531. grell/sight (DSGRESIT)
+532. grell/active (DSGREACT)
+533. grell/attack (DSGREATK)
+534. grell/pain (DSGREPAI)
+535. grell/death (DSGREDTH)
+536. grell/thud (DSGRETHD)
+537. grell/projhit (DSVULHIT)
+538. ghorror/step (GHORSTEP)
+539. ghorror/sight (GHORSIGH)
+540. ghorror/attack (GHORCLAW)
+541. ghorror/death (GHORDETH)
+542. ghorror/blast (GHORBLST)
+543. weapons/scorch (DSSCORCH)
+544. weapons/onfire (DSONFIRE)
+545. weapons/flamer (DSFLAMER)
+546. monster/falsit (DSFALSIT)
+547. monster/falpai (DSFALPAI)
+548. monster/faldth (DSFALDTH)
+549. monster/falact (DSFALACT)
+550. monster/falwng (DSFALWNG)
+551. monster/diasit (DSDIASIT)
+552. monster/diapai (DSDIAPAI)
+553. monster/diadth (DSDIADTH)
+554. monster/diaact (DSDIAACT)
+555. weapons/firex4 (DSFIREX4)
+556. weapons/diasht (DSDIASHT)
+557. weapons/firex3 (DSFIREX3)
+558. monster/brusit (DSBRUSIT)
+559. monster/brudth (DSBRUDTH)
+560. monster/bruwlk (DSBRUWLK)
+561. monster/brufir (DSBRUFIR)
+562. cyberfiend/Sight (CYFNDSIT)
+563. cyberfiend/Attack (CYFNDATK)
+564. cyberfiend/Death (CYFNDDTH)
+565. cyberfiend/Active (CYFNACTV)
+566. cyberfiend/Step1 (CYFNSTP1)
+567. cyberfiend/Step2 (CYFNSTP2)
+568. cyberfiend/Walk -> #31 { cyberfiend/Step1  cyberfiend/Step2 }
+569. cyberfiend/Pain (CYFNPAIN)
+570. cbaron/sight (CBARNSIT)
+571. cbaron/pain (CBARNPAI)
+572. cbaron/death (CBARNDTH)
+573. cbaron/active (CBARNACT)
+574. cbaron/metal (CMETAL)
+575. superbaron/scream (DSSBSIT)
+576. superbaron/pain (DSSBPAIN)
+577. superbaron/death (DSSBDTH)
+578. superbaron/act (DSSBACT)
+579. monster/ar2sit (DSAR2SIT)
+580. monster/ar2dth (DSAR2DTH)
+581. arachnobaron/death (DSABRDTH)
+582. afrit/CometFire (FRITCMFR)
+583. afrit/CometHit (FRITCMHT)
+584. afrit/Hellfire (FRITFIRE)
+585. weapons/flitpk (FLITPK)
+586. weapons/fliton (FLITON)
+587. weapons/flitoff (FLITOFF)
+588. swyell -> #32 { swyell01  swyell02  swyell03  swyell04  swyell05  swyell06  swyell07  swyell08 }
+589. swyell01 (SWYELL01)
+590. swyell02 (SWYELL02)
+591. swyell03 (SWYELL03)
+592. swyell04 (SWYELL04)
+593. swyell05 (SWYELL05)
+594. swyell06 (SWYELL06)
+595. swyell07 (SWYELL07)
+596. swyell08 (SWYELL08)
+597. swpunch (SWPUNCH)
+598. weapons/cryobowfire (DSBOWFIR)
+599. weapons/cryobowshot (DSBOWSHT)
+600. weapons/cryobowreload (DSBOWREL)
+601. weapons/cryobowhit (DSBOWHIT)
+602. weapons/cryobowflyby (DSBOWFLY)
+603. weapons/pyropk (PYROPK)
+604. weapons/pyroshot (PYROSHOT)
+605. pyrocannon/Hit (PYRCHIT)
+606. pyrocannon/Explosion (PYRCEXPL)
+607. pyrocannon/Flare (PYRCFLAR)
+608. weapons/stminipk (STMINIPK)
+609. weapons/minigunfire (DSMINIGN)
+610. weapons/minispin (MINISPIN)
+611. weapons/mgunspindown (SPINDWN1)
+612. weapons/cgunspindown (SPINDWN2)
+613. weapons/stgrshot (STGRSHOT)
+614. weapons/spistpk (SPISTPK)
+615. weapons/SPIFIR (SPIFIR)
+616. weapons/incant (DSINCANT)
+617. weapons/spirit1 (DSSPIRT1)
+618. weapons/freezepk (FREEZEPK)
+619. weapons/iceshot (DSICESHT)
+620. weapons/icehit (DSICEHIT)
+621. weapons/flmtpk (FLMTPK)
+622. flamethrower/Fire (FMTRFIRE)
+623. flamethrower/Hit (FMTRHIT)
+624. flamethrower/Flame (FMTRFLAM)
+625. weapons/bfg10kpk (BFG10KPK)
+626. weapons/BFG10KF (DSBFG10K)
+627. weapons/BFG10KX (DSBAREXP)
+628. weapons/BFG10KCool (DS10KCDN)
+629. weapons/BFG10KIdle (DS10KIDL)
+630. CRWFLP (CRWFLP)
+631. CRWCAW1 (CRWCAW1)
+632. CRWCAW2 (CRWCAW2)
+633. CRWCAW3 (CRWCAW3)
+634. Rat/Squeek (DSRAT)
+635. Rat/Active (DSRATIDL)
+636. DSRATDI1 (DSRATDI1)
+637. DSRATDI2 (DSRATDI2)
+638. Rat/Death -> #33 { DSRATDI1  DSRATDI2 }
+639. sfx/FireStart (FIRESTRT)
+640. sfx/FireLoop1 (FIRELOP1)
+641. sfx/FireLoop2 (FIRELOP2)
+642. sfx/FireLoop3 (FIRELOP3)
+643. sfx/FireDie (FIREDIE)
+644. TPortalZap -> #34 { TPZap1  TPZap2 }
+645. TPZap1 (TP_ZAP1)
+646. TPZap2 (TP_ZAP2)
+647. TPortalLoop (TP_LOOP)
+648. TPortalFade (TP_FADE)
+649. TPortalAppear (TP_APP)
+650. thunder/hit -> #35 { thunder/hit1  thunder/hit2 }
+651. thunder/hit1 (THNDS01)
+652. thunder/hit2 (THNDS02)
+653. steam/Loop (STEMLOOP)
+654. steam/Fire (STEMFIRE)
+655. ambient/Rain (AMBRAIN)
+656. lavaball/Hit (LVBLHIT)
+657. powups/rage (RAGE)
+658. powups/guard (GUARD)
+659. powups/suit (SUIT)
+660. powups/sphere (SPHERE)
+661. powups/regen (REGEN)
+662. powups/supashld (SUPASHLD)
+663. powups/megapack (MEGPACK)
+664. powups/cloakot (CLOAKPK)
+665. powups/armorshard (AMRSHRD)
+666. bloodsplat1 (DSBLUD01)
+667. bloodsplat2 (DSBLUD02)
+668. bloodsplat3 (DSBLUD03)
+669. bloodsplat -> #36 { bloodsplat1  bloodsplat2  bloodsplat3 }
+670. misc/movers/doorAo (Q1OPEN)
+671. misc/movers/doorAc (Q1CLOSE)
+672. misc/movers/liftAo (Q1LIFTA)
+673. misc/movers/liftAc (Q1LIFTB)
+674. POWOFF (POWOFF)
+675. POWON (POWON)
+676. misc/movers/wood1o (CREAK1A)
+677. misc/movers/wood1c (CREAK2A)
+678. misc/movers/liftBo (HR2START)
+679. misc/movers/liftBm (HR2MOVE)
+680. misc/movers/liftBc (HR2STOP)
+681. misc/buttons/hr2basic (HR2BASIC)
+682. misc/buttons/hr2clank (HR2CLANK)
+683. misc/buttons/hr2floor (HR2FLOOR)
+684. misc/buttons/lever1 (LEVER1)
+685. misc/buttons/lever2 (LEVER2)
+686. misc/buttons/lever3 (LEVER3)
+687. misc/goreglass (NEWGLASS)
+688. world/icecrackling (DSICEDTH)
+689. hbeat (HBEAT)
+690. uwlaugh (UWLAUGH)
+691. swpain -> #37 { swpain01  swpain02  swpain03  swpain04 }
+692. swpain01 (SWPAIN01)
+693. swpain02 (SWPAIN02)
+694. swpain03 (SWPAIN03)
+695. swpain04 (SWPAIN04)
+696. taunts1 -> #38 { banzai  cbunga  goodday  killyou  nohonor }
+697. banzai (BANZAI)
+698. cbunga (CBUNGA)
+699. goodday (GOODDAY)
+700. killyou (KILLYOU)
+701. nohonor (NOHONOR)
+702. taunts2 -> #39 { birthcon  bitchin  chewbubl  comeon  luckyson  whatmess }
+703. birthcon (BIRTHCON)
+704. bitchin (BITCHIN)
+705. chewbubl (CHEWBUBL)
+706. comeon (COMEON)
+707. luckyson (LUCKYSON)
+708. whatmess (WHATMESS)
+709. dkpain -> #40 { dkpain01  dkpain02  dkpain03  dkpain04 }
+710. dkpain01 (DKPAIN01)
+711. dkpain02 (DKPAIN02)
+712. dkpain03 (DKPAIN03)
+713. dkpain04 (DKPAIN04)
+714. taunts3 -> #41 { vblood1  vblood2  vblood3  vblood4  vblood5  vblood6 }
+715. vblood1 (VBLOOD1)
+716. vblood2 (VBLOOD2)
+717. vblood3 (VBLOOD3)
+718. vblood4 (VBLOOD4)
+719. vblood5 (VBLOOD5)
+720. vblood6 (VBLOOD6)
+721. blpain -> #42 { blpain01  blpain02  blpain03  blpain04 }
+722. blpain01 (BLPAIN01)
+723. blpain02 (BLPAIN02)
+724. blpain03 (BLPAIN03)
+725. blpain04 (BLPAIN04)
+726. laughs -> #43 { swhaha01  swhaha02  swhaha03 }
+727. swhaha01 (SWHAHA01)
+728. swhaha02 (SWHAHA02)
+729. swhaha03 (SWHAHA03)
+730. world/watersplash1 (DSSPLASH)
+731. world/watersplash2 (DSSPLA2)
+732. world/watersplashsmall -> #45 { world/watersplashsmall1  world/watersplashsmall2 }
+733. world/watersplashsmall1 (DSSPLSML)
+734. world/watersplashsmall2 (DSSPLSM2)
+735. world/sludgegloop1 (DSPLOOSH)
+736. world/sludgegloop2 (DSPLOO2)
+737. world/sludgegloopsmall -> #47 { world/sludgegloopsmall1  world/sludgegloopsmall2 }
+738. world/sludgegloopsmall1 (DSPLOSML)
+739. world/sludgegloopsmall2 (DSPLOSM2)
+740. world/lavasizzle1 (DSLVSIZ)
+741. world/lavasizzle2 (DSLVSIZ3)
+742. world/lavsiz2 -> #49 { world/lavsiz21  world/lavsiz22 }
+743. world/lavsiz21 (DSLVSIZ2)
+744. world/lavsiz22 (DSLVSIZ4)
+745. world/lavasizzlesmall -> #50 { world/lavasizzlesmall1  world/lavasizzlesmall2 }
+746. world/lavasizzlesmall1 (DSLAVSML)
+747. world/lavasizzlesmall2 (DSLAVSM2)
+748. world/nukesplash -> #51 { world/nukesplash1  world/nukesplash2 }
+749. world/nukesplash1 (DSNUKES1)
+750. world/nukesplash2 (DSNUKES2)
+751. world/nukesplashsmall -> #52 { world/nukesplashsmall1  world/nukesplashsmall2 }
+752. world/nukesplashsmall1 (DSNUKES3)
+753. world/nukesplashsmall2 (DSNUKES4)
+754. puff/ric -> #53 { puff/ric1  puff/ric2  puff/ric3  puff/ric4 }
+755. puff/ric1 (DSRICH1)
+756. puff/ric2 (DSRICH2)
+757. puff/ric3 (DSRICH3)
+758. puff/ric4 (DSRICH4)
+759. weapons/case1 -> #54 { weapons/case11  weapons/case12 }
+760. weapons/case11 (DSCASE11)
+761. weapons/case12 (DSCASE12)
+762. weapons/case2 -> #55 { weapons/case21  weapons/case22 }
+763. weapons/case21 (DSCASE21)
+764. weapons/case22 (DSCASE22)
+765. weapons/shell -> #56 { weapons/shell1  weapons/shell2  weapons/shell3 }
+766. weapons/shell1 (DSSHELL1)
+767. weapons/shell2 (DSSHELL2)
+768. weapons/shell3 (DSSHELL3)
+769. Floor/Carpet1 (CARPET1)
+770. Floor/Carpet2 (CARPET2)
+771. Floor/Carpet3 (CARPET3)
+772. Floor/Dirt1 (DIRT1)
+773. Floor/Dirt2 (DIRT2)
+774. Floor/Dirt3 (DIRT3)
+775. Floor/Dirt4 (DIRT4)
+776. Floor/Dirt5 (DIRT5)
+777. Floor/Dirt6 (DIRT6)
+778. Floor/Metal1 (METAL1)
+779. Floor/Metal2 (METAL2)
+780. Floor/Metal3 (METAL3)
+781. Floor/Metal4 (METAL4)
+782. Floor/Metal5 (METAL5)
+783. Floor/Metal6 (METAL6)
+784. Floor/Rock1 (ROCK1)
+785. Floor/Rock2 (ROCK2)
+786. Floor/Rock3 (ROCK3)
+787. Floor/Rock4 (ROCK4)
+788. Floor/Rock5 (ROCK5)
+789. Floor/Rock6 (ROCK6)
+790. Floor/Rock7 (ROCK7)
+791. Floor/Rock8 (ROCK8)
+792. Floor/Snow1 (SNOW1)
+793. Floor/Snow2 (SNOW2)
+794. Floor/Snow3 (SNOW3)
+795. Floor/Snow4 (SNOW4)
+796. Floor/Snow5 (SNOW5)
+797. Floor/Snow6 (SNOW6)
+798. Floor/Wood1 (WOOD1)
+799. Floor/Wood2 (WOOD2)
+800. Floor/Wood3 (WOOD3)
+801. Floor/Wood4 (WOOD4)
+802. Floor/Carpet -> #57 { Floor/Carpet1  Floor/Carpet2  Floor/Carpet3 }
+803. Floor/Dirt -> #58 { Floor/Dirt1  Floor/Dirt2  Floor/Dirt3  Floor/Dirt4  Floor/Dirt5  Floor/Dirt6 }
+804. Floor/Metal -> #59 { Floor/Metal1  Floor/Metal2  Floor/Metal3  Floor/Metal4  Floor/Metal5  Floor/Metal6 }
+805. Floor/Rock -> #60 { Floor/Rock1  Floor/Rock2  Floor/Rock3  Floor/Rock4  Floor/Rock5  Floor/Rock6  Floor/Rock7  Floor/Rock8 }
+806. Floor/Snow -> #61 { Floor/Snow1  Floor/Snow2  Floor/Snow3  Floor/Snow4  Floor/Snow5  Floor/Snow6 }
+807. Floor/Wood -> #62 { Floor/Wood1  Floor/Wood2  Floor/Wood3  Floor/Wood4 }
+808. Floor/Flesh1 (FLESH1)
+809. Floor/Flesh2 (FLESH2)
+810. Floor/Flesh3 (FLESH3)
+811. Floor/Flesh4 (FLESH4)
+812. Floor/Flesh5 (FLESH5)
+813. Floor/Flesh6 (FLESH6)
+814. Floor/Flesh -> #63 { Floor/Flesh1  Floor/Flesh2  Floor/Flesh3  Floor/Flesh4  Floor/Flesh5  Floor/Flesh6 }
+815. misc/blank (BLANK)
+816. HXAMB1 (HXAMB1)
+817. HXAMB2 (HXAMB2)
+818. HXAMB3 (HXAMB3)
+819. HXAMB4 (HXAMB4)
+820. HXAMB5 (HXAMB5)
+821. HXAMB6 (HXAMB6)
+822. swamps -> #67 { HXAMB2  HXAMB3  HXAMB4  HXAMB5  HXAMB6 }
+823. HXAMB7 (HXAMB7)
+824. HXAMB8 (HXAMB8)
+825. HXAMB9 (HXAMB9)
+826. rumbles -> #68 { HXAMB7  HXAMB8  HXAMB9 }
+827. horn1 (HORN1)
+828. horn2 (HORN2)
+829. horns -> #69 { horn1  horn2 }
+830. scrm1 (SCRM1)
+831. scrm2 (SCRM2)
+832. scrm3 (SCRM3)
+833. scrm4 (SCRM4)
+834. scrm5 (SCRM5)
+835. scrm6 (SCRM6)
+836. scrm7 (SCRM7)
+837. scrm8 (SCRM8)
+838. scrm9 (SCRM9)
+839. scrm10 (SCRM10)
+840. scrm11 (SCRM11)
+841. scrm12 (SCRM12)
+842. scrm13 (SCRM13)
+843. scrm14 (SCRM14)
+844. scrm15 (SCRM15)
+845. scrm16 (SCRM16)
+846. scrm17 (SCRM17)
+847. scrm18 (SCRM18)
+848. scrm19 (SCRM19)
+849. scrm20 (SCRM20)
+850. scrm21 (SCRM21)
+851. scrm22 (SCRM22)
+852. scrm23 (SCRM23)
+853. scrm24 (SCRM24)
+854. scrm25 (SCRM25)
+855. scrm26 (SCRM26)
+856. scrm27 (SCRM27)
+857. scrm28 (SCRM28)
+858. scrm29 (SCRM29)
+859. scrm30 (SCRM30)
+860. scrm31 (SCRM31)
+861. scrm32 (SCRM32)
+862. scrm33 (SCRM33)
+863. scrm34 (SCRM34)
+864. scrm35 (SCRM35)
+865. scrm36 (SCRM36)
+866. scrm37 (SCRM37)
+867. scrm38 (SCRM38)
+868. scrm39 (SCRM39)
+869. scrm40 (SCRM40)
+870. scrm41 (SCRM41)
+871. scrm42 (SCRM42)
+872. scrm43 (SCRM43)
+873. scrm44 (SCRM44)
+874. scrm45 (SCRM45)
+875. scrm46 (SCRM46)
+876. scrm47 (SCRM47)
+877. scrm48 (SCRM48)
+878. scrm49 (SCRM49)
+879. scrm50 (SCRM50)
+880. scrm51 (SCRM51)
+881. scrm52 (SCRM52)
+882. scrm53 (SCRM53)
+883. scrm54 (SCRM54)
+884. scrm55 (SCRM55)
+885. scrm56 (SCRM56)
+886. scrm57 (SCRM57)
+887. scrm58 (SCRM58)
+888. scrm59 (SCRM59)
+889. screams -> #70 { scrm1  scrm2  scrm3  scrm4  scrm5  scrm6  scrm7  scrm8  scrm9  scrm10  scrm11  scrm12  scrm13  scrm14  scrm15  scrm16  scrm17  scrm18  scrm19  scrm20  scrm21  scrm22  scrm23  scrm24  scrm25  scrm26  scrm27  scrm28  scrm29  scrm30  scrm31  scrm32  scrm33  scrm34  scrm35  scrm36  scrm37  scrm38  scrm39  scrm40  scrm41  scrm42  scrm43  scrm44  scrm45  scrm46  scrm47  scrm48  scrm49  scrm50  scrm51  scrm52  scrm53  scrm54  scrm55  scrm56  scrm57  scrm58  scrm59 }
+890. wind (WIND)
+891. wind2 (WIND2)
+892. wind3 (WIND3)
+893. wind4 (WIND4)
+894. wind5 (WIND5)
+895. lavafl (LAVAFL)
+896. cavecrk1 (CAVECRK1)
+897. cavecrk2 (CAVECRK2)
+898. cavecrk3 (CAVECRK3)
+899. creaks -> #71 { cavecrk1  cavecrk2  cavecrk3 }
+900. fsmall (FSMALL)
+901. hwfall (HWFALL)
+902. floop (FLOOP)
+903. river (RIVER)
+904. gull1 (GULL1)
+905. gull2 (GULL2)
+906. gull3 (GULL3)
+907. gulls -> #72 { gull1  gull2  gull3 }
+908. cartroll (CARTROLL)
+909. cricket1 (CRICKET1)
+910. cricket2 (CRICKET2)
+911. cricket3 (CRICKET3)
+912. q3agrwl1 (Q3AGRWL1)
+913. q3agrwl2 (Q3AGRWL2)
+914. q3agrwl3 (Q3AGRWL3)
+915. q3aomin (Q3AOMIN)
+916. q3arumbl (Q3ARUMBL)
+917. q3acombo -> #73 { q3agrwl1  q3agrwl2  q3agrwl3  q3aomin  q3arumbl }
+918. demnwind (DEMNWIND)
+919. underwt1 (UNDERWT1)
+920. underwt2 (UNDERWT2)
+921. underwt3 (UNDERWT3)
+922. underwt4 (UNDERWT4)
+923. underwtr -> #74 { underwt1  underwt2  underwt3  underwt4 }
+924. monolith (MONOLITH)
+925. aliens (ALIENS)
