@@ -1,0 +1,53 @@
+#library "gorewndw"
+#include "zcommon.acs"
+
+int lineid;
+int tid;
+int var0;
+
+//windows scripts - must find a way to use case and/or gorelib - more chances with UDMF
+script 998 (int arg0, int arg1, int arg2)
+{
+SetLineBlocking (lineid,FALSE);
+thing_remove (tid);
+setlinetexture(lineid, SIDE_FRONT, TEXTURE_MIDDLE, "DKTXWD1B");//add/remove texture from tagged lineid
+setlinetexture(lineid, SIDE_BACK, TEXTURE_MIDDLE, "DKTXWD1B");//add/remove texture from tagged lineid
+//Floor_LowerInstant(arg0, 0, 16);//arg0 = optional 3d tagged sector
+thingsound(tid,"misc/goreglass",random (127,192));//From placed MapSpot sound emitter
+delay(const:1);
+var0 = 20;
+while(var0 > 0)
+    {
+    var0--;
+    Thing_ProjectileGravity(arg1, random(54, 63), random(0, 255), random(10, 40), random(5, 20));//glass shards from tagged MapSpot, same as sounds
+    Thing_ProjectileGravity(arg2, random(54, 63), random(0, 255), random(10, 40), random(5, 20));//glass shards from tagged MapSpot, same as sounds
+    }
+}
+
+//action2 breaking shit
+//set up breakable windows
+//205|3300, 206|3301, ...
+script ZZZ OPEN
+{
+	int x;
+	int y = 3300;
+	for(x = 205; x <= 234; x++)
+	{
+		setlineblocking(x, block_everything);
+		setlinespecial(x, acs_execute, 212, 0, x, y, 40);
+		translucentline(x, 100);
+		y++;
+	}
+}
+
+//action2 window break script
+script 212 (int line, int tid, int shards)
+{
+	int ang, x;
+	setlineblocking(line, off);
+	setlinetexture(line, side_front, texture_middle, "GLASSW2");
+	setlinetexture(line, side_back, texture_middle, "GLASSW2");
+	thingsound(tid, "world/shatter", 128);
+	for(x = 0, ang = 0; x < shards; x++, ang += 25)
+	thing_projectilegravity(tid, 245, ang, random(12, 30), random(-16, 16));
+}

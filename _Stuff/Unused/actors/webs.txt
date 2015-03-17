@@ -1,0 +1,23 @@
+//Webs model from Heretic II
+actor WebsA 12554
+{
+//$Category Models
+Tag "Waving Webs A"
+Radius 64
++NOGRAVITY
++NOBLOCKMAP
++SPAWNCEILING
+States
+	{
+	Spawn:
+	3DOB A 0 NoDelay
+	3DOB ABCDEFGHIJKLMNOPQRSTU 2
+	loop
+	}
+}
+
+actor WebsB : WebsA 12555
+{
+//$Category Models
+Tag "Waving Webs B"
+}

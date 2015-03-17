@@ -1,22 +1,35 @@
 ===========================================================================
-Advanced engine needed  : GZDoom 1.8.0+
+Advanced engine needed  : GZDoom-g2.1.pre-655-gc6cb849 or newer
 Primary purpose         : Single Player
 ===========================================================================
 Title                   : Gore
 Filename                : GOREPROJ.zip
-Release date            : Pre-Alpha 29/12/14
+Release date            : ##/##/##
 Author                  : Ozymandias81
 Email Address           : virzilio81@libero.it
 Misc. Author Info       : Here you are my other released wads:
 
-												KHGRES.zip - Klingon Honor Guard TX (doomworld)
-												COMMTX.zip - Crusaders Of Might & Magic TX (r667)
-												HMF2TX.zip - Heavy Metal F.A.K.K. II TX (r667)
-												RTCWTX.zip - Return To Castle Wolfenstein TX (r667)
+												KHGRES.zip - Klingon Honor Guard Textures
+												Can be found at http://www.doomworld.com/idgames/
+
+												My actual WIPs / contributions:
+
+												BATMAN DOOM II: REBORN
+												Can be found at http://forum.zdoom.org/viewtopic.php?f=19&t=47680
+
+												BLADE OF AGONY
+												Can be found at http://forum.zdoom.org/viewtopic.php?f=19&t=47801
+												and at https://github.com/Realm667/WolfenDoom
+
+												Resources: (these are waiting to be submitted on R667 repo)
+												CBUTX.zip - Clive Barker's Undying Textures (refused ATM)
+												COMMTX.zip - Crusaders Of Might & Magic Textures
+												HMF2TX.zip - Heavy Metal FAKK II Textures
+												RTCWTX.zip - Return To Castle Wolfenstein Textures
 
 Description             : My 1st try and ambitious pk3'd project for GZDoom.
-													In the final version there will be:
-												1)18/20 big maps in ZDoom/UDMF formats (some hubs)
+													There will be:
+												1)New maps: 18/20 big maps in ZDoom/UDMF formats
 												2)New beasts + over 60 redefined r667 monsters
 												3)New npcs with Strife dialogues style
 												4)New flashlight + 11 redefined r667 weapons
@@ -33,7 +46,8 @@ Description             : My 1st try and ambitious pk3'd project for GZDoom.
 
 Additional Credits to   : Tormentor667, SkullTag Team, Graf Zahl, Carnevil
 													iD Software, Raven Software, Randy Heit & more.
-													For more detailed infos see the "Credits" folder.
+													For more detailed infos see the "Credits" folder
+													included with this file or just run Credits Map.
 ===========================================================================
 * What is included *
 
@@ -59,8 +73,8 @@ Difficulty Settings     : Yes, Five with cheats disabled from Bloody (UV equival
 * Construction *
 
 Base                    : New from scratch + thousand resources from r667 Repository
-Build Time              : November 2011 - When it's finished (mostly on & off)
-Editor(s) used          : Doom Builder II then GZDoom Builder, Slade3, XWE, ACC,
+Build Time              : November 2011 - When it's finished
+Editor(s) used          : Doom Builder II, GZDoom Builder, Slade3, XWE, ACC,
 													GIMP 2.8, Adobe Fireworks, Audacity, ModPlug Tracker,
 													Paint, VisiPics v1.30, DoomWord, DialogEdit v0.6b,
 													UltraEdit v14.20, Mus2Midi, QuArk 6.6b5
@@ -68,7 +82,7 @@ Known Bugs              : Some minor textures misalignments;
 													Some brightness probs with Heretic II & brown textures;
 													Unmerciful (Nightmare) difficulty not tested;
 May Not Run With...     : Vanilla Doom, Coach Gags, Duff Beers and "D'Oh"'s
-													Initially Tested with GZDoom G1.9pre-406-gad88cfc
+													Non GZDoom-g2.1.pre-655-gc6cb849 or older versions
 
 * Copyright / Permissions *
 
@@ -85,7 +99,7 @@ And for a good PC I mean 2010 or + specifications, due to prevent massive lags
 because maps are very big, with stunning quantities of lights & effects.
 I have tested this PWad with:
 Windows 7 Ultimate x32 with Service Pack 1.0;
-GZDoom G1.9pre-406-gad88cfc, downloaded from SVN;
+GZDoom-g2.1.pre-655-gc6cb849, downloaded from SVN;
 AMD Athlon II x2 250 3ghz;
 4gb DDR3 Ram;
 nVidia GeForce GT 610 1024mb (2687mb total);
@@ -100,7 +114,14 @@ A mouse and a PS2 keyboard (I hate wi-fi types!) + a lot of time :-)
 
 * Other Informations *
 
-For any suggestions P.M. me at ZDoom Forums or R667 Forums under Ozymandias81
+Where to Get this pwad:
+ZDoom Forums at http://forum.zdoom.org/viewtopic.php?f=19&t=47419
+GitHUB at https://github.com/Ozymandias81/GitHUBbedGore/tree/master/%23Project
+
+For any suggestions contact me at:
+ZDoom Forums at http://forum.zdoom.org/index.php as Ozymandias81
+Doomworld Forums at http://www.doomworld.com/ as Ozymandias81
+Realm667 Forums at http://realm667.com/index.php/en/ as ozymandias81
 
 
 														+++DOOM WILL BE YOUR DOOM+++

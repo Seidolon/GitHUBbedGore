@@ -16,7 +16,9 @@ Editing by Ozymandias81
 Ice & Glass Shards Sprites from Hexen by Raven Software
 Editing & Decorate by Ozymandias81
 
-M_DOOM + GORE1A & GORE1B original graphics from Quake IV by iD Software & Raven Software
+M_DOOM by Ozymandias81
+
+M_DOOZ + GORE1A & GORE1B original graphics from Quake IV by iD Software & Raven Software
 Editing by Ozymandias81
 
 M_SKULL1 & M_SKULL2 original sprites from Shadow Warrior by 3d Realms

@@ -1,0 +1,64 @@
+//Decorate base from RainSpawner by Ghastly_dragon & Tormentor667
+Actor StoneRainSpawner : SwitchableDecoration 12600
+{
+//$Category Special Effects
+//$Sprite STNBA0
+Tag "Stone Rain Spawner"
+Game Doom
++NOCLIP
++CLIENTSIDEONLY
++SPAWNCEILING
++NOGRAVITY
+States
+	{
+	Spawn:
+	TNT1 A 0
+	TNT1 A 0 A_CheckSight("Unsighted")
+	TNT1 A 0 A_JumpIf(Args[2] > 0, "NoSound")
+	TNT1 A 0 A_JumpIf(Args[3] > 0, "Circle")
+	TNT1 A 0 A_PlaySoundEx("stone/bounce", "SoundSlot7", random(128,192)) //must add new sounds here
+	TNT1 A 2 A_SpawnItemEx("StoneRainBoulder", Random(-Args[0], Args[0]), Random(-Args[0], Args[0]), -2, 0, random(0,4), 0, 0, 128, Args[1])
+	Loop
+	Circle:
+	TNT1 A 2 A_SpawnItemEx("StoneRainBoulder", Random(-Args[0], Args[0]), 0, -2, 0, random(0,4), 0, Random(0, 360), 128, Args[1])
+	NoSound:
+	TNT1 A 0 A_Jumpif(Args[3] > 0, "NoSoundCircle")
+	TNT1 A 2 A_SpawnItemEx("StoneRainBoulder", Random(-Args[0], Args[0]), Random(-Args[0], Args[0]), -2, 0, random(0,4), 0, 0, 128, Args[1])
+	Loop
+	NoSoundCircle:
+	TNT1 A 2 A_SpawnItemEx("StoneRainBoulder", Random(-Args[0], Args[0]), 0, -2, 0, random(0,4), 0, Random(0, 360), 128, Args[1])
+	Loop
+	Unsighted:
+	TNT1 A 1
+	Goto Spawn
+	Inactive:
+	TNT1 A 1
+	Loop
+	}
+}
+
+actor StoneRainBoulder
+{
+Radius 4
+Height 4
+Scale 0.5
+Speed 0
+VSpeed 2
+Damage 1
+PROJECTILE
++DROPPED
++DOOMBOUNCE
++BOUNCEONACTORS
++NODAMAGETHRUST
+-NOGRAVITY
+//SeeSound "stone/bounce"
+States
+	{
+	Spawn:
+	STNB ABCDEFGH 3
+	Loop
+	Death:
+	STNB H 200
+	Stop
+	}
+}

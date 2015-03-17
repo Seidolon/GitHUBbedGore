@@ -1,0 +1,133 @@
+Using ZIPs as WAD replacement - From ZDoomWiki
+
+ZDoom allows using several compressed archive formats instead of the traditional 
+WADs. Most notably: 
+  
+  ZIP 
+  A .zip file used as the container for a ZDoom mod is usually given the .pk3 
+  extension, instead of .zip. While there is no technical differences, this 
+  helps avoid potential confusion from users thinking the mod should be 
+  extracted from it, and also prevents Windows from presenting it as a 
+  directory. ZDoom supports several ZIP archiving methods: stored (no 
+  compression), shrunk, imploded, deflated (the most commonly used), bzip2 and 
+  LZMA algorithms. Note that many ZIP utility only partially implement the ZIP 
+  standard and as a result their support is limited to stored and deflated 
+  files. This partial implementation also affects some editing tools which 
+  normally support the PK3 format, such as Doom Builder 2 and Slumped. 
+  
+  7z 
+  A .7z file used as the container for a ZDoom mod is usually given the .pk7 
+  extension, for similar reasons. This format offers much better compression 
+  ratio, however its reduced support, especially by modding utilities, make it 
+  less interesting overall. A possibility would be to develop a mod as a PK3, 
+  then convert it to a PK7 once finished, to decrease the size of the archive to 
+  be distributed. 
+  
+Compressed archives have many advantages over PWADs, even for storing content 
+for Doom:
+ 
+  Smaller file size due to compression 
+  Greatly reduced memory usage during play 
+  Proper use of directories instead of WAD namespaces 
+  You no longer need dedicated WAD management tools like XWE for manipulating 
+  your data. 
+  More flexibility due to the use of full path names. Currently there is only 
+  limited support but it is planned to change everything that references lump 
+  names to support full paths. 
+
+How to 
+You can embed WADs inside ZIPs. Any WAD file found in the root directory will be 
+added to the lump directory as well. This allows loading many of the ZIPs 
+distributed through /idgames without the need to extract them. If several wads 
+are included in an archive, they will be loaded in alphabetical order. 
+Unlike WADs which do not have a true directory structure, the placement of data 
+within ZIPs are much more strictly enforced in order to allow the engine to 
+recognize it as a default lump. Any special data must be placed in the 
+respective directory inside the ZIP or it will not be found. For the lump name, 
+the first 8 characters of the file name are used, the extension is stripped. So 
+for example, to place a MAPINFO into a ZIP file, you have to name your file 
+MAPINFO.TXT, MAPINFO.LMP (or whatever extension you like) and place it in the 
+ZIPs root directory.
+
+The following subdirectories are used to assign data to the existing WAD
+namespaces in ZDoom (Directory/ Description):
+
+patches/ contains patches normally found between PP_START and PP_END 
+graphics/ All special graphics like title pictures or font characters must
+		go here. This namespace does not exist in WADs. 
+sounds/ contains all sound files that are referenced by SNDINFO. This 
+		namespace does not exist in WADs. 
+music/ contains all data that is used as music. This namespace does not exist in
+		WADs. 
+maps/ contains levels in form of WADs. These WADs must only contain the 
+      data for one single level (including GL nodes lumps if required). Any 
+      other data in such a WAD will be ignored. Note that the file name and not 
+      the map label inside the WAD determines how the map is named in the game. 
+flats/ contains flats normally found between FF_START and FF_END 
+sprites/ contains sprites normally found between S_START and S_END (also 
+      known as SS_START, SS_END) 
+textures/ contains textures normally found between TX_START and TX_END 
+hires/ contains high-resolution textures normally found between HI_START 
+      and HI_END 
+colormaps/ contains Boom colormaps normally found between C_START and 
+      C_END. New ZDoom WADs should not need to use this. 
+acs/ contains ACS libraries normally found between A_START and A_END 
+voices/ contains Strife dialog sounds normally found between V_START and 
+      V_END 
+voxels/ contains voxel objects normally found between VX_START and VX_END 
+
+(Note: Any lump found in the root directory is added to the global namespace.)
+
+Tips
+  The ZIP file's directory is sorted alphabetically before adding it to the lump 
+  directory; any WAD files in the .zip are then loaded afterwards. Keep that in 
+  mind when creating data that relies on file name ordering. For most things, 
+  there is no need to depend on ordering, with the exception of texture 
+  animations of type range that animate textures from the flats/ or textures/ 
+  subdirectories.
+  
+  Any file not in one of the reserved directories is not added to the WAD 
+  directory and can only be used by code that looks for full path names. 
+  Currently that is only the music code but it will be gradually extended so 
+  that everything that references a lump name can do it.
+  
+  Sprite lumps for the \ frame in a WAD (such as VILE\* for one of the 
+  Arch-Vile's healing frames) can be put in a ZIP file, the backslash character 
+  just has to be changed to a caret character (^). So, VILE^1 to VILE^8 in a ZIP 
+  file will be interpreted as the VILE\1 to VILE\8 lumps. This replacement only 
+  works for sprites, any other lump name should not contain backslashes 
+  anywhere. As it is possible to use multiple sprite names for an actor with 
+  DECORATE, frames beyond Z need not be used however.
+  
+  It is strongly recommended to use the .pk3 extension, not .zip, when creating 
+  a file meant to be loaded directly into ZDoom. The average user is used to 
+  opening a .zip file and extracting a .wad from it, so naming the actual game 
+  file a .zip will often cause unwanted confusion.
+  
+  The contents of the files inside the ZIP must be identical to the lumps in a 
+  WAD. This is especially important for graphics. ZDoom does not read .BMP 
+  files! Even though that is the most likely format you will encounter, 
+  importing them with a WAD manager will convert them to Doom's internal format. 
+  XWE converts graphics encoded in Doom's internal format to .BMP during export. 
+  SLumpEd can export these graphics as raw Doom lumps. In order for ZDoom to 
+  recognize graphics as such, they have to be either in Doom's internal format 
+  or a supported image format such as PNG.
+  
+  Beware of hidden files! If you add a full directory, or directory tree, to a 
+  PK3, it is possible that unwanted system files (such as Windows' thumbs.db 
+  file that tends to be created in any folder containing pictures) will be 
+  included as well. They will needlessly increase the file size and can trigger 
+  warning messages when loading ZDoom. Slumped frequently crashes when browsing 
+  through a PK3's resources, as it expects thumbs.db to be a graphic and obtain 
+  incoherent values.
+  
+Compatibility
+Currently the only editors which support this format are Doom Builder 2, SLumpEd 
+and Slade 3, but of course you can also use any Zip tool available if you do not 
+need access to Doom specific features like texture definitions or graphics 
+offsets.
+
+Vavoom and Doomsday also use PK3 files for their resources; however their 
+subdirectory organization differ. Adapting a mod from one of these ports to work 
+in ZDoom may therefore require repackaging, in addition to conversion of 
+enhanced features to their ZDoom equivalent.

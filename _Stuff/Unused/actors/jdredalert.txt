@@ -1,0 +1,85 @@
+Actor Batteries : Ammo //Inventory
+{
+//+INVENTORY.INVBAR 			//this will make the amount of energy left to be displayed on hud
++INVENTORY.PERSISTENTPOWER 		//this will keep it in your inventory, even through levels
+Inventory.InterHubAmount 4500 	//this will keep it in your inventory, even through episodes. use the same value from you max inventory amount ok?
+Inventory.Amount 250 			//how much you can get from taking the item on the ground
+Inventory.MaxAmount 4500 		//inventory max capacity.
+Inventory.Icon "BTRYA0"
+}
+
+ACTOR BatteryPickup : CustomInventory 14072 //the actual battery pickup item
+{
+//$Category New Ammunitions
+Tag "Batteries"
+Scale 0.65
+Inventory.PickupMessage "You picked up some batteries"
+States
+	{
+	Spawn:
+	BTRY A -1
+	Stop
+	Pickup:
+    TNT1 A 1 A_GiveInventory ("Batteries", 250)// how much battery it will give you once picked up.
+    Stop
+  }
+}
+
+ACTOR FlashlightActivator : Inventory
+{
+Inventory.Amount 1
+Inventory.MaxAmount 1
++IgnoreSkill //Don't forget to add this one;
+}
+
+ACTOR Flashlight : Weapon 14071
+{
+//$Category New Weapons
+Game Doom
+Tag "Flashlight"
+Height 8
+Radius 8
+Inventory.PickUpSound "weapons/flitpk"
+Inventory.PickupMessage "You have find a flashlight"
++WEAPON.NOAUTOFIRE
++NOALERT
++BLOODLESSIMPACT
+ConversationID 301
+States
+	{
+	Spawn:
+	FLIT A -1
+	Stop
+	Ready:
+	TNT1 A 0 A_JumpIfInventory("FlashlightActivator", 1, "FlashlightOn")
+	FLSH A 1 A_WeaponReady
+	Loop
+	FlashlightOn:
+	TNT1 A 0 A_JumpIfInventory("Batteries", 1, 1)//If you don't have any battery charge left it will go to the turn off state. If you have, it jumps one line and proceeds with the light beam.
+	Goto TurnItOff
+	FLSH B 1 BRIGHT A_WeaponReady
+	FLSH B 0 BRIGHT A_FireCustomMissile("FlashClose",0,0,0,0)
+	FLSH B 0 BRIGHT A_FireCustomMissile("FlashBeam",0,1,0,0)
+	TNT1 A 0 A_TakeInventory("Batteries", 1)
+	Goto Ready
+	Deselect:
+	FLSH A 0 A_Lower
+	FLSH A 0 A_Lower
+	FLSH A 2 A_Lower
+	Loop
+	Select:
+	FLSH A 0 A_Raise
+	FLSH A 0 A_Raise
+	FLSH A 1 A_Raise
+	Loop
+	Fire:
+    TNT1 A 0 A_JumpifInventory("FlashlightActivator", 1, "TurnItOff")
+    TNT1 A 0 A_GiveInventory("FlashlightActivator")
+    TNT1 A 0 A_PlaySound("weapons/fliton")
+    Goto Ready
+    TurnItOff:
+    TNT1 A 0 A_TakeInventory("FlashlightActivator")
+    TNT1 A 0 A_PlaySound("weapons/flitoff")
+    Goto Ready
+	}
+}
