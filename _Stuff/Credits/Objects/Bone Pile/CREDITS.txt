@@ -1,5 +1,0 @@
-Submitted: Captain Toenail
-Decorate: Captain Toenail
-Gldefs: None
-Sprites: ShadowCaster
-SpriteEdit: Captain Toenail, Gez

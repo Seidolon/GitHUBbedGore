@@ -1,5 +1,0 @@
-Decorate: Rhoq, Aerial
-GLDefs: Dreadopp
-Sounds: Id Software
-Sprites: The Skulltag Team
-Idea Base: Skulltag's Super Shotgun Zombie

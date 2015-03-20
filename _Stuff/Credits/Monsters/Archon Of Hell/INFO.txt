@@ -1,9 +1,0 @@
-Info
-
-Name: Archon of Hell
-Difficulty: Hard
-Connection: none
-Summon: ArchonOfHell 
-Melee: Yes
-Distance: Projectile
-Type: Demon

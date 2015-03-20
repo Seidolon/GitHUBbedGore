@@ -1,9 +1,0 @@
-Info
-
-Name: Poison Soul
-Difficulty: Easy
-Connection: none
-Summon: PoisonSoul
-Melee: Yes
-Distance: Projectile, Charge
-Type: Demon, Undead

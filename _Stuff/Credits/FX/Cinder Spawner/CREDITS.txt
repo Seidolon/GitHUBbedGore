@@ -1,2 +1,0 @@
-Decorate: Ghastly_dragon
-Sprites: SolarSnowfall

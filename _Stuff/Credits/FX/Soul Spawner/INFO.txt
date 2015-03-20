@@ -1,6 +1,0 @@
-Type: Souls of the Damned
-Summon: DamnedSoul, DamnedSoulSpawner
-
-Decorate: Captain Toenail
-Sprites: Exhumed
-Sounds: Doom3

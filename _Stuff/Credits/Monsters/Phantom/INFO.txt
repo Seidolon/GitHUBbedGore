@@ -1,7 +1,0 @@
-Name: Phantom
-Difficulty: Medium
-Connection: None
-Summon: Phantom 
-Melee: No
-Distance: Projectile, Summon
-Type: Demon, Undead

@@ -1,4 +1,0 @@
-Decorate: Eriance
-GLDefs: Keksdose
-Sounds: Eriance, Raven Software, 3d Realms
-Sprites: Eriance, 3d Realms

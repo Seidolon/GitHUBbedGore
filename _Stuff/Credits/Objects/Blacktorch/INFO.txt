@@ -1,8 +1,0 @@
-Information:
-Name: Black Torch
-Palette: PNG
-Summon: BlackTorch
-Ambient Sound: No
-De-/Activatable: No
-Destroyable: No
-Special Effects: No

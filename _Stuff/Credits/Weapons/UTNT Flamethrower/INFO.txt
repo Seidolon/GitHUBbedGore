@@ -1,9 +1,0 @@
-Name: UTNTFlamethrower
-Class: 7
-Type: Projectile
-Palette: Doom
-Summon: UTNTFlamethrower
-Ammotype: Gas (Custom)
-AltFire: No
-Powered Mode: No
-Added States: No

@@ -1,9 +1,0 @@
-Info
-
-Name: Profane One
-Difficulty: Hard
-Connection: None
-Summon: ProfaneOne
-Melee: Yes
-Distance: Projectile
-Type: Demon

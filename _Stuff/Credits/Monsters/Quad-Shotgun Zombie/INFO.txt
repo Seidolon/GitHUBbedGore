@@ -1,7 +1,0 @@
-Name: Quad-Shotgun Zombie
-Difficulty: Medium
-Connections: None
-Summon: QuadShotgunZombie
-Melee: No
-Distance: Hitscan
-Type: Human, Undead

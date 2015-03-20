@@ -1,5 +1,0 @@
-Decorate: Ozymandias81
-GLDEFs: No
-Sounds: 3d Realms
-Sprites: Midway
-Sprite Edit: Ozymandias81

@@ -1,9 +1,0 @@
-Information:
-Type: Fog Spawner
-Connections: None
-Spawn Offsets: Arguments
-Documentation: Yes
-Spawn Ceiling: No
-Variants: 0
-Summon: FogCloud_Generator
-ACS: No

@@ -1,7 +1,0 @@
-Name: Silenced Pistol
-Class: 2
-Type: Hitscan
-Palette: Doom
-Summon: Silencedpistol
-Ammo Type: Clip
-Powered Mode: No

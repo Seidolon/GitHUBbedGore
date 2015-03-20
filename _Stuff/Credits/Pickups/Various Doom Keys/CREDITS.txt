@@ -1,7 +1,0 @@
-Submitted: Disguise
-Decorate: Disguise
-GLDEFS: Disguise
-Sounds: None
-Sprites: Id Software
-Sprite Edit: Disguise
-Idea Base: Keys from KDIZD

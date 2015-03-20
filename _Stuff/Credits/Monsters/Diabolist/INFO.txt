@@ -1,7 +1,0 @@
-Name: Diabolist
-Difficulty: Very Hard
-Connection: none
-Summon: Diabloist
-Melee: No
-Distance: Projectile, Hitscan
-Type: Demon, Alien

@@ -1,7 +1,0 @@
-Name: Guardsphere
-Type: Protection
-Palette: Other
-Summon: GuardsphereST
-Use type: Instant
-Duration: 30 seconds
-Added States: No

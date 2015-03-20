@@ -1,5 +1,0 @@
-Decorate: Ghastly_dragon
-GLDefs: Ghastly_dragon
-Sounds: Id Software
-Sprites: Nmn (sprite set), Vader (projectile)
-Idea Base: Vore from Quake 1

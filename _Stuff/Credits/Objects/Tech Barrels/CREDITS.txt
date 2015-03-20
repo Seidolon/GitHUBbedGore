@@ -1,5 +1,0 @@
-Submitted: Captain Toenail
-Decorate: Captain Toenail
-Sprites: Doom, Duke3D
-SpriteEdit: Captain Toenail
-Sounds: Doom64

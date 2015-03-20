@@ -1,7 +1,0 @@
-Name: Chnesoth
-Difficulty: None
-Connection: None
-Summon: Chnesoth
-Melee: No
-Distance: No
-Type: Interactive NPC with dialogues

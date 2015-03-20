@@ -1,9 +1,0 @@
-Info
-
-Name: Suicide Bomber
-Difficulty: Easy
-Connection: none
-Summon: SuicideBomber 
-Melee: Yes
-Distance: None
-Type: Human, Undead

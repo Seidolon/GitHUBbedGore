@@ -1,7 +1,0 @@
-Credits
-
-Decorate: Ghastly_dragon
-GLDefs: Ghastly_dragon
-Sounds: Black Isle Studios, Blizzard Entertainment
-Sprites: Vader
-Sprite Edit: Ghastly_dragon, Mike12

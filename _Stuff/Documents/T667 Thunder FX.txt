@@ -1,3 +1,0 @@
-Place them on the map and deactivate them with the DORMANT flag, then activate
-them in certain intervals with some looping acs script.
-

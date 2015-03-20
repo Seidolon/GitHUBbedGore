@@ -1,6 +1,0 @@
-Submitted: Tormentor667
-Decorate: Nanami, Ghastly_dragon
-GLDEFs: Keksdose
-Sounds: Id Software
-Sprites: Id Software
-Sprite Edit: Espi, Ebola

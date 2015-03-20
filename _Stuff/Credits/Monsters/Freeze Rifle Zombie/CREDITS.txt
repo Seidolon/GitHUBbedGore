@@ -1,8 +1,0 @@
-Credits
-
-Submitted: Xim
-Decorate: Xim
-GLDEFs: Xim
-Sounds: Id Software, TheDarkArchon
-Sprites: Id Software
-Sprite Edit: Xim

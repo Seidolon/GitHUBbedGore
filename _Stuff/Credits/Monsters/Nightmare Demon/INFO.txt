@@ -1,9 +1,0 @@
-Info
-
-Name: Nightmare Demon
-Difficulty: Medium
-Connection: none
-Summon: NightmareDemon 
-Melee: Yes
-Distance: Projectile
-Type: Demon

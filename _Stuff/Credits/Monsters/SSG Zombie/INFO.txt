@@ -1,7 +1,0 @@
-Name: SSG Zombie
-Difficulty: Medium
-Connection: None
-Summon: SSGZombie
-Melee: No
-Distance: Hitscan
-Type: Human, Undead

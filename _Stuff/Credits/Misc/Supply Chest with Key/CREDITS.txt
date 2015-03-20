@@ -1,5 +1,0 @@
-Submitted: Blue Shadow
-Decorate: Blue Shadow
-Sounds: Raven Software
-Sprites: Raven Software, Blue Shadow
-Sprite Edit: Blue Shadow
